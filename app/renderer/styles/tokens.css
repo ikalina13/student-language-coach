@@ -1,0 +1,61 @@
+/* Fonts are bundled so the app works offline. */
+@font-face { font-family: 'Bitter'; src: url('../fonts/bitter-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Bitter'; src: url('../fonts/bitter-latin-600-normal.woff2') format('woff2'); font-weight: 600; }
+@font-face { font-family: 'Bitter'; src: url('../fonts/bitter-latin-700-normal.woff2') format('woff2'); font-weight: 700; }
+@font-face { font-family: 'Atkinson'; src: url('../fonts/atkinson-hyperlegible-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Atkinson'; src: url('../fonts/atkinson-hyperlegible-latin-400-italic.woff2') format('woff2'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Atkinson'; src: url('../fonts/atkinson-hyperlegible-latin-700-normal.woff2') format('woff2'); font-weight: 700; }
+
+:root {
+  --font-display: 'Bitter', Georgia, serif;
+  --font-body: 'Atkinson', 'Segoe UI', system-ui, sans-serif;
+
+  /* Light mode: notebook paper */
+  --bg: #f4f7fc;
+  --surface: #ffffff;
+  --surface-2: #eef3fa;
+  --ink: #13294b;
+  --ink-soft: #4d5f7c;
+  --line: #d9e2ef;
+  --rule: #cfdcf0;       /* ruled lines on word cards */
+  --margin: #e06b6b;     /* the red margin line on pad paper */
+  --good: #1f8a4c;
+  --bad: #c0392b;
+  --lvl-beginner: #2f9e57;
+  --lvl-intermediate: #d4a017;
+  --lvl-advanced: #2563c9;
+  --shadow: 0 1px 0 rgba(19, 41, 75, .06), 0 6px 18px -10px rgba(19, 41, 75, .25);
+
+  --radius-s: 6px;
+  --radius-m: 10px;
+
+  /* Accent: blue (default) */
+  --accent: #1f5fbf;
+  --accent-strong: #184c99;
+  --accent-soft: #e3edfb;
+  --on-accent: #ffffff;
+}
+
+[data-accent="red"]    { --accent: #c23a3a; --accent-strong: #9e2c2c; --accent-soft: #fbe6e6; }
+[data-accent="green"]  { --accent: #1e7d4f; --accent-strong: #16613d; --accent-soft: #e1f2e8; }
+[data-accent="purple"] { --accent: #6a46b8; --accent-strong: #553893; --accent-soft: #eee8fa; }
+[data-accent="orange"] { --accent: #c4600f; --accent-strong: #9c4c0b; --accent-soft: #fbebdc; }
+
+[data-mode="dark"] {
+  --bg: #0e1626;
+  --surface: #16213a;
+  --surface-2: #1c2945;
+  --ink: #e7edf8;
+  --ink-soft: #9fb0cc;
+  --line: #27365a;
+  --rule: #24345a;
+  --margin: #b45454;
+  --good: #4cc282;
+  --bad: #f07a6c;
+  --shadow: 0 1px 0 rgba(0, 0, 0, .3), 0 8px 20px -12px rgba(0, 0, 0, .7);
+  --accent: #6aa1f2; --accent-strong: #8db7f6; --accent-soft: #1d3054; --on-accent: #0e1626;
+}
+[data-mode="dark"][data-accent="red"]    { --accent: #f08a8a; --accent-strong: #f5a9a9; --accent-soft: #432126; }
+[data-mode="dark"][data-accent="green"]  { --accent: #5fcf95; --accent-strong: #86dcb0; --accent-soft: #173a2c; }
+[data-mode="dark"][data-accent="purple"] { --accent: #b39af0; --accent-strong: #c8b6f5; --accent-soft: #2e2550; }
+[data-mode="dark"][data-accent="orange"] { --accent: #f2a35c; --accent-strong: #f6bc87; --accent-soft: #42301d; }
