@@ -1,0 +1,27 @@
+appId: ph.salita.app
+productName: Salita
+copyright: Salita
+directories:
+  output: dist
+  buildResources: build
+files:
+  - app/**/*
+  - build/icon.png
+  - package.json
+  - "!**/*.map"
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+  icon: build/icon.png
+  artifactName: Salita-Setup.${ext}
+nsis:
+  oneClick: true
+  perMachine: false
+  createDesktopShortcut: always
+  createStartMenuShortcut: true
+  shortcutName: Salita
+  deleteAppDataOnUninstall: false
+publish:
+  provider: github
+  releaseType: release

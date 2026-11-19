@@ -1,0 +1,27 @@
+# Builds the Windows installer and attaches it to a GitHub Release.
+# Trigger: push a version tag, e.g.  git tag v1.0.0 && git push origin v1.0.0
+name: Release Windows app
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Build installer and publish release
+        run: npx electron-builder --win --x64 --publish always
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
