@@ -9,7 +9,8 @@ function createStore(baseDir) {
     fs.mkdirSync(full('progress'), { recursive: true });
   }
 
-  function readJSON(rel, fallback) {
+  // valid(data) → false means the file has the wrong shape (e.g. hand-edited); treat it as damaged.
+  function readJSON(rel, fallback, valid = () => true) {
     const file = full(rel);
     let text;
     try {
@@ -17,13 +18,20 @@ function createStore(baseDir) {
     } catch {
       return fallback;
     }
+    let data;
     try {
-      return JSON.parse(text);
+      data = JSON.parse(text.replace(/^\uFEFF/, '')); // Notepad may add a BOM
     } catch {
-      // Keep the damaged file for inspection and start fresh.
-      fs.renameSync(file, file + '.bak');
+      data = undefined;
+    }
+    if (data === undefined || !valid(data)) {
+      // Keep the damaged file (never overwrite an older backup) and start fresh.
+      let bak = `${file}.${Date.now()}.bak`;
+      for (let n = 1; fs.existsSync(bak); n++) bak = `${file}.${Date.now()}-${n}.bak`;
+      fs.renameSync(file, bak);
       return fallback;
     }
+    return data;
   }
 
   function writeJSON(rel, data) {

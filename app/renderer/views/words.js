@@ -12,7 +12,7 @@ export function wordCard(w, ctx, { big = false } = {}) {
     h('div.fil', w.filipino),
     h('div.ex', w.example),
     h('div.actions',
-      canSpeak() && h('button.icon-btn', { type: 'button', onclick: () => speak(w.word), title: `Listen to "${w.word}"` }, icon('sound'), 'Listen'),
+      h('button.icon-btn.speak', { hidden: !canSpeak(),  type: 'button', onclick: () => speak(w.word), title: `Listen to "${w.word}"` }, icon('sound'), 'Listen'),
       learnBtn));
 
   learnBtn.addEventListener('click', async () => {

@@ -70,3 +70,16 @@ test('suggestedLevel maps grades to levels', () => {
   assert.strictEqual(suggestedLevel(7), 'intermediate');
   assert.strictEqual(suggestedLevel(10), 'advanced');
 });
+
+test('users.json with the wrong shape does not crash and accounts can be made', () => {
+  const { dir, auth } = fresh();
+  fs.writeFileSync(path.join(dir, 'users.json'), '{}');
+  assert.deepStrictEqual(auth.listUsers(), []);
+  assert.strictEqual(auth.register(ana).ok, true);
+});
+
+test('users.json set to null does not crash login', () => {
+  const { dir, auth } = fresh();
+  fs.writeFileSync(path.join(dir, 'users.json'), 'null');
+  assert.strictEqual(auth.login('ana', 'pass1').ok, false);
+});

@@ -5,6 +5,8 @@ function pick() {
   const voices = window.speechSynthesis ? speechSynthesis.getVoices() : [];
   voice = voices.find((v) => /en[-_](US|GB|PH)/i.test(v.lang) && v.localService)
     || voices.find((v) => /^en/i.test(v.lang)) || null;
+  // Windows often loads voices after the first screen is drawn: reveal Listen buttons then.
+  if (voice) document.querySelectorAll('.speak[hidden]').forEach((b) => { b.hidden = false; });
 }
 
 if (window.speechSynthesis) {

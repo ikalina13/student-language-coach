@@ -60,7 +60,13 @@ Everything is saved as small files on the student's computer, in
 
 The folder is created automatically the first time Salita runs on a new computer, so there's nothing to set up. Uninstalling Salita keeps this folder, so progress isn't lost.
 
-**Forgot a password?** There's no reset (there's no internet account to reset). To remove that account, open `users.json` in Notepad, delete that student's `{ … }` entry, and delete their file in `progress\`. They can then create the account again.
+**Forgot a password?** There's no reset (there's no internet account to reset). To remove that account:
+
+1. Close Salita and make a copy of `users.json` first, just in case.
+2. Open `users.json` in Notepad. Delete that student's whole `{ … }` block, including the comma before or after it, so the commas between the remaining blocks stay correct.
+3. Delete their file in `progress\`. They can now create the account again.
+
+If the file gets damaged by mistake, Salita won't crash. It renames the damaged file to `users.json.<number>.bak` and starts with no accounts. To undo, close Salita, delete the new `users.json`, and rename your copy (or the `.bak` file, once fixed) back to `users.json`.
 
 **Moving to a different computer?** Progress stays on the original PC. Export the PDF report from **My Progress** before switching.
 

@@ -14,12 +14,12 @@ export function dictionaryView(el, ctx) {
   function draw() {
     const found = searchWords(ctx.content.words, { query: q.value, category: cat.value, level: lvl.value });
     count.textContent = found.length === 1 ? '1 word' : `${found.length} words`;
-    list.replaceChildren(...(found.length ? found.slice(0, 200).map((w) => h('li',
+    list.replaceChildren(...(found.length ? found.map((w) => h('li',
       h('div.entry',
         h('div', h('b.dword', w.word), ' ', h('span.muted', w.pronunciation)),
         h('div', h('span.fil', w.filipino), h('span.muted', ` — ${w.example}`))),
       h('div.meta', levelTag(w.level, labelOf(LEVELS, w.level)), h('span.muted.small', labelOf(CATEGORIES, w.category)),
-        canSpeak() && h('button.icon-btn', { type: 'button', title: `Listen to "${w.word}"`, onclick: () => speak(w.word) }, icon('sound'))))) :
+        h('button.icon-btn.speak', { hidden: !canSpeak(),  type: 'button', title: `Listen to "${w.word}"`, onclick: () => speak(w.word) }, icon('sound'))))) :
       [h('li.empty-state', `No words match “${q.value.trim()}”. Try a shorter word or another category.`)]));
   }
   [q, cat, lvl].forEach((x) => x.addEventListener('input', draw));

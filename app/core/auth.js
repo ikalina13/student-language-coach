@@ -26,7 +26,8 @@ function publicUser(u) {
 }
 
 function createAuth(store) {
-  const load = () => store.readJSON('users.json', []);
+  const isUser = (u) => u && typeof u.username === 'string' && typeof u.salt === 'string' && typeof u.hash === 'string';
+  const load = () => store.readJSON('users.json', [], (d) => Array.isArray(d) && d.every(isUser));
   const save = (users) => store.writeJSON('users.json', users);
   const find = (users, name) => users.find((u) => u.username === String(name || '').toLowerCase());
 

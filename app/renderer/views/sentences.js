@@ -43,7 +43,7 @@ export function sentencesView(el, ctx) {
         h('p.sentence-text', before, blank, after),
         h('div.sentence-tools',
           h('button.icon-btn', { type: 'button', onclick: () => { translation.hidden = !translation.hidden; } }, 'Show Filipino'),
-          canSpeak() && h('button.icon-btn', { type: 'button', onclick: () => speak(s.en) }, icon('sound'), 'Listen')),
+          h('button.icon-btn.speak', { hidden: !canSpeak(),  type: 'button', onclick: () => speak(s.en) }, icon('sound'), 'Listen')),
         translation,
         h('div.options', buttons), feedback,
         h('div.q-next', nextBtn, h('button.btn.ghost', { type: 'button', onclick: () => { index++; draw(); } }, 'Skip'))));

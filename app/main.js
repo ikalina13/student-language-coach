@@ -127,7 +127,11 @@ async function captureShots(w, spec) {
     const [hash, file, js] = pair.split('=');
     await w.webContents.executeJavaScript(`location.hash = ${JSON.stringify(hash)}`);
     await sleep(700);
-    if (js) { await w.webContents.executeJavaScript(decodeURIComponent(js)); await sleep(500); }
+    if (js) {
+      const out = await w.webContents.executeJavaScript(`(() => { try { ${decodeURIComponent(js)}; return "ok"; } catch (e) { return String(e); } })()`);
+      if (out !== "ok") console.error("shot script:", out);
+      await sleep(500);
+    }
     const img = await w.webContents.capturePage();
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, img.toPNG());

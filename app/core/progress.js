@@ -15,8 +15,16 @@ function createProgress(store, username) {
 
   function get() {
     const d = defaults();
-    const saved = store.readJSON(file, {});
-    return { ...d, ...saved, settings: { ...d.settings, ...(saved.settings || {}) } };
+    const saved = store.readJSON(file, {}, (x) => x !== null && typeof x === 'object' && !Array.isArray(x));
+    const list = (k) => (Array.isArray(saved[k]) ? saved[k] : d[k]);
+    const settings = saved.settings && typeof saved.settings === 'object' ? saved.settings : {};
+    return {
+      learnedWords: list('learnedWords'),
+      completedStories: list('completedStories'),
+      sentencesDone: list('sentencesDone'),
+      quizzes: list('quizzes').filter((q) => q && typeof q === 'object'),
+      settings: { ...d.settings, ...settings },
+    };
   }
   const save = (p) => store.writeJSON(file, p);
 

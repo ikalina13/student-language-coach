@@ -82,3 +82,20 @@ test('computeStats with no quizzes has zero scores', () => {
   assert.strictEqual(s.averageScore, 0);
   assert.strictEqual(s.bestScore, 0);
 });
+
+test('progress file set to null gives defaults', () => {
+  const s = store();
+  s.writeJSON('progress/ana.json', null);
+  assert.deepStrictEqual(createProgress(s, 'ana').get().learnedWords, []);
+});
+
+test('hand-edited fields with the wrong type are reset', () => {
+  const s = store();
+  s.writeJSON('progress/ana.json', { learnedWords: {}, quizzes: 'x', settings: 5, completedStories: ['s1'] });
+  const p = createProgress(s, 'ana');
+  assert.deepStrictEqual(p.get().learnedWords, []);
+  assert.deepStrictEqual(p.get().quizzes, []);
+  assert.deepStrictEqual(p.get().completedStories, ['s1']);
+  assert.strictEqual(p.get().settings.mode, 'light');
+  assert.strictEqual(p.toggleLearned('w1'), true);
+});
