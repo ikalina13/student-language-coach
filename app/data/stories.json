@@ -1,0 +1,265 @@
+[
+  {
+    "id": "b1",
+    "level": "beginner",
+    "title": "Mia and the Sari-Sari Store",
+    "body": [
+      "Mia is nine years old. Every Saturday, she helps her Tita Lorna at the small sari-sari store in front of their house.",
+      "In the morning, Mia puts bread, eggs, and candies on the shelf. She counts the coins carefully. Tita Lorna says, \"You are very good with numbers!\"",
+      "One day, a little boy comes to the window. He has only five pesos. He wants a pack of crackers, but it costs seven pesos. The boy looks sad.",
+      "Mia remembers the small pandesal in the basket. It costs five pesos. She gives it to the boy, and he smiles. \"Salamat po, Ate!\" he says.",
+      "Mia feels happy. Helping people makes her day bright."
+    ],
+    "questions": [
+      {
+        "q": "Where is the sari-sari store?",
+        "options": ["Near the school", "In front of Mia's house", "Inside the market", "Beside the church"],
+        "answer": 1
+      },
+      {
+        "q": "Why does the little boy look sad?",
+        "options": ["He lost his coins", "The store is closed", "He does not have enough money for the crackers", "He does not like bread"],
+        "answer": 2
+      },
+      {
+        "q": "What does Mia give the boy?",
+        "options": ["A small pandesal", "A pack of crackers", "Some candies", "An egg"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "b2",
+    "level": "beginner",
+    "title": "Helping Lola in the Garden",
+    "body": [
+      "Paolo visits his Lola every Sunday. Lola lives in a small house with a big garden.",
+      "Today, Lola asks, \"Can you help me water the plants, apo?\" Paolo nods and picks up the green watering can.",
+      "He waters the tomatoes, the eggplants, and the tall malunggay tree. Lola shows him how to pull out the weeds. Paolo's hands get dirty, but he does not mind.",
+      "After work, Lola cooks tinola with fresh malunggay leaves from the garden. The soup is warm and tasty.",
+      "\"Thank you for your help,\" Lola says. \"Next week, we will plant new seeds together.\" Paolo cannot wait for next Sunday."
+    ],
+    "questions": [
+      {
+        "q": "When does Paolo visit his Lola?",
+        "options": ["Every Saturday", "Every Monday", "Every Friday", "Every Sunday"],
+        "answer": 3
+      },
+      {
+        "q": "What does Lola cook after their work?",
+        "options": ["Adobo", "Tinola", "Sinigang", "Pancit"],
+        "answer": 1
+      },
+      {
+        "q": "What will Paolo and Lola do next week?",
+        "options": ["Plant new seeds", "Go to the market", "Paint the house", "Visit the beach"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "b3",
+    "level": "beginner",
+    "title": "The Rainy Day",
+    "body": [
+      "It is June, and the rainy season has started. Ana wakes up and hears the rain on the roof.",
+      "\"Ma, is there school today?\" she asks. Her mother listens to the radio. \"No, Ana. Classes are suspended because of the strong rain.\"",
+      "Ana looks out the window. The street is full of water. Her little brother, Jun, wants to play outside, but Mama says it is not safe.",
+      "So Ana and Jun stay inside. They draw pictures and play a card game. Mama makes hot champorado for them.",
+      "In the afternoon, the rain stops. Ana sees a rainbow over the barangay hall. \"Look, Jun!\" she says. They both smile."
+    ],
+    "questions": [
+      {
+        "q": "How does Ana's mother learn that there are no classes?",
+        "options": ["From the teacher", "From a neighbor", "From the radio", "From a letter"],
+        "answer": 2
+      },
+      {
+        "q": "Why can't Jun play outside?",
+        "options": ["He is sick", "It is not safe because of the rain and flood", "He has homework", "It is too dark"],
+        "answer": 1
+      },
+      {
+        "q": "What does Ana see in the afternoon?",
+        "options": ["A big boat", "A jeepney", "The moon", "A rainbow"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "i1",
+    "level": "intermediate",
+    "title": "The Jeepney Ride",
+    "body": [
+      "Every morning, Carlo rides a jeepney to school. He usually sits near the driver so he can pass the fare forward for other passengers. \"Bayad po,\" people say as they hand him their coins, and Carlo passes them along politely.",
+      "One Tuesday, the jeepney was crowded. A woman carrying a basket of vegetables climbed in, but there was no seat left. Carlo noticed that she looked tired, so he stood up and offered her his place. He held on to the metal bar for the rest of the ride.",
+      "When the woman got off near the market, she dropped a small coin purse without noticing. Carlo picked it up and quickly called out, \"Ma'am, your purse!\" The driver stopped for a moment, and Carlo handed it back through the window.",
+      "The woman thanked him warmly. \"Your parents raised you well,\" she said.",
+      "Carlo arrived at school a little late, but his teacher understood when the driver, who also knew her, explained what had happened. That afternoon, Carlo realized that small acts of kindness can make an ordinary ride feel special."
+    ],
+    "questions": [
+      {
+        "q": "Why does Carlo usually sit near the driver?",
+        "options": ["So he can see the road better", "So he can pass the fare forward for other passengers", "Because it is the coolest seat", "Because his friend sits there"],
+        "answer": 1
+      },
+      {
+        "q": "What did Carlo do when the tired woman got on the crowded jeepney?",
+        "options": ["He gave her his seat", "He helped her carry vegetables to the market", "He paid her fare", "He asked the driver to stop"],
+        "answer": 0
+      },
+      {
+        "q": "What lesson did Carlo learn from the ride?",
+        "options": ["It is better to walk to school", "Jeepneys are always crowded", "Small acts of kindness can make an ordinary day special", "He should leave home earlier"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "i2",
+    "level": "intermediate",
+    "title": "Fiesta in Barangay San Isidro",
+    "body": [
+      "The whole barangay was busy getting ready for the fiesta. Colorful banderitas hung across the streets, and the smell of lechon and pancit filled the air. Bea and her cousins were in charge of decorating the basketball court for the evening program.",
+      "Bea had an idea. Instead of buying plastic decorations, they could make parol-style lanterns from old newspapers and bamboo sticks. Her cousin Mark was not sure. \"Will they look nice?\" he asked. \"Let's try,\" Bea answered.",
+      "For three afternoons, the children cut, folded, and painted. Lolo Ben showed them how to tie the bamboo frames tightly with string. Some lanterns came out crooked at first, but they kept practicing until each one was neat and bright.",
+      "On the night of the fiesta, the court glowed with dozens of handmade lanterns. Neighbors stopped to take pictures, and the barangay captain thanked the children during the program. He said their work showed that beautiful things do not have to be expensive.",
+      "Mark grinned at Bea. \"You were right,\" he said. \"Next year, let's make even more.\""
+    ],
+    "questions": [
+      {
+        "q": "What were Bea and her cousins in charge of?",
+        "options": ["Cooking the lechon", "Leading the parade", "Selling food at the fiesta", "Decorating the basketball court"],
+        "answer": 3
+      },
+      {
+        "q": "How did Lolo Ben help the children?",
+        "options": ["He bought plastic decorations", "He showed them how to tie the bamboo frames", "He painted all the lanterns", "He hung the banderitas"],
+        "answer": 1
+      },
+      {
+        "q": "What did the barangay captain say about the children's work?",
+        "options": ["It took too long to finish", "It should be sold at the market", "It showed that beautiful things do not have to be expensive", "It was better than last year's parade"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "i3",
+    "level": "intermediate",
+    "title": "The Science Fair Project",
+    "body": [
+      "Liza and her partner, Jomar, wanted to win the school science fair. Their town often lost electricity during storms, so they decided to build a simple lamp powered by salt water.",
+      "They collected materials from home: plastic bottles, copper wire, small metal plates, and an LED bulb. Liza's father, an electrician, reminded them to work carefully and always ask an adult before testing anything.",
+      "Their first test failed. The bulb did not light up at all. Jomar was ready to give up. \"Maybe we should just make a volcano,\" he joked. But Liza checked their notes and discovered that two wires were connected the wrong way.",
+      "After fixing the wires, they tried again. This time, the little bulb glowed. The two friends cheered so loudly that Liza's younger sister came running to see what had happened.",
+      "On the day of the fair, the judges asked many questions. Liza explained how salt water helps electricity flow, and Jomar showed how families could use the lamp during brownouts.",
+      "They did not win first place, but they received a special award for the most helpful project. Their science teacher told them that the best experiments solve real problems in the community."
+    ],
+    "questions": [
+      {
+        "q": "Why did Liza and Jomar decide to build a salt-water lamp?",
+        "options": ["Their town often lost electricity during storms", "Their teacher told them to", "It was the cheapest project", "They wanted to sell lamps"],
+        "answer": 0
+      },
+      {
+        "q": "What was wrong during their first test?",
+        "options": ["The bottle was broken", "They used too much salt", "Two wires were connected the wrong way", "The LED bulb was missing"],
+        "answer": 2
+      },
+      {
+        "q": "What award did they receive?",
+        "options": ["First place", "Best poster", "Most creative design", "A special award for the most helpful project"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a1",
+    "level": "advanced",
+    "title": "Before the Storm",
+    "body": [
+      "When the weather bureau raised Signal No. 3 over their province, Gabriel's family had already started preparing. His mother had a checklist taped to the refrigerator: drinking water, canned goods, flashlights, extra batteries, a first-aid kit, and copies of important documents sealed in plastic bags.",
+      "Gabriel, who was fifteen, was assigned to help the barangay volunteers. Together with other young people from the youth council, he went from house to house, reminding families living near the river to move to the evacuation center at the elementary school. Some residents were hesitant to leave their homes and belongings behind, worried that their things might be stolen or ruined.",
+      "One elderly man, Mang Tonyo, refused at first. He had lived beside the river for fifty years and insisted that the water had never reached his door. Gabriel listened patiently instead of arguing. Then he gently explained that this typhoon was expected to bring much heavier rainfall than usual, and that the volunteers would help him carry his most valuable things.",
+      "After a long pause, Mang Tonyo agreed. By midnight, the river had swollen dangerously, and floodwater covered the street where his house stood.",
+      "Days later, when the skies finally cleared, Mang Tonyo found Gabriel helping to clean the muddy classrooms. He shook the young man's hand firmly. \"You may have saved my life,\" he said quietly. Gabriel realized that preparation and patience had mattered just as much as courage."
+    ],
+    "questions": [
+      {
+        "q": "What was Gabriel's role during the typhoon preparations?",
+        "options": ["He helped his mother cook food", "He helped barangay volunteers warn families near the river", "He reported the weather on the radio", "He guarded the evacuation center at night"],
+        "answer": 1
+      },
+      {
+        "q": "Why did Mang Tonyo refuse to leave at first?",
+        "options": ["He believed the water had never reached his door before", "He did not trust the volunteers", "He was too sick to walk", "The evacuation center was full"],
+        "answer": 0
+      },
+      {
+        "q": "Which statement best expresses the main idea of the story?",
+        "options": ["Typhoons always destroy homes near rivers", "Young people should not join volunteer groups", "Elderly people should live in the city", "Preparation and patience can be as important as courage"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a2",
+    "level": "advanced",
+    "title": "The Market Before Dawn",
+    "body": [
+      "At four o'clock in the morning, while most of the town was still asleep, Rina was already helping her mother set up their vegetable stall at the public market. The air smelled of wet concrete, fresh fish, and brewing coffee. Vendors called out greetings to one another as trucks unloaded crates of cabbages, squash, and string beans from the mountain farms.",
+      "Rina had always found the early hours exhausting. Her classmates often talked about sleeping late on weekends, and she sometimes felt a little envious. However, this particular Saturday, something changed her perspective.",
+      "A young farmer named Kuya Dodong arrived with a delivery of tomatoes. While unloading, he mentioned that he had traveled for three hours on rough mountain roads, leaving his village at midnight so that his harvest would reach the market fresh. A sudden landslide the previous month had nearly destroyed his crops, and he was still recovering from the loss.",
+      "Rina listened carefully. She began to realize that every vegetable on their table represented someone's labor, risk, and hope. Her mother's stall was not just a business; it was one small link in a long chain connecting farmers, drivers, vendors, and families who depended on one another.",
+      "That afternoon, Rina wrote an essay for her English class titled \"The People Behind Our Food.\" Her teacher was so impressed that she asked Rina to read it aloud during the school's Nutrition Month program, where it reminded everyone to value the work behind each meal."
+    ],
+    "questions": [
+      {
+        "q": "How did Rina feel about waking up early before that Saturday?",
+        "options": ["She enjoyed it very much", "She found it exhausting and sometimes envied her classmates", "She did not notice the time", "She was proud to be the first at the market"],
+        "answer": 1
+      },
+      {
+        "q": "What did Kuya Dodong's story help Rina understand?",
+        "options": ["That tomatoes are the most expensive vegetable", "That landslides happen only in the mountains", "That every vegetable represents someone's labor, risk, and hope", "That her mother should close the stall"],
+        "answer": 2
+      },
+      {
+        "q": "In the story, the word \"perspective\" most nearly means",
+        "options": ["way of thinking about something", "physical strength", "daily schedule", "type of business"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a3",
+    "level": "advanced",
+    "title": "The Debate",
+    "body": [
+      "Joaquin had never enjoyed speaking in front of large groups. So when his Grade 10 adviser chose him to represent their section in the inter-school debate, his first instinct was to politely decline. The topic was whether students should be required to perform community service before graduating from high school.",
+      "His older sister, Celine, encouraged him to accept. \"You already think carefully before you speak,\" she said. \"That is half of what a good debater needs.\" Reluctantly, Joaquin agreed.",
+      "For two weeks, he researched the topic thoroughly. He interviewed the barangay health worker, a retired teacher who organized coastal cleanups, and several classmates who had volunteered at a local day care center. He discovered that many students learned practical skills and gained confidence through service, but he also learned that some families depended on their children's help at home after school, making extra requirements difficult.",
+      "Joaquin was assigned to argue in favor of required service. Instead of ignoring the challenges, he proposed flexible options, such as counting family caregiving or weekend projects as valid service hours. He supported every point with evidence from his interviews.",
+      "On the day of the debate, his hands trembled as he approached the podium. Nevertheless, once he began speaking, his preparation carried him forward. The judges praised his balanced reasoning and respectful tone toward the opposing team.",
+      "Although his team placed second, Joaquin felt proud. He had learned that confidence often grows not before we act, but while we are acting."
+    ],
+    "questions": [
+      {
+        "q": "Why did Joaquin first want to decline the debate assignment?",
+        "options": ["He disagreed with the topic", "He was too busy with sports", "He did not enjoy speaking in front of large groups", "His sister told him not to join"],
+        "answer": 2
+      },
+      {
+        "q": "How did Joaquin address the challenges of required community service?",
+        "options": ["He ignored them completely", "He proposed flexible options like counting family caregiving", "He changed sides in the middle of the debate", "He argued that only rich students should serve"],
+        "answer": 1
+      },
+      {
+        "q": "What lesson did Joaquin learn by the end of the story?",
+        "options": ["Winning first place is all that matters", "Debates are too stressful for students", "Research is not important in a debate", "Confidence often grows while we are acting"],
+        "answer": 3
+      }
+    ]
+  }
+]

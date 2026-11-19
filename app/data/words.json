@@ -1,0 +1,6914 @@
+[
+ {
+  "id": "school-b-001",
+  "word": "teacher",
+  "pronunciation": "TEE-cher",
+  "filipino": "guro",
+  "example": "Our teacher greets us every morning.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-002",
+  "word": "student",
+  "pronunciation": "STOO-dent",
+  "filipino": "mag-aaral",
+  "example": "Every student wears a clean uniform.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-003",
+  "word": "pencil",
+  "pronunciation": "PEN-sil",
+  "filipino": "lapis",
+  "example": "I write my name with a pencil.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-004",
+  "word": "paper",
+  "pronunciation": "PAY-per",
+  "filipino": "papel",
+  "example": "Please pass the paper to Ana.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-005",
+  "word": "book",
+  "pronunciation": "BUK",
+  "filipino": "aklat",
+  "example": "My English book is in my bag.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-006",
+  "word": "notebook",
+  "pronunciation": "NOHT-buk",
+  "filipino": "kuwaderno",
+  "example": "I copy the lesson in my notebook.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-007",
+  "word": "eraser",
+  "pronunciation": "ee-RAY-ser",
+  "filipino": "pambura",
+  "example": "Can I borrow your eraser, please?",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-008",
+  "word": "ruler",
+  "pronunciation": "ROO-ler",
+  "filipino": "panukat",
+  "example": "Draw a straight line with your ruler.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-009",
+  "word": "chair",
+  "pronunciation": "CHAIR",
+  "filipino": "upuan",
+  "example": "Please sit on your chair quietly.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-010",
+  "word": "desk",
+  "pronunciation": "DESK",
+  "filipino": "mesa",
+  "example": "My books are on my desk.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-011",
+  "word": "classroom",
+  "pronunciation": "KLAS-room",
+  "filipino": "silid-aralan",
+  "example": "We sweep our classroom after class.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-012",
+  "word": "blackboard",
+  "pronunciation": "BLAK-bord",
+  "filipino": "pisara",
+  "example": "The teacher writes on the blackboard.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-013",
+  "word": "chalk",
+  "pronunciation": "CHAWK",
+  "filipino": "tisa",
+  "example": "The white chalk is very short now.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-014",
+  "word": "crayon",
+  "pronunciation": "KRAY-on",
+  "filipino": "krayola",
+  "example": "I color the jeepney with a red crayon.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-015",
+  "word": "lesson",
+  "pronunciation": "LES-un",
+  "filipino": "aralin",
+  "example": "Today our lesson is about plants.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-016",
+  "word": "test",
+  "pronunciation": "TEST",
+  "filipino": "pagsusulit",
+  "example": "We have a math test on Friday.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-017",
+  "word": "homework",
+  "pronunciation": "HOHM-werk",
+  "filipino": "takdang-aralin",
+  "example": "I finish my homework before dinner.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-018",
+  "word": "library",
+  "pronunciation": "LAI-brer-ee",
+  "filipino": "aklatan",
+  "example": "We read quietly in the library.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-019",
+  "word": "classmate",
+  "pronunciation": "KLAS-mayt",
+  "filipino": "kaklase",
+  "example": "My classmate shares her snack with me.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-020",
+  "word": "principal",
+  "pronunciation": "PRIN-si-pul",
+  "filipino": "punong-guro",
+  "example": "The principal talks to us at the flag ceremony.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-021",
+  "word": "story",
+  "pronunciation": "STOR-ee",
+  "filipino": "kuwento",
+  "example": "Lola tells us a story every night.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-022",
+  "word": "word",
+  "pronunciation": "WERD",
+  "filipino": "salita",
+  "example": "Spell this word on the board.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-023",
+  "word": "letter",
+  "pronunciation": "LET-er",
+  "filipino": "titik",
+  "example": "The first letter of my name is J.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-024",
+  "word": "number",
+  "pronunciation": "NUM-ber",
+  "filipino": "bilang",
+  "example": "Write the number ten on your paper.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-025",
+  "word": "question",
+  "pronunciation": "KWES-chun",
+  "filipino": "tanong",
+  "example": "Raise your hand if you have a question.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-026",
+  "word": "answer",
+  "pronunciation": "AN-ser",
+  "filipino": "sagot",
+  "example": "Ben knows the answer to the question.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-027",
+  "word": "uniform",
+  "pronunciation": "YOO-ni-form",
+  "filipino": "uniporme",
+  "example": "Mama irons my school uniform every Sunday.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-028",
+  "word": "scissors",
+  "pronunciation": "SIZ-erz",
+  "filipino": "gunting",
+  "example": "Use the scissors carefully in class.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-029",
+  "word": "glue",
+  "pronunciation": "GLOO",
+  "filipino": "pandikit",
+  "example": "Put glue on the back of the picture.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-030",
+  "word": "map",
+  "pronunciation": "MAP",
+  "filipino": "mapa",
+  "example": "Find Cebu on the map.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-031",
+  "word": "computer",
+  "pronunciation": "kum-PYOO-ter",
+  "filipino": "kompyuter",
+  "example": "Our school has a new computer room.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "school-b-032",
+  "word": "picture",
+  "pronunciation": "PIK-cher",
+  "filipino": "larawan",
+  "example": "I drew a picture of our barangay.",
+  "category": "school",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-001",
+  "word": "mother",
+  "pronunciation": "MUH-ther",
+  "filipino": "nanay",
+  "example": "My mother cooks rice every morning.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-002",
+  "word": "father",
+  "pronunciation": "FAH-ther",
+  "filipino": "tatay",
+  "example": "My father drives a jeepney.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-003",
+  "word": "brother",
+  "pronunciation": "BRUH-ther",
+  "filipino": "kapatid na lalaki",
+  "example": "My brother plays basketball after school.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-004",
+  "word": "sister",
+  "pronunciation": "SIS-ter",
+  "filipino": "kapatid na babae",
+  "example": "My sister helps me with my homework.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-005",
+  "word": "baby",
+  "pronunciation": "BAY-bee",
+  "filipino": "sanggol",
+  "example": "The baby is sleeping in the duyan.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-006",
+  "word": "grandmother",
+  "pronunciation": "GRAND-muh-ther",
+  "filipino": "lola",
+  "example": "My grandmother makes the best turon.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-007",
+  "word": "grandfather",
+  "pronunciation": "GRAND-fah-ther",
+  "filipino": "lolo",
+  "example": "My grandfather feeds the chickens every morning.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-008",
+  "word": "aunt",
+  "pronunciation": "ANT",
+  "filipino": "tiya",
+  "example": "My aunt lives in Davao.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-009",
+  "word": "uncle",
+  "pronunciation": "UNG-kul",
+  "filipino": "tiyo",
+  "example": "My uncle is a fisherman in Bohol.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-010",
+  "word": "cousin",
+  "pronunciation": "KUH-zin",
+  "filipino": "pinsan",
+  "example": "My cousin visits us during the fiesta.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-011",
+  "word": "son",
+  "pronunciation": "SUN",
+  "filipino": "anak na lalaki",
+  "example": "Mang Jose is proud of his son.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-012",
+  "word": "daughter",
+  "pronunciation": "DAW-ter",
+  "filipino": "anak na babae",
+  "example": "Aling Rosa has one daughter.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-013",
+  "word": "parent",
+  "pronunciation": "PAIR-ent",
+  "filipino": "magulang",
+  "example": "Each parent came to the school meeting.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-014",
+  "word": "child",
+  "pronunciation": "CHAILD",
+  "filipino": "bata",
+  "example": "Every child likes to play outside.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-015",
+  "word": "family",
+  "pronunciation": "FAM-i-lee",
+  "filipino": "pamilya",
+  "example": "Our family eats dinner together.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-016",
+  "word": "home",
+  "pronunciation": "HOHM",
+  "filipino": "tahanan",
+  "example": "I go home after school.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-017",
+  "word": "husband",
+  "pronunciation": "HUZ-bund",
+  "filipino": "asawang lalaki",
+  "example": "Her husband works in Manila.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-018",
+  "word": "wife",
+  "pronunciation": "WAIF",
+  "filipino": "asawang babae",
+  "example": "His wife sells food at the market.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-019",
+  "word": "twin",
+  "pronunciation": "TWIN",
+  "filipino": "kambal",
+  "example": "Rina has a twin sister named Rita.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-020",
+  "word": "godmother",
+  "pronunciation": "GAWD-muh-ther",
+  "filipino": "ninang",
+  "example": "My godmother gave me a gift at Christmas.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-021",
+  "word": "godfather",
+  "pronunciation": "GAWD-fah-ther",
+  "filipino": "ninong",
+  "example": "My godfather lives in our barangay.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-022",
+  "word": "niece",
+  "pronunciation": "NEES",
+  "filipino": "pamangking babae",
+  "example": "Tita Lisa takes her niece to the mall.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-023",
+  "word": "nephew",
+  "pronunciation": "NEF-yoo",
+  "filipino": "pamangking lalaki",
+  "example": "Tito Ben bought his nephew a new ball.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-024",
+  "word": "relative",
+  "pronunciation": "REL-uh-tiv",
+  "filipino": "kamag-anak",
+  "example": "Many relatives come to our house for Christmas.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-025",
+  "word": "love",
+  "pronunciation": "LUV",
+  "filipino": "pagmamahal",
+  "example": "A mother's love is very strong.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-026",
+  "word": "hug",
+  "pronunciation": "HUG",
+  "filipino": "yakap",
+  "example": "I give Lola a big hug.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-027",
+  "word": "kiss",
+  "pronunciation": "KIS",
+  "filipino": "halik",
+  "example": "Mama gives the baby a kiss.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-028",
+  "word": "name",
+  "pronunciation": "NAYM",
+  "filipino": "pangalan",
+  "example": "What is your name?",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-029",
+  "word": "birthday",
+  "pronunciation": "BERTH-day",
+  "filipino": "kaarawan",
+  "example": "We eat pancit on my birthday.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-030",
+  "word": "boy",
+  "pronunciation": "BOY",
+  "filipino": "batang lalaki",
+  "example": "The boy is flying a kite.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-031",
+  "word": "girl",
+  "pronunciation": "GERL",
+  "filipino": "batang babae",
+  "example": "The girl buys candy at the sari-sari store.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "family-b-032",
+  "word": "together",
+  "pronunciation": "tuh-GETH-er",
+  "filipino": "magkasama",
+  "example": "We go to church together on Sunday.",
+  "category": "family",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-001",
+  "word": "rice",
+  "pronunciation": "RAIS",
+  "filipino": "kanin",
+  "example": "We eat rice three times a day.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-002",
+  "word": "bread",
+  "pronunciation": "BRED",
+  "filipino": "tinapay",
+  "example": "Papa buys bread from the bakery.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-003",
+  "word": "egg",
+  "pronunciation": "EG",
+  "filipino": "itlog",
+  "example": "I like a fried egg for breakfast.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-004",
+  "word": "fish",
+  "pronunciation": "FISH",
+  "filipino": "isda",
+  "example": "Mama fries fish for lunch.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-005",
+  "word": "meat",
+  "pronunciation": "MEET",
+  "filipino": "karne",
+  "example": "The meat is cooked in the pot.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-006",
+  "word": "pork",
+  "pronunciation": "PORK",
+  "filipino": "karne ng baboy",
+  "example": "We eat pork adobo on Sunday.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-007",
+  "word": "milk",
+  "pronunciation": "MILK",
+  "filipino": "gatas",
+  "example": "I drink a glass of milk every day.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-008",
+  "word": "banana",
+  "pronunciation": "buh-NAN-uh",
+  "filipino": "saging",
+  "example": "The banana is sweet and yellow.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-009",
+  "word": "mango",
+  "pronunciation": "MANG-goh",
+  "filipino": "mangga",
+  "example": "A ripe mango is very sweet.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-010",
+  "word": "apple",
+  "pronunciation": "AP-ul",
+  "filipino": "mansanas",
+  "example": "I put an apple in my lunch box.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-011",
+  "word": "orange",
+  "pronunciation": "OR-inj",
+  "filipino": "dalandan",
+  "example": "This orange is sour but juicy.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-012",
+  "word": "coconut",
+  "pronunciation": "KOH-kuh-nut",
+  "filipino": "niyog",
+  "example": "Lolo climbs the tree to get a coconut.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-013",
+  "word": "vegetable",
+  "pronunciation": "VEJ-tuh-bul",
+  "filipino": "gulay",
+  "example": "Eat your vegetable to stay healthy.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-014",
+  "word": "soup",
+  "pronunciation": "SOOP",
+  "filipino": "sabaw",
+  "example": "The chicken soup is hot.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-015",
+  "word": "sugar",
+  "pronunciation": "SHUG-er",
+  "filipino": "asukal",
+  "example": "Put a little sugar in the coffee.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-016",
+  "word": "salt",
+  "pronunciation": "SAWLT",
+  "filipino": "asin",
+  "example": "Add some salt to the soup.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-017",
+  "word": "juice",
+  "pronunciation": "JOOS",
+  "filipino": "katas",
+  "example": "I drink mango juice at the party.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-018",
+  "word": "coffee",
+  "pronunciation": "KAW-fee",
+  "filipino": "kape",
+  "example": "Lolo drinks coffee every morning.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-019",
+  "word": "candy",
+  "pronunciation": "KAN-dee",
+  "filipino": "kendi",
+  "example": "I buy candy at the sari-sari store.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-020",
+  "word": "cake",
+  "pronunciation": "KAYK",
+  "filipino": "keyk",
+  "example": "We have chocolate cake on my birthday.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-021",
+  "word": "ice cream",
+  "pronunciation": "AIS-kreem",
+  "filipino": "sorbetes",
+  "example": "The ice cream vendor rings his bell.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-022",
+  "word": "noodles",
+  "pronunciation": "NOO-dulz",
+  "filipino": "pansit",
+  "example": "We eat noodles for long life.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-023",
+  "word": "breakfast",
+  "pronunciation": "BREK-fust",
+  "filipino": "almusal",
+  "example": "I eat rice and egg for breakfast.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-024",
+  "word": "lunch",
+  "pronunciation": "LUNCH",
+  "filipino": "tanghalian",
+  "example": "We eat lunch at twelve o'clock.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-025",
+  "word": "dinner",
+  "pronunciation": "DIN-er",
+  "filipino": "hapunan",
+  "example": "Our family eats dinner at seven.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-026",
+  "word": "snack",
+  "pronunciation": "SNAK",
+  "filipino": "meryenda",
+  "example": "Lola makes banana cue for our snack.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-027",
+  "word": "corn",
+  "pronunciation": "KORN",
+  "filipino": "mais",
+  "example": "We buy boiled corn at the plaza.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-028",
+  "word": "tomato",
+  "pronunciation": "tuh-MAY-toh",
+  "filipino": "kamatis",
+  "example": "Slice the tomato for the salad.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-029",
+  "word": "onion",
+  "pronunciation": "UN-yun",
+  "filipino": "sibuyas",
+  "example": "Cutting an onion makes me cry.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-030",
+  "word": "garlic",
+  "pronunciation": "GAR-lik",
+  "filipino": "bawang",
+  "example": "Mama fries garlic for the rice.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-031",
+  "word": "peanut",
+  "pronunciation": "PEE-nut",
+  "filipino": "mani",
+  "example": "I eat a peanut snack at recess.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "food-b-032",
+  "word": "vinegar",
+  "pronunciation": "VIN-uh-ger",
+  "filipino": "suka",
+  "example": "Dip the fish in vinegar.",
+  "category": "food",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-001",
+  "word": "dog",
+  "pronunciation": "DAWG",
+  "filipino": "aso",
+  "example": "Our dog barks at the jeepney.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-002",
+  "word": "cat",
+  "pronunciation": "KAT",
+  "filipino": "pusa",
+  "example": "The cat sleeps under the table.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-003",
+  "word": "bird",
+  "pronunciation": "BERD",
+  "filipino": "ibon",
+  "example": "A bird sings in the mango tree.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-004",
+  "word": "chicken",
+  "pronunciation": "CHIK-en",
+  "filipino": "manok",
+  "example": "The chicken lays an egg every day.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-005",
+  "word": "pig",
+  "pronunciation": "PIG",
+  "filipino": "baboy",
+  "example": "Lolo feeds the pig every morning.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-006",
+  "word": "cow",
+  "pronunciation": "KAW",
+  "filipino": "baka",
+  "example": "The cow eats grass in the field.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-007",
+  "word": "carabao",
+  "pronunciation": "kah-ruh-BAH-oh",
+  "filipino": "kalabaw",
+  "example": "The carabao helps the farmer in the rice field.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-008",
+  "word": "goat",
+  "pronunciation": "GOHT",
+  "filipino": "kambing",
+  "example": "The goat is tied near the house.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-009",
+  "word": "horse",
+  "pronunciation": "HORS",
+  "filipino": "kabayo",
+  "example": "The horse pulls the kalesa.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-010",
+  "word": "duck",
+  "pronunciation": "DUK",
+  "filipino": "pato",
+  "example": "The duck swims in the river.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-011",
+  "word": "frog",
+  "pronunciation": "FRAWG",
+  "filipino": "palaka",
+  "example": "A frog jumps when it rains.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-012",
+  "word": "snake",
+  "pronunciation": "SNAYK",
+  "filipino": "ahas",
+  "example": "Be careful, there is a snake!",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-013",
+  "word": "monkey",
+  "pronunciation": "MUNG-kee",
+  "filipino": "unggoy",
+  "example": "The monkey eats a banana.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-014",
+  "word": "mouse",
+  "pronunciation": "MAUS",
+  "filipino": "daga",
+  "example": "A mouse ran into the kitchen.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-015",
+  "word": "ant",
+  "pronunciation": "ANT",
+  "filipino": "langgam",
+  "example": "An ant is carrying sugar.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-016",
+  "word": "butterfly",
+  "pronunciation": "BUH-ter-flai",
+  "filipino": "paru-paro",
+  "example": "A butterfly lands on the flower.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-017",
+  "word": "mosquito",
+  "pronunciation": "mus-KEE-toh",
+  "filipino": "lamok",
+  "example": "A mosquito bit my arm.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-018",
+  "word": "fly",
+  "pronunciation": "FLAI",
+  "filipino": "langaw",
+  "example": "Cover the food so a fly can't land.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-019",
+  "word": "spider",
+  "pronunciation": "SPAI-der",
+  "filipino": "gagamba",
+  "example": "The spider makes a web in the corner.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-020",
+  "word": "turtle",
+  "pronunciation": "TER-tul",
+  "filipino": "pagong",
+  "example": "The turtle walks very slowly.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-021",
+  "word": "crab",
+  "pronunciation": "KRAB",
+  "filipino": "alimango",
+  "example": "We cook crab for the fiesta.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-022",
+  "word": "shrimp",
+  "pronunciation": "SHRIMP",
+  "filipino": "hipon",
+  "example": "Mama buys shrimp at the market.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-023",
+  "word": "lizard",
+  "pronunciation": "LIZ-erd",
+  "filipino": "butiki",
+  "example": "A lizard is on the wall.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-024",
+  "word": "cockroach",
+  "pronunciation": "KAWK-rohch",
+  "filipino": "ipis",
+  "example": "My sister is afraid of the cockroach.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-025",
+  "word": "bee",
+  "pronunciation": "BEE",
+  "filipino": "bubuyog",
+  "example": "The bee flies from flower to flower.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-026",
+  "word": "eagle",
+  "pronunciation": "EE-gul",
+  "filipino": "agila",
+  "example": "The Philippine eagle is very big.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-027",
+  "word": "tiger",
+  "pronunciation": "TAI-ger",
+  "filipino": "tigre",
+  "example": "The tiger has black stripes.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-028",
+  "word": "lion",
+  "pronunciation": "LAI-un",
+  "filipino": "leon",
+  "example": "The lion is the king of the jungle.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-029",
+  "word": "elephant",
+  "pronunciation": "EL-uh-funt",
+  "filipino": "elepante",
+  "example": "The elephant has a long trunk.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-030",
+  "word": "rabbit",
+  "pronunciation": "RAB-it",
+  "filipino": "kuneho",
+  "example": "The rabbit eats a carrot.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-031",
+  "word": "shark",
+  "pronunciation": "SHARK",
+  "filipino": "pating",
+  "example": "A shark swims in the deep sea.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "animals-b-032",
+  "word": "crocodile",
+  "pronunciation": "KRAWK-uh-dail",
+  "filipino": "buwaya",
+  "example": "The crocodile lives near the river.",
+  "category": "animals",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-001",
+  "word": "house",
+  "pronunciation": "HAUS",
+  "filipino": "bahay",
+  "example": "Our house is near the church.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-002",
+  "word": "school",
+  "pronunciation": "SKOOL",
+  "filipino": "paaralan",
+  "example": "I walk to school every morning.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-003",
+  "word": "church",
+  "pronunciation": "CHERCH",
+  "filipino": "simbahan",
+  "example": "We go to church on Sunday.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-004",
+  "word": "market",
+  "pronunciation": "MAR-ket",
+  "filipino": "palengke",
+  "example": "Mama buys fish at the market.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-005",
+  "word": "store",
+  "pronunciation": "STOR",
+  "filipino": "tindahan",
+  "example": "I buy eggs at the sari-sari store.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-006",
+  "word": "hospital",
+  "pronunciation": "HAWS-pi-tul",
+  "filipino": "ospital",
+  "example": "The doctor works at the hospital.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-007",
+  "word": "park",
+  "pronunciation": "PARK",
+  "filipino": "parke",
+  "example": "We play in the park after school.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-008",
+  "word": "beach",
+  "pronunciation": "BEECH",
+  "filipino": "dalampasigan",
+  "example": "We swim at the beach in summer.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-009",
+  "word": "river",
+  "pronunciation": "RIV-er",
+  "filipino": "ilog",
+  "example": "The children swim in the river.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-010",
+  "word": "mountain",
+  "pronunciation": "MAUN-tin",
+  "filipino": "bundok",
+  "example": "Mayon is a beautiful mountain.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-011",
+  "word": "sea",
+  "pronunciation": "SEE",
+  "filipino": "dagat",
+  "example": "The fishermen sail on the sea.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-012",
+  "word": "farm",
+  "pronunciation": "FARM",
+  "filipino": "bukid",
+  "example": "Lolo plants rice on his farm.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-013",
+  "word": "town",
+  "pronunciation": "TAUN",
+  "filipino": "bayan",
+  "example": "Our town has a big fiesta in May.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-014",
+  "word": "city",
+  "pronunciation": "SIT-ee",
+  "filipino": "lungsod",
+  "example": "Manila is a busy city.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-015",
+  "word": "street",
+  "pronunciation": "STREET",
+  "filipino": "kalye",
+  "example": "Many jeepneys pass on our street.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-016",
+  "word": "road",
+  "pronunciation": "ROHD",
+  "filipino": "daan",
+  "example": "Look both ways before crossing the road.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-017",
+  "word": "bridge",
+  "pronunciation": "BRIJ",
+  "filipino": "tulay",
+  "example": "The bus crosses the long bridge.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-018",
+  "word": "plaza",
+  "pronunciation": "PLAH-zuh",
+  "filipino": "plasa",
+  "example": "The fiesta dance is in the plaza.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-019",
+  "word": "kitchen",
+  "pronunciation": "KICH-en",
+  "filipino": "kusina",
+  "example": "Lola is cooking in the kitchen.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-020",
+  "word": "room",
+  "pronunciation": "ROOM",
+  "filipino": "kuwarto",
+  "example": "I share a room with my brother.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-021",
+  "word": "bathroom",
+  "pronunciation": "BATH-room",
+  "filipino": "banyo",
+  "example": "Please wash your hands in the bathroom.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-022",
+  "word": "garden",
+  "pronunciation": "GAR-den",
+  "filipino": "hardin",
+  "example": "Mama grows flowers in her garden.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-023",
+  "word": "yard",
+  "pronunciation": "YARD",
+  "filipino": "bakuran",
+  "example": "The chickens walk around the yard.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-024",
+  "word": "forest",
+  "pronunciation": "FOR-est",
+  "filipino": "gubat",
+  "example": "Many birds live in the forest.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-025",
+  "word": "island",
+  "pronunciation": "AI-lund",
+  "filipino": "pulo",
+  "example": "Boracay is a famous island.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-026",
+  "word": "village",
+  "pronunciation": "VIL-ij",
+  "filipino": "nayon",
+  "example": "My grandparents live in a small village.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-027",
+  "word": "bakery",
+  "pronunciation": "BAY-ker-ee",
+  "filipino": "panaderya",
+  "example": "We buy pandesal at the bakery.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-028",
+  "word": "office",
+  "pronunciation": "AW-fis",
+  "filipino": "opisina",
+  "example": "Papa goes to the office by jeepney.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-029",
+  "word": "restaurant",
+  "pronunciation": "RES-tuh-rawnt",
+  "filipino": "kainan",
+  "example": "We eat at a restaurant on my birthday.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-030",
+  "word": "airport",
+  "pronunciation": "AIR-port",
+  "filipino": "paliparan",
+  "example": "Tita arrives at the airport tomorrow.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-031",
+  "word": "playground",
+  "pronunciation": "PLAY-graund",
+  "filipino": "palaruan",
+  "example": "The kids play on the school playground.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "places-b-032",
+  "word": "country",
+  "pronunciation": "KUN-tree",
+  "filipino": "bansa",
+  "example": "The Philippines is my country.",
+  "category": "places",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-001",
+  "word": "happy",
+  "pronunciation": "HAP-ee",
+  "filipino": "masaya",
+  "example": "I am happy during the fiesta.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-002",
+  "word": "sad",
+  "pronunciation": "SAD",
+  "filipino": "malungkot",
+  "example": "Ana is sad because her cat is lost.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-003",
+  "word": "angry",
+  "pronunciation": "ANG-gree",
+  "filipino": "galit",
+  "example": "Papa is angry when we fight.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-004",
+  "word": "scared",
+  "pronunciation": "SKAIRD",
+  "filipino": "takot",
+  "example": "I am scared of the dark.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-005",
+  "word": "tired",
+  "pronunciation": "TAIRD",
+  "filipino": "pagod",
+  "example": "Mama is tired after work.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-006",
+  "word": "hungry",
+  "pronunciation": "HUNG-gree",
+  "filipino": "gutom",
+  "example": "I am hungry, let's eat rice!",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-007",
+  "word": "thirsty",
+  "pronunciation": "THERS-tee",
+  "filipino": "nauuhaw",
+  "example": "After playing, I am very thirsty.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-008",
+  "word": "sleepy",
+  "pronunciation": "SLEE-pee",
+  "filipino": "inaantok",
+  "example": "The baby is sleepy after lunch.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-009",
+  "word": "excited",
+  "pronunciation": "ek-SAI-tid",
+  "filipino": "nasasabik",
+  "example": "I am excited for Christmas.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-010",
+  "word": "bored",
+  "pronunciation": "BORD",
+  "filipino": "naiinip",
+  "example": "I am bored waiting for the jeepney.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-011",
+  "word": "shy",
+  "pronunciation": "SHAI",
+  "filipino": "nahihiya",
+  "example": "The new student is shy.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-012",
+  "word": "nervous",
+  "pronunciation": "NER-vus",
+  "filipino": "kinakabahan",
+  "example": "I feel nervous before the test.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-013",
+  "word": "calm",
+  "pronunciation": "KAHM",
+  "filipino": "mahinahon",
+  "example": "Stay calm during the earthquake drill.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-014",
+  "word": "surprised",
+  "pronunciation": "ser-PRAIZD",
+  "filipino": "nagulat",
+  "example": "Lola was surprised by our gift.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-015",
+  "word": "worried",
+  "pronunciation": "WER-eed",
+  "filipino": "nag-aalala",
+  "example": "Mama is worried when I am late.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-016",
+  "word": "glad",
+  "pronunciation": "GLAD",
+  "filipino": "natutuwa",
+  "example": "I am glad you came to my party.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-017",
+  "word": "sick",
+  "pronunciation": "SIK",
+  "filipino": "may sakit",
+  "example": "Ben is sick and stays at home.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-018",
+  "word": "hurt",
+  "pronunciation": "HERT",
+  "filipino": "nasaktan",
+  "example": "I fell down and my knee is hurt.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-019",
+  "word": "kind",
+  "pronunciation": "KAIND",
+  "filipino": "mabait",
+  "example": "Our neighbor is very kind.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-020",
+  "word": "brave",
+  "pronunciation": "BRAYV",
+  "filipino": "matapang",
+  "example": "The brave boy helped the old man.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-021",
+  "word": "jealous",
+  "pronunciation": "JEL-us",
+  "filipino": "nagseselos",
+  "example": "My brother is jealous of my new toy.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-022",
+  "word": "sorry",
+  "pronunciation": "SAW-ree",
+  "filipino": "nagsisisi",
+  "example": "I am sorry for being late.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-023",
+  "word": "thankful",
+  "pronunciation": "THANGK-ful",
+  "filipino": "nagpapasalamat",
+  "example": "We are thankful for our food.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-024",
+  "word": "lazy",
+  "pronunciation": "LAY-zee",
+  "filipino": "tamad",
+  "example": "Don't be lazy, clean your room.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-025",
+  "word": "busy",
+  "pronunciation": "BIZ-ee",
+  "filipino": "abala",
+  "example": "Mama is busy at the market.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-026",
+  "word": "full",
+  "pronunciation": "FUL",
+  "filipino": "busog",
+  "example": "I am full after eating lechon.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-027",
+  "word": "confused",
+  "pronunciation": "kun-FYOOZD",
+  "filipino": "nalilito",
+  "example": "I am confused by this math problem.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-028",
+  "word": "cheerful",
+  "pronunciation": "CHEER-ful",
+  "filipino": "masigla",
+  "example": "Our cheerful teacher always smiles.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-029",
+  "word": "annoyed",
+  "pronunciation": "uh-NOYD",
+  "filipino": "naiinis",
+  "example": "I am annoyed by the noisy rooster.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-030",
+  "word": "embarrassed",
+  "pronunciation": "em-BAR-ust",
+  "filipino": "napahiya",
+  "example": "I was embarrassed when I fell.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-031",
+  "word": "healthy",
+  "pronunciation": "HEL-thee",
+  "filipino": "malusog",
+  "example": "Eating vegetables keeps me healthy.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "feelings-b-032",
+  "word": "lonely",
+  "pronunciation": "LOHN-lee",
+  "filipino": "nalulumbay",
+  "example": "Lolo feels lonely when we leave.",
+  "category": "feelings",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-001",
+  "word": "run",
+  "pronunciation": "RUN",
+  "filipino": "tumakbo",
+  "example": "We run around the plaza.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-002",
+  "word": "walk",
+  "pronunciation": "WAWK",
+  "filipino": "maglakad",
+  "example": "I walk to school with my friend.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-003",
+  "word": "eat",
+  "pronunciation": "EET",
+  "filipino": "kumain",
+  "example": "Let's eat rice and fish.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-004",
+  "word": "drink",
+  "pronunciation": "DRINK",
+  "filipino": "uminom",
+  "example": "Drink a glass of water every morning.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-005",
+  "word": "sleep",
+  "pronunciation": "SLEEP",
+  "filipino": "matulog",
+  "example": "I sleep at nine o'clock.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-006",
+  "word": "write",
+  "pronunciation": "RAIT",
+  "filipino": "sumulat",
+  "example": "Write your name on the paper.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-007",
+  "word": "read",
+  "pronunciation": "REED",
+  "filipino": "magbasa",
+  "example": "I read a book before bed.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-008",
+  "word": "sing",
+  "pronunciation": "SING",
+  "filipino": "umawit",
+  "example": "We sing the national anthem every Monday.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-009",
+  "word": "dance",
+  "pronunciation": "DANS",
+  "filipino": "sumayaw",
+  "example": "We dance the tinikling at the fiesta.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-010",
+  "word": "jump",
+  "pronunciation": "JUMP",
+  "filipino": "tumalon",
+  "example": "The kids jump over the rope.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-011",
+  "word": "swim",
+  "pronunciation": "SWIM",
+  "filipino": "lumangoy",
+  "example": "We swim at the beach in April.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-012",
+  "word": "play",
+  "pronunciation": "PLAY",
+  "filipino": "maglaro",
+  "example": "Let's play patintero after school.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-013",
+  "word": "cook",
+  "pronunciation": "KUK",
+  "filipino": "magluto",
+  "example": "Lola will cook adobo for lunch.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-014",
+  "word": "wash",
+  "pronunciation": "WAWSH",
+  "filipino": "maghugas",
+  "example": "Wash your hands before eating.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-015",
+  "word": "clean",
+  "pronunciation": "KLEEN",
+  "filipino": "maglinis",
+  "example": "We clean our classroom every Friday.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-016",
+  "word": "sweep",
+  "pronunciation": "SWEEP",
+  "filipino": "magwalis",
+  "example": "I sweep the yard every morning.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-017",
+  "word": "open",
+  "pronunciation": "OH-pen",
+  "filipino": "buksan",
+  "example": "Please open the window.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-018",
+  "word": "close",
+  "pronunciation": "KLOHZ",
+  "filipino": "isara",
+  "example": "Close the door when it rains.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-019",
+  "word": "sit",
+  "pronunciation": "SIT",
+  "filipino": "umupo",
+  "example": "Please sit down on your chair.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-020",
+  "word": "stand",
+  "pronunciation": "STAND",
+  "filipino": "tumayo",
+  "example": "Stand up for the flag ceremony.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-021",
+  "word": "listen",
+  "pronunciation": "LIS-en",
+  "filipino": "makinig",
+  "example": "Listen to your teacher carefully.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-022",
+  "word": "speak",
+  "pronunciation": "SPEEK",
+  "filipino": "magsalita",
+  "example": "Please speak in English in class.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-023",
+  "word": "look",
+  "pronunciation": "LUK",
+  "filipino": "tumingin",
+  "example": "Look at the beautiful sunset.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-024",
+  "word": "help",
+  "pronunciation": "HELP",
+  "filipino": "tumulong",
+  "example": "I help Mama wash the dishes.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-025",
+  "word": "give",
+  "pronunciation": "GIV",
+  "filipino": "magbigay",
+  "example": "Give this note to your mother.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-026",
+  "word": "buy",
+  "pronunciation": "BAI",
+  "filipino": "bumili",
+  "example": "I buy bread at the bakery.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-027",
+  "word": "sell",
+  "pronunciation": "SEL",
+  "filipino": "magbenta",
+  "example": "Aling Nena sells fish at the market.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-028",
+  "word": "cry",
+  "pronunciation": "KRAI",
+  "filipino": "umiyak",
+  "example": "The baby cries when she is hungry.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-029",
+  "word": "laugh",
+  "pronunciation": "LAF",
+  "filipino": "tumawa",
+  "example": "We laugh at Lolo's funny stories.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-030",
+  "word": "draw",
+  "pronunciation": "DRAW",
+  "filipino": "gumuhit",
+  "example": "I draw a picture of our house.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-031",
+  "word": "climb",
+  "pronunciation": "KLAIM",
+  "filipino": "umakyat",
+  "example": "Kuya can climb the coconut tree.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "actions-b-032",
+  "word": "carry",
+  "pronunciation": "KAIR-ee",
+  "filipino": "magdala",
+  "example": "I carry my bag to school.",
+  "category": "actions",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-001",
+  "word": "yes",
+  "pronunciation": "YES",
+  "filipino": "oo",
+  "example": "Yes, I am ready to go.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-002",
+  "word": "no",
+  "pronunciation": "NOH",
+  "filipino": "hindi",
+  "example": "No, I don't want more rice.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-003",
+  "word": "big",
+  "pronunciation": "BIG",
+  "filipino": "malaki",
+  "example": "The carabao is very big.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-004",
+  "word": "small",
+  "pronunciation": "SMAWL",
+  "filipino": "maliit",
+  "example": "The chick is small and yellow.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-005",
+  "word": "day",
+  "pronunciation": "DAY",
+  "filipino": "araw",
+  "example": "Today is a sunny day.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-006",
+  "word": "night",
+  "pronunciation": "NAIT",
+  "filipino": "gabi",
+  "example": "The stars shine at night.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-007",
+  "word": "water",
+  "pronunciation": "WAW-ter",
+  "filipino": "tubig",
+  "example": "Please give me a glass of water.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-008",
+  "word": "because",
+  "pronunciation": "bee-KAWZ",
+  "filipino": "dahil",
+  "example": "I stayed home because it rained.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-009",
+  "word": "rain",
+  "pronunciation": "RAYN",
+  "filipino": "ulan",
+  "example": "The rain is very heavy today.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-010",
+  "word": "hot",
+  "pronunciation": "HAWT",
+  "filipino": "mainit",
+  "example": "The weather is hot in April.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-011",
+  "word": "cold",
+  "pronunciation": "KOHLD",
+  "filipino": "malamig",
+  "example": "The halo-halo is very cold.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-012",
+  "word": "good",
+  "pronunciation": "GUD",
+  "filipino": "mabuti",
+  "example": "You did a good job, Anna.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-013",
+  "word": "bad",
+  "pronunciation": "BAD",
+  "filipino": "masama",
+  "example": "Lying is a bad habit.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-014",
+  "word": "new",
+  "pronunciation": "NOO",
+  "filipino": "bago",
+  "example": "I have new shoes for school.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-015",
+  "word": "old",
+  "pronunciation": "OHLD",
+  "filipino": "luma",
+  "example": "This old jeepney still runs well.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-016",
+  "word": "many",
+  "pronunciation": "MEN-ee",
+  "filipino": "marami",
+  "example": "There are many people at the fiesta.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-017",
+  "word": "morning",
+  "pronunciation": "MOR-ning",
+  "filipino": "umaga",
+  "example": "I eat pandesal every morning.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-018",
+  "word": "afternoon",
+  "pronunciation": "af-ter-NOON",
+  "filipino": "hapon",
+  "example": "We play outside in the afternoon.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-019",
+  "word": "today",
+  "pronunciation": "tuh-DAY",
+  "filipino": "ngayon",
+  "example": "Today we go to the market.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-020",
+  "word": "tomorrow",
+  "pronunciation": "tuh-MAW-roh",
+  "filipino": "bukas",
+  "example": "Tomorrow is our barangay fiesta.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-021",
+  "word": "yesterday",
+  "pronunciation": "YES-ter-day",
+  "filipino": "kahapon",
+  "example": "Yesterday it rained all day.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-022",
+  "word": "money",
+  "pronunciation": "MUN-ee",
+  "filipino": "pera",
+  "example": "I save my money in a piggy bank.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-023",
+  "word": "clothes",
+  "pronunciation": "KLOHTHZ",
+  "filipino": "damit",
+  "example": "Mama washes our clothes on Saturday.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-024",
+  "word": "shoes",
+  "pronunciation": "SHOOZ",
+  "filipino": "sapatos",
+  "example": "Take off your shoes inside the house.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-025",
+  "word": "time",
+  "pronunciation": "TAIM",
+  "filipino": "oras",
+  "example": "What time is it now?",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-026",
+  "word": "color",
+  "pronunciation": "KUH-ler",
+  "filipino": "kulay",
+  "example": "My favorite color is blue.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-027",
+  "word": "beautiful",
+  "pronunciation": "BYOO-ti-ful",
+  "filipino": "maganda",
+  "example": "The sunset in Manila Bay is beautiful.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-028",
+  "word": "fast",
+  "pronunciation": "FAST",
+  "filipino": "mabilis",
+  "example": "The tricycle is very fast.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-029",
+  "word": "slow",
+  "pronunciation": "SLOH",
+  "filipino": "mabagal",
+  "example": "The traffic is slow on EDSA.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-030",
+  "word": "please",
+  "pronunciation": "PLEEZ",
+  "filipino": "pakiusap",
+  "example": "Please pass the rice.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-031",
+  "word": "thank you",
+  "pronunciation": "THANGK-yoo",
+  "filipino": "salamat",
+  "example": "Thank you for the food, Lola.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "common-b-032",
+  "word": "light",
+  "pronunciation": "LAIT",
+  "filipino": "ilaw",
+  "example": "Please turn off the light.",
+  "category": "common",
+  "level": "beginner"
+ },
+ {
+  "id": "school-i-001",
+  "word": "seatmate",
+  "pronunciation": "SEET-mayt",
+  "filipino": "katabi sa upuan",
+  "example": "My seatmate lent me her eraser during the quiz.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-002",
+  "word": "adviser",
+  "pronunciation": "ad-VY-zer",
+  "filipino": "tagapayo",
+  "example": "Our class adviser announced the date of the field trip.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-003",
+  "word": "calculator",
+  "pronunciation": "KAL-kyuh-lay-ter",
+  "filipino": "kalkulador",
+  "example": "We cannot use a calculator during the math quiz.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-004",
+  "word": "mathematics",
+  "pronunciation": "math-uh-MAT-iks",
+  "filipino": "matematika",
+  "example": "Mathematics is hard for me, but I practice every day.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-005",
+  "word": "subject",
+  "pronunciation": "SUB-jikt",
+  "filipino": "asignatura",
+  "example": "My favorite subject is Araling Panlipunan.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-006",
+  "word": "quiz",
+  "pronunciation": "KWIZ",
+  "filipino": "maikling pagsusulit",
+  "example": "Our teacher gave us a quiz in Math today.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-007",
+  "word": "exam",
+  "pronunciation": "ig-ZAM",
+  "filipino": "pagsusulit",
+  "example": "We studied hard for the final exam in March.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-008",
+  "word": "grammar",
+  "pronunciation": "GRAM-er",
+  "filipino": "balarila",
+  "example": "Our teacher checks the grammar in our essays.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-009",
+  "word": "textbook",
+  "pronunciation": "TEKST-buk",
+  "filipino": "aklat-aralin",
+  "example": "Please open your textbook to page twenty.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-010",
+  "word": "subtraction",
+  "pronunciation": "sub-TRAK-shun",
+  "filipino": "pagbabawas",
+  "example": "We learned subtraction with borrowing in Math class.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-011",
+  "word": "schedule",
+  "pronunciation": "SKEJ-ool",
+  "filipino": "iskedyul",
+  "example": "Our class schedule starts at seven in the morning.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-012",
+  "word": "recess",
+  "pronunciation": "REE-ses",
+  "filipino": "rises",
+  "example": "We buy turon at the canteen during recess.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-013",
+  "word": "canteen",
+  "pronunciation": "kan-TEEN",
+  "filipino": "kantina",
+  "example": "My mother gave me money for the school canteen.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-014",
+  "word": "project",
+  "pronunciation": "PRAH-jekt",
+  "filipino": "proyekto",
+  "example": "We made a volcano model for our science project.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-015",
+  "word": "report",
+  "pronunciation": "ri-PORT",
+  "filipino": "ulat",
+  "example": "Ana will give her report about our national heroes.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-016",
+  "word": "grade",
+  "pronunciation": "GRAYD",
+  "filipino": "marka",
+  "example": "I got a high grade in English this quarter.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-017",
+  "word": "dictionary",
+  "pronunciation": "DIK-shuh-ner-ee",
+  "filipino": "diksiyonaryo",
+  "example": "Look up the meaning of the word in the dictionary.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-018",
+  "word": "paragraph",
+  "pronunciation": "PAR-uh-graf",
+  "filipino": "talata",
+  "example": "Write one paragraph about your summer vacation.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-019",
+  "word": "sentence",
+  "pronunciation": "SEN-tens",
+  "filipino": "pangungusap",
+  "example": "Each sentence must begin with a capital letter.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-020",
+  "word": "spelling",
+  "pronunciation": "SPEL-ing",
+  "filipino": "pagbaybay",
+  "example": "We have a spelling test every Friday afternoon.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-021",
+  "word": "science",
+  "pronunciation": "SY-ens",
+  "filipino": "agham",
+  "example": "In science class, we learned about the water cycle.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-022",
+  "word": "history",
+  "pronunciation": "HIS-tuh-ree",
+  "filipino": "kasaysayan",
+  "example": "Our history lesson was about the Battle of Mactan.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-023",
+  "word": "fraction",
+  "pronunciation": "FRAK-shun",
+  "filipino": "praksiyon",
+  "example": "Half of a pizza can be written as a fraction.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-024",
+  "word": "globe",
+  "pronunciation": "GLOHB",
+  "filipino": "globo",
+  "example": "We found the Philippines on the classroom globe.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-025",
+  "word": "flag ceremony",
+  "pronunciation": "FLAG SER-uh-moh-nee",
+  "filipino": "seremonya sa watawat",
+  "example": "We sing the national anthem during the flag ceremony.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-026",
+  "word": "bulletin board",
+  "pronunciation": "BUL-uh-tin BORD",
+  "filipino": "kartelera",
+  "example": "Our best drawings were posted on the bulletin board.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-027",
+  "word": "absent",
+  "pronunciation": "AB-sent",
+  "filipino": "liban",
+  "example": "Miguel was absent because he had a fever.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-028",
+  "word": "handwriting",
+  "pronunciation": "HAND-ry-ting",
+  "filipino": "sulat-kamay",
+  "example": "Lola says my handwriting is neat and easy to read.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-029",
+  "word": "pencil case",
+  "pronunciation": "PEN-sul KAYS",
+  "filipino": "lalagyan ng lapis",
+  "example": "I keep my pens and eraser in a pencil case.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-030",
+  "word": "field trip",
+  "pronunciation": "FEELD TRIP",
+  "filipino": "lakbay-aral",
+  "example": "Our class went on a field trip to Intramuros.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-031",
+  "word": "experiment",
+  "pronunciation": "ik-SPER-uh-ment",
+  "filipino": "eksperimento",
+  "example": "We did an experiment with plants and sunlight.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-i-032",
+  "word": "punctuation",
+  "pronunciation": "pungk-choo-AY-shun",
+  "filipino": "bantas",
+  "example": "Do not forget the punctuation at the end of each sentence.",
+  "category": "school",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-001",
+  "word": "grandson",
+  "pronunciation": "GRAND-sun",
+  "filipino": "apong lalaki",
+  "example": "Lolo taught his grandson how to fish in the river.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-002",
+  "word": "grandparents",
+  "pronunciation": "GRAND-pair-ents",
+  "filipino": "lolo at lola",
+  "example": "My grandparents live in a small town in Pampanga.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-003",
+  "word": "granddaughter",
+  "pronunciation": "GRAN-daw-ter",
+  "filipino": "apong babae",
+  "example": "Lola's granddaughter helps her cook every Sunday.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-004",
+  "word": "stepmother",
+  "pronunciation": "STEP-muh-ther",
+  "filipino": "madrasta",
+  "example": "Her stepmother treats her like her own child.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-005",
+  "word": "anniversary",
+  "pronunciation": "an-uh-VER-suh-ree",
+  "filipino": "anibersaryo",
+  "example": "My parents celebrated their wedding anniversary at home.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-006",
+  "word": "bride",
+  "pronunciation": "BRYD",
+  "filipino": "babaeng ikakasal",
+  "example": "The bride wore a white gown at the church.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-007",
+  "word": "groom",
+  "pronunciation": "GROOM",
+  "filipino": "lalaking ikakasal",
+  "example": "The groom waited nervously at the altar for his bride.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-008",
+  "word": "sibling",
+  "pronunciation": "SIB-ling",
+  "filipino": "kapatid",
+  "example": "I have three siblings, two boys and a girl.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-009",
+  "word": "surname",
+  "pronunciation": "SER-naym",
+  "filipino": "apelyido",
+  "example": "Children usually use their father's surname.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-010",
+  "word": "eldest",
+  "pronunciation": "EL-dist",
+  "filipino": "panganay",
+  "example": "As the eldest, Rosa helps take care of her siblings.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-011",
+  "word": "youngest",
+  "pronunciation": "YUNG-gist",
+  "filipino": "bunso",
+  "example": "Carlo is the youngest in their family of five.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-012",
+  "word": "nickname",
+  "pronunciation": "NIK-naym",
+  "filipino": "palayaw",
+  "example": "My nickname at home is Bunso because I am the youngest.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-013",
+  "word": "babysitter",
+  "pronunciation": "BAY-bee-sit-er",
+  "filipino": "yaya",
+  "example": "Our babysitter feeds my baby brother when Mama works.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-014",
+  "word": "middle name",
+  "pronunciation": "MID-ul NAYM",
+  "filipino": "gitnang pangalan",
+  "example": "My middle name comes from my mother's surname.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-015",
+  "word": "only child",
+  "pronunciation": "OHN-lee CHYLD",
+  "filipino": "kaisa-isang anak",
+  "example": "As an only child, Ben sometimes wishes for a sibling.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-016",
+  "word": "caregiver",
+  "pronunciation": "KAIR-giv-er",
+  "filipino": "tagapag-alaga",
+  "example": "The caregiver helps Lolo take his medicine on time.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-017",
+  "word": "grandchild",
+  "pronunciation": "GRAND-chyld",
+  "filipino": "apo",
+  "example": "Lola always gives candy to her grandchild.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-018",
+  "word": "allowance",
+  "pronunciation": "uh-LOW-ens",
+  "filipino": "baon",
+  "example": "My parents give me an allowance for school every day.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-019",
+  "word": "gathering",
+  "pronunciation": "GATH-er-ing",
+  "filipino": "pagtitipon",
+  "example": "Our family gathering was full of food and laughter.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-020",
+  "word": "funeral",
+  "pronunciation": "FYOO-ner-ul",
+  "filipino": "libing",
+  "example": "Many relatives attended Lolo's funeral in Ilocos.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-021",
+  "word": "chores",
+  "pronunciation": "CHORZ",
+  "filipino": "gawaing-bahay",
+  "example": "I do my chores before playing with my friends.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-022",
+  "word": "couple",
+  "pronunciation": "KUP-ul",
+  "filipino": "mag-asawa",
+  "example": "The young couple moved into a small apartment in Pasig.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-023",
+  "word": "pregnant",
+  "pronunciation": "PREG-nunt",
+  "filipino": "buntis",
+  "example": "My aunt is pregnant with her second baby.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-024",
+  "word": "newborn",
+  "pronunciation": "NOO-born",
+  "filipino": "bagong silang",
+  "example": "The newborn baby slept quietly in her crib.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-025",
+  "word": "toddler",
+  "pronunciation": "TAHD-ler",
+  "filipino": "batang paslit",
+  "example": "My toddler brother likes to play with blocks.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-026",
+  "word": "teenager",
+  "pronunciation": "TEEN-ay-jer",
+  "filipino": "tinedyer",
+  "example": "My sister became a teenager when she turned thirteen.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-027",
+  "word": "adult",
+  "pronunciation": "uh-DULT",
+  "filipino": "nasa hustong gulang",
+  "example": "Children should ask an adult before crossing the road.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-028",
+  "word": "elder",
+  "pronunciation": "EL-der",
+  "filipino": "nakatatanda",
+  "example": "We say po and opo to show respect to our elders.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-029",
+  "word": "infant",
+  "pronunciation": "IN-funt",
+  "filipino": "sanggol",
+  "example": "An infant needs milk every few hours.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-030",
+  "word": "great-grandmother",
+  "pronunciation": "grayt-GRAND-muh-ther",
+  "filipino": "lola sa tuhod",
+  "example": "My great-grandmother is already ninety years old.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-031",
+  "word": "baptism",
+  "pronunciation": "BAP-tiz-um",
+  "filipino": "binyag",
+  "example": "Many relatives came to my baby cousin's baptism.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "family-i-032",
+  "word": "wedding",
+  "pronunciation": "WED-ing",
+  "filipino": "kasal",
+  "example": "My uncle's wedding was held in a church in Cebu.",
+  "category": "family",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-001",
+  "word": "bitter",
+  "pronunciation": "BIT-er",
+  "filipino": "mapait",
+  "example": "Ampalaya is bitter, but it is very healthy.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-002",
+  "word": "salty",
+  "pronunciation": "SAWL-tee",
+  "filipino": "maalat",
+  "example": "The dried fish is too salty for my taste.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-003",
+  "word": "sweet potato",
+  "pronunciation": "SWEET puh-TAY-toh",
+  "filipino": "kamote",
+  "example": "We boiled sweet potato for our afternoon merienda.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-004",
+  "word": "dessert",
+  "pronunciation": "di-ZERT",
+  "filipino": "panghimagas",
+  "example": "Leche flan is my favorite dessert at parties.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-005",
+  "word": "cassava",
+  "pronunciation": "kuh-SAH-vuh",
+  "filipino": "kamoteng kahoy",
+  "example": "Cassava cake is a favorite treat during fiestas.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-006",
+  "word": "string beans",
+  "pronunciation": "STRING BEENZ",
+  "filipino": "sitaw",
+  "example": "Mother added string beans to the pinakbet.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-007",
+  "word": "flour",
+  "pronunciation": "FLOW-er",
+  "filipino": "harina",
+  "example": "We need flour and eggs to make pancakes.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-008",
+  "word": "mung beans",
+  "pronunciation": "MUNG BEENZ",
+  "filipino": "munggo",
+  "example": "We cook mung beans with malunggay every Friday.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-009",
+  "word": "soy sauce",
+  "pronunciation": "SOY SAWS",
+  "filipino": "toyo",
+  "example": "Please pass the soy sauce for my fried fish.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-010",
+  "word": "watermelon",
+  "pronunciation": "WAW-ter-mel-un",
+  "filipino": "pakwan",
+  "example": "Cold watermelon is perfect on a hot summer day.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-011",
+  "word": "guava",
+  "pronunciation": "GWAH-vuh",
+  "filipino": "bayabas",
+  "example": "We picked ripe guava from the tree in our yard.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-012",
+  "word": "ginger",
+  "pronunciation": "JIN-jer",
+  "filipino": "luya",
+  "example": "Ginger makes the arroz caldo warm and tasty.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-013",
+  "word": "pepper",
+  "pronunciation": "PEP-er",
+  "filipino": "paminta",
+  "example": "Add a little salt and pepper to the soup.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-014",
+  "word": "cabbage",
+  "pronunciation": "KAB-ij",
+  "filipino": "repolyo",
+  "example": "We put cabbage and carrots in the chop suey.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-015",
+  "word": "eggplant",
+  "pronunciation": "EG-plant",
+  "filipino": "talong",
+  "example": "Tortang talong is made from eggplant and egg.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-016",
+  "word": "squash",
+  "pronunciation": "SKWAHSH",
+  "filipino": "kalabasa",
+  "example": "Eating squash is good for your eyes.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-017",
+  "word": "pineapple",
+  "pronunciation": "PYN-ap-ul",
+  "filipino": "pinya",
+  "example": "Pineapple from Bukidnon is sweet and juicy.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-018",
+  "word": "jackfruit",
+  "pronunciation": "JAK-froot",
+  "filipino": "langka",
+  "example": "Jackfruit adds a sweet smell to halo-halo.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-019",
+  "word": "tamarind",
+  "pronunciation": "TAM-uh-rind",
+  "filipino": "sampalok",
+  "example": "Tamarind candy is sweet, sour, and a little salty.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-020",
+  "word": "cooking oil",
+  "pronunciation": "KUK-ing OYL",
+  "filipino": "mantika",
+  "example": "Heat the cooking oil before frying the fish.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-021",
+  "word": "porridge",
+  "pronunciation": "POR-ij",
+  "filipino": "lugaw",
+  "example": "Mother cooked hot porridge when I was sick.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-022",
+  "word": "dried fish",
+  "pronunciation": "DRYD FISH",
+  "filipino": "tuyo",
+  "example": "We ate dried fish and rice with tomatoes.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-023",
+  "word": "grilled",
+  "pronunciation": "GRILD",
+  "filipino": "inihaw",
+  "example": "We ate grilled pork and chicken at the fiesta.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-024",
+  "word": "fried rice",
+  "pronunciation": "FRYD RYS",
+  "filipino": "sinangag",
+  "example": "We eat fried rice and egg every morning.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-025",
+  "word": "beef",
+  "pronunciation": "BEEF",
+  "filipino": "karne ng baka",
+  "example": "Bulalo is a soup made with beef bones.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-026",
+  "word": "sardines",
+  "pronunciation": "sar-DEENZ",
+  "filipino": "sardinas",
+  "example": "We ate sardines with rice during the brownout.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-027",
+  "word": "leftovers",
+  "pronunciation": "LEFT-oh-verz",
+  "filipino": "tirang pagkain",
+  "example": "We heated the leftovers from last night's dinner.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-028",
+  "word": "seafood",
+  "pronunciation": "SEE-food",
+  "filipino": "pagkaing-dagat",
+  "example": "Navotas is famous for fresh and cheap seafood.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-029",
+  "word": "dough",
+  "pronunciation": "DOH",
+  "filipino": "masa",
+  "example": "The baker kneads the dough well before making pandesal.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-030",
+  "word": "delicious",
+  "pronunciation": "di-LISH-us",
+  "filipino": "masarap",
+  "example": "The halo-halo at the fiesta was delicious.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-031",
+  "word": "spicy",
+  "pronunciation": "SPY-see",
+  "filipino": "maanghang",
+  "example": "Bicol Express is a spicy dish from Bicol.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "food-i-032",
+  "word": "sour",
+  "pronunciation": "SOWR",
+  "filipino": "maasim",
+  "example": "Sinigang has a sour taste from tamarind.",
+  "category": "food",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-001",
+  "word": "chick",
+  "pronunciation": "CHIK",
+  "filipino": "sisiw",
+  "example": "The little chick follows its mother everywhere.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-002",
+  "word": "piglet",
+  "pronunciation": "PIG-lit",
+  "filipino": "biik",
+  "example": "The mother pig fed her six hungry piglets.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-003",
+  "word": "rooster",
+  "pronunciation": "ROO-ster",
+  "filipino": "tandang",
+  "example": "The rooster crows early every morning in the province.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-004",
+  "word": "hen",
+  "pronunciation": "HEN",
+  "filipino": "inahin",
+  "example": "The hen sat on her eggs to keep them warm.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-005",
+  "word": "calf",
+  "pronunciation": "KAF",
+  "filipino": "guya",
+  "example": "The calf drinks milk from its mother cow.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-006",
+  "word": "octopus",
+  "pronunciation": "AHK-tuh-pus",
+  "filipino": "pugita",
+  "example": "An octopus has eight long arms.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-007",
+  "word": "starfish",
+  "pronunciation": "STAR-fish",
+  "filipino": "isdang-bituin",
+  "example": "We saw a starfish near the rocks at low tide.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-008",
+  "word": "gecko",
+  "pronunciation": "GEK-oh",
+  "filipino": "tuko",
+  "example": "We heard a gecko calling loudly at night.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-009",
+  "word": "dolphin",
+  "pronunciation": "DAHL-fin",
+  "filipino": "lumba-lumba",
+  "example": "Dolphins jumped beside our boat in Bohol.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-010",
+  "word": "crow",
+  "pronunciation": "KROH",
+  "filipino": "uwak",
+  "example": "A black crow sat on the electric wire.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-011",
+  "word": "sparrow",
+  "pronunciation": "SPAR-oh",
+  "filipino": "maya",
+  "example": "A sparrow built a nest under our roof.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-012",
+  "word": "wasp",
+  "pronunciation": "WAHSP",
+  "filipino": "putakti",
+  "example": "A wasp stung my arm while I was picking fruit.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-013",
+  "word": "dragonfly",
+  "pronunciation": "DRAG-un-fly",
+  "filipino": "tutubi",
+  "example": "A dragonfly landed on the tip of the grass.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-014",
+  "word": "firefly",
+  "pronunciation": "FYR-fly",
+  "filipino": "alitaptap",
+  "example": "Fireflies light up the trees near the river at night.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-015",
+  "word": "grasshopper",
+  "pronunciation": "GRAS-hah-per",
+  "filipino": "tipaklong",
+  "example": "The grasshopper jumped from leaf to leaf.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-016",
+  "word": "caterpillar",
+  "pronunciation": "KAT-er-pil-er",
+  "filipino": "higad",
+  "example": "A caterpillar later turns into a beautiful butterfly.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-017",
+  "word": "earthworm",
+  "pronunciation": "ERTH-werm",
+  "filipino": "bulate",
+  "example": "An earthworm helps keep the soil healthy.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-018",
+  "word": "snail",
+  "pronunciation": "SNAYL",
+  "filipino": "suso",
+  "example": "A snail moved slowly across the wet leaf.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-019",
+  "word": "flea",
+  "pronunciation": "FLEE",
+  "filipino": "pulgas",
+  "example": "Our dog keeps scratching because of fleas.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-020",
+  "word": "centipede",
+  "pronunciation": "SEN-tuh-peed",
+  "filipino": "alupihan",
+  "example": "A centipede has many legs and can bite.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-021",
+  "word": "parrot",
+  "pronunciation": "PAR-ut",
+  "filipino": "loro",
+  "example": "The parrot can copy the words it hears.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-022",
+  "word": "owl",
+  "pronunciation": "OWL",
+  "filipino": "kuwago",
+  "example": "The owl hunts for mice at night.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-023",
+  "word": "bat",
+  "pronunciation": "BAT",
+  "filipino": "paniki",
+  "example": "Bats fly out of the cave when the sun sets.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-024",
+  "word": "beetle",
+  "pronunciation": "BEE-tul",
+  "filipino": "salagubang",
+  "example": "Children in the province catch beetles in the summer.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-025",
+  "word": "deer",
+  "pronunciation": "DEER",
+  "filipino": "usa",
+  "example": "The Philippine deer lives in the forests of Visayas.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-026",
+  "word": "hawk",
+  "pronunciation": "HAWK",
+  "filipino": "lawin",
+  "example": "The hawk circled above the chickens in the yard.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-027",
+  "word": "whale shark",
+  "pronunciation": "WAYL SHARK",
+  "filipino": "butanding",
+  "example": "Tourists swim with the whale shark in Donsol.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-028",
+  "word": "jellyfish",
+  "pronunciation": "JEL-ee-fish",
+  "filipino": "dikya",
+  "example": "Be careful, a jellyfish sting can be painful.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-029",
+  "word": "squid",
+  "pronunciation": "SKWID",
+  "filipino": "pusit",
+  "example": "We had grilled squid at the beach.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-030",
+  "word": "puppy",
+  "pronunciation": "PUP-ee",
+  "filipino": "tuta",
+  "example": "Our puppy sleeps beside my bed every night.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-031",
+  "word": "kitten",
+  "pronunciation": "KIT-un",
+  "filipino": "kuting",
+  "example": "The kitten plays with a ball of yarn.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "animals-i-032",
+  "word": "pigeon",
+  "pronunciation": "PIJ-un",
+  "filipino": "kalapati",
+  "example": "Pigeons gather in the plaza near the church.",
+  "category": "animals",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-001",
+  "word": "clinic",
+  "pronunciation": "KLIN-ik",
+  "filipino": "klinika",
+  "example": "We went to the health clinic for my vaccine.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-002",
+  "word": "fire station",
+  "pronunciation": "FYR STAY-shun",
+  "filipino": "himpilan ng bumbero",
+  "example": "The fire station is near the town hall.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-003",
+  "word": "chapel",
+  "pronunciation": "CHAP-ul",
+  "filipino": "kapilya",
+  "example": "We pray the rosary at the chapel in our barangay.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-004",
+  "word": "seashore",
+  "pronunciation": "SEE-shor",
+  "filipino": "baybay-dagat",
+  "example": "We collected shells along the seashore in La Union.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-005",
+  "word": "town hall",
+  "pronunciation": "TOWN HAWL",
+  "filipino": "munisipyo",
+  "example": "The mayor's office is inside the town hall.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-006",
+  "word": "post office",
+  "pronunciation": "POHST AW-fis",
+  "filipino": "tanggapan ng koreo",
+  "example": "I mailed a letter to my pen pal at the post office.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-007",
+  "word": "bank",
+  "pronunciation": "BANGK",
+  "filipino": "bangko",
+  "example": "My father keeps his savings in the bank.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-008",
+  "word": "pharmacy",
+  "pronunciation": "FAR-muh-see",
+  "filipino": "botika",
+  "example": "We bought medicine for my cough at the pharmacy.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-009",
+  "word": "valley",
+  "pronunciation": "VAL-ee",
+  "filipino": "lambak",
+  "example": "Cagayan Valley is known for its rice and corn.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-010",
+  "word": "hill",
+  "pronunciation": "HIL",
+  "filipino": "burol",
+  "example": "We climbed the hill to watch the sunset.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-011",
+  "word": "museum",
+  "pronunciation": "myoo-ZEE-um",
+  "filipino": "museo",
+  "example": "We saw old paintings at the National Museum.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-012",
+  "word": "rice field",
+  "pronunciation": "RYS FEELD",
+  "filipino": "palayan",
+  "example": "Farmers plant rice in the rice field during June.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-013",
+  "word": "lake",
+  "pronunciation": "LAYK",
+  "filipino": "lawa",
+  "example": "Taal Lake surrounds a small but active volcano.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-014",
+  "word": "ocean",
+  "pronunciation": "OH-shun",
+  "filipino": "karagatan",
+  "example": "The Pacific Ocean lies east of the Philippines.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-015",
+  "word": "hotel",
+  "pronunciation": "hoh-TEL",
+  "filipino": "otel",
+  "example": "We stayed in a small hotel in Baguio.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-016",
+  "word": "eatery",
+  "pronunciation": "EE-ter-ee",
+  "filipino": "karinderya",
+  "example": "Workers eat lunch at the small eatery near the factory.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-017",
+  "word": "volcano",
+  "pronunciation": "vahl-KAY-noh",
+  "filipino": "bulkan",
+  "example": "Mayon Volcano has an almost perfect cone shape.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-018",
+  "word": "waterfall",
+  "pronunciation": "WAW-ter-fawl",
+  "filipino": "talon",
+  "example": "We swam under a cool waterfall in Laguna.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-019",
+  "word": "cave",
+  "pronunciation": "KAYV",
+  "filipino": "kuweba",
+  "example": "Many bats live inside the dark cave.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-020",
+  "word": "province",
+  "pronunciation": "PRAH-vins",
+  "filipino": "probinsiya",
+  "example": "We spend our summer vacation in the province.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-021",
+  "word": "barbershop",
+  "pronunciation": "BAR-ber-shahp",
+  "filipino": "barberya",
+  "example": "Dad gets a haircut at the barbershop every month.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-022",
+  "word": "gas station",
+  "pronunciation": "GAS STAY-shun",
+  "filipino": "gasolinahan",
+  "example": "Our jeepney stopped at the gas station to buy fuel.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-023",
+  "word": "neighborhood",
+  "pronunciation": "NAY-ber-hud",
+  "filipino": "kapitbahayan",
+  "example": "Our neighborhood has a small sari-sari store.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-024",
+  "word": "apartment",
+  "pronunciation": "uh-PART-ment",
+  "filipino": "paupahang bahay",
+  "example": "My aunt rents an apartment near her office in Makati.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-025",
+  "word": "port",
+  "pronunciation": "PORT",
+  "filipino": "daungan",
+  "example": "The ferry left the port for Mindoro at noon.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-026",
+  "word": "bus terminal",
+  "pronunciation": "BUS TER-mi-nul",
+  "filipino": "terminal ng bus",
+  "example": "We waited at the bus terminal for the trip to Baguio.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-027",
+  "word": "cemetery",
+  "pronunciation": "SEM-uh-ter-ee",
+  "filipino": "sementeryo",
+  "example": "Families visit the cemetery on All Saints' Day.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-028",
+  "word": "gymnasium",
+  "pronunciation": "jim-NAY-zee-um",
+  "filipino": "himnasyo",
+  "example": "Our school program was held in the gymnasium.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-029",
+  "word": "police station",
+  "pronunciation": "puh-LEES STAY-shun",
+  "filipino": "himpilan ng pulisya",
+  "example": "They reported the lost wallet at the police station.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-030",
+  "word": "highway",
+  "pronunciation": "HY-way",
+  "filipino": "lansangan",
+  "example": "Many buses travel along the highway to Bicol.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-031",
+  "word": "subdivision",
+  "pronunciation": "SUB-di-vizh-un",
+  "filipino": "subdibisyon",
+  "example": "My classmate lives in a subdivision near the highway.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "places-i-032",
+  "word": "factory",
+  "pronunciation": "FAK-tuh-ree",
+  "filipino": "pabrika",
+  "example": "My cousin works in a shoe factory in Marikina.",
+  "category": "places",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-001",
+  "word": "curious",
+  "pronunciation": "KYUR-ee-us",
+  "filipino": "mausisa",
+  "example": "Curious students ask many questions in class.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-002",
+  "word": "lucky",
+  "pronunciation": "LUK-ee",
+  "filipino": "masuwerte",
+  "example": "We were lucky to get home before the heavy rain.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-003",
+  "word": "joyful",
+  "pronunciation": "JOY-ful",
+  "filipino": "maligaya",
+  "example": "The town was joyful during the Sinulog festival.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-004",
+  "word": "proud",
+  "pronunciation": "PROWD",
+  "filipino": "ipinagmamalaki",
+  "example": "My parents are proud of my good grades.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-005",
+  "word": "patient",
+  "pronunciation": "PAY-shunt",
+  "filipino": "matiyaga",
+  "example": "Be patient while waiting for your turn in line.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-006",
+  "word": "eager",
+  "pronunciation": "EE-ger",
+  "filipino": "sabik",
+  "example": "The students were eager to go on the field trip.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-007",
+  "word": "gloomy",
+  "pronunciation": "GLOO-mee",
+  "filipino": "matamlay",
+  "example": "Rainy days make me feel gloomy and quiet.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-008",
+  "word": "puzzled",
+  "pronunciation": "PUZ-uld",
+  "filipino": "naguguluhan",
+  "example": "Ben looked puzzled when he saw the hard question.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-009",
+  "word": "terrified",
+  "pronunciation": "TER-uh-fyd",
+  "filipino": "takot na takot",
+  "example": "I was terrified when the strong earthquake shook our house.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-010",
+  "word": "delighted",
+  "pronunciation": "di-LY-tid",
+  "filipino": "natuwa",
+  "example": "Lola was delighted to see all her grandchildren.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-011",
+  "word": "sorrowful",
+  "pronunciation": "SAHR-oh-ful",
+  "filipino": "nagdadalamhati",
+  "example": "The sorrowful family prayed at Lolo's wake.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-012",
+  "word": "heartbroken",
+  "pronunciation": "HART-broh-kun",
+  "filipino": "durog ang puso",
+  "example": "Ana was heartbroken when her pet cat died.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-013",
+  "word": "shocked",
+  "pronunciation": "SHAHKT",
+  "filipino": "gulat na gulat",
+  "example": "We were shocked to hear the sad news.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-014",
+  "word": "frightened",
+  "pronunciation": "FRY-tund",
+  "filipino": "natatakot",
+  "example": "The frightened child hid behind his mother.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-015",
+  "word": "thrilled",
+  "pronunciation": "THRILD",
+  "filipino": "tuwang-tuwa",
+  "example": "Maria was thrilled to win first place in the contest.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-016",
+  "word": "impatient",
+  "pronunciation": "im-PAY-shunt",
+  "filipino": "mainipin",
+  "example": "The impatient boy kept asking if lunch was ready.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-017",
+  "word": "safe",
+  "pronunciation": "SAYF",
+  "filipino": "ligtas",
+  "example": "I feel safe when my family is with me.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-018",
+  "word": "grumpy",
+  "pronunciation": "GRUM-pee",
+  "filipino": "masungit",
+  "example": "Kuya is grumpy when he wakes up too early.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-019",
+  "word": "energetic",
+  "pronunciation": "en-er-JET-ik",
+  "filipino": "masigla",
+  "example": "The kids were energetic after eating their merienda.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-020",
+  "word": "dizzy",
+  "pronunciation": "DIZ-ee",
+  "filipino": "nahihilo",
+  "example": "I felt dizzy after riding the carousel many times.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-021",
+  "word": "satisfied",
+  "pronunciation": "SAT-is-fyd",
+  "filipino": "nasiyahan",
+  "example": "The customer was satisfied with the delicious food.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-022",
+  "word": "hopeful",
+  "pronunciation": "HOHP-ful",
+  "filipino": "umaasa",
+  "example": "We are hopeful that the typhoon will not hit us.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-023",
+  "word": "restless",
+  "pronunciation": "REST-lis",
+  "filipino": "di mapakali",
+  "example": "The restless puppy kept running around the house.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-024",
+  "word": "upset",
+  "pronunciation": "up-SET",
+  "filipino": "masama ang loob",
+  "example": "Mia was upset because her friend did not call.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-025",
+  "word": "sulky",
+  "pronunciation": "SUL-kee",
+  "filipino": "nagtatampo",
+  "example": "My little sister was sulky because she did not get candy.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-026",
+  "word": "touched",
+  "pronunciation": "TUCHT",
+  "filipino": "naantig",
+  "example": "I was touched by my classmates' kind letters.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-027",
+  "word": "comfortable",
+  "pronunciation": "KUMF-ter-bul",
+  "filipino": "komportable",
+  "example": "I feel comfortable wearing my old slippers at home.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-028",
+  "word": "amazed",
+  "pronunciation": "uh-MAYZD",
+  "filipino": "namangha",
+  "example": "We were amazed by the beautiful Chocolate Hills.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-029",
+  "word": "guilty",
+  "pronunciation": "GIL-tee",
+  "filipino": "nakokonsensiya",
+  "example": "I felt guilty after breaking my brother's toy.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-030",
+  "word": "peaceful",
+  "pronunciation": "PEES-ful",
+  "filipino": "payapa",
+  "example": "The beach feels peaceful early in the morning.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-031",
+  "word": "hopeless",
+  "pronunciation": "HOHP-lis",
+  "filipino": "walang pag-asa",
+  "example": "Do not feel hopeless, because you can try again tomorrow.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "feelings-i-032",
+  "word": "suspicious",
+  "pronunciation": "suh-SPISH-us",
+  "filipino": "naghihinala",
+  "example": "The guard was suspicious of the man near the gate.",
+  "category": "feelings",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-001",
+  "word": "borrow",
+  "pronunciation": "BAHR-oh",
+  "filipino": "humiram",
+  "example": "Can I borrow your pen for a moment?",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-002",
+  "word": "explain",
+  "pronunciation": "ik-SPLAYN",
+  "filipino": "ipaliwanag",
+  "example": "Can you explain the meaning of this word?",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-003",
+  "word": "lend",
+  "pronunciation": "LEND",
+  "filipino": "magpahiram",
+  "example": "Ana will lend me her umbrella this afternoon.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-004",
+  "word": "describe",
+  "pronunciation": "di-SKRYB",
+  "filipino": "ilarawan",
+  "example": "Describe your favorite place in the Philippines.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-005",
+  "word": "discover",
+  "pronunciation": "dis-KUV-er",
+  "filipino": "tuklasin",
+  "example": "Scientists discover new animals in Philippine forests every year.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-006",
+  "word": "protect",
+  "pronunciation": "pruh-TEKT",
+  "filipino": "pangalagaan",
+  "example": "We must protect our coral reefs from pollution.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-007",
+  "word": "collect",
+  "pronunciation": "kuh-LEKT",
+  "filipino": "mangolekta",
+  "example": "Lito likes to collect stamps from other countries.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-008",
+  "word": "arrange",
+  "pronunciation": "uh-RAYNJ",
+  "filipino": "ayusin",
+  "example": "Please arrange the chairs before the meeting starts.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-009",
+  "word": "prepare",
+  "pronunciation": "pri-PAIR",
+  "filipino": "maghanda",
+  "example": "Mother wakes up early to prepare our baon.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-010",
+  "word": "celebrate",
+  "pronunciation": "SEL-uh-brayt",
+  "filipino": "magdiwang",
+  "example": "We celebrate the town fiesta every May.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-011",
+  "word": "decide",
+  "pronunciation": "di-SYD",
+  "filipino": "magpasya",
+  "example": "You must decide which club you want to join.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-012",
+  "word": "improve",
+  "pronunciation": "im-PROOV",
+  "filipino": "pagbutihin",
+  "example": "Reading daily will improve your English skills.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-013",
+  "word": "forgive",
+  "pronunciation": "fer-GIV",
+  "filipino": "patawarin",
+  "example": "Please forgive me for breaking your toy.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-014",
+  "word": "apologize",
+  "pronunciation": "uh-PAHL-uh-jyz",
+  "filipino": "humingi ng tawad",
+  "example": "I will apologize to my friend for being rude.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-015",
+  "word": "recycle",
+  "pronunciation": "ree-SY-kul",
+  "filipino": "muling gamitin",
+  "example": "We recycle plastic bottles to make pots for plants.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-016",
+  "word": "whisper",
+  "pronunciation": "WIS-per",
+  "filipino": "bumulong",
+  "example": "Do not whisper to your seatmate during the test.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-017",
+  "word": "shout",
+  "pronunciation": "SHOWT",
+  "filipino": "sumigaw",
+  "example": "Please do not shout inside the library.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-018",
+  "word": "wipe",
+  "pronunciation": "WYP",
+  "filipino": "punasan",
+  "example": "Please wipe the table after we eat.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-019",
+  "word": "rinse",
+  "pronunciation": "RINS",
+  "filipino": "banlawan",
+  "example": "Rinse the plates well with clean water.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-020",
+  "word": "hang",
+  "pronunciation": "HANG",
+  "filipino": "isabit",
+  "example": "Hang your bag on the hook behind the door.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-021",
+  "word": "fold",
+  "pronunciation": "FOHLD",
+  "filipino": "tiklupin",
+  "example": "Fold your clothes neatly before putting them away.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-022",
+  "word": "hurry",
+  "pronunciation": "HER-ee",
+  "filipino": "magmadali",
+  "example": "We must hurry or we will miss the jeepney.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-023",
+  "word": "practice",
+  "pronunciation": "PRAK-tis",
+  "filipino": "magsanay",
+  "example": "We practice our dance for the school program every afternoon.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-024",
+  "word": "obey",
+  "pronunciation": "oh-BAY",
+  "filipino": "sumunod",
+  "example": "Children should obey their parents and teachers.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-025",
+  "word": "share",
+  "pronunciation": "SHAIR",
+  "filipino": "magbahagi",
+  "example": "Let us share our snacks with our classmates.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-026",
+  "word": "plant",
+  "pronunciation": "PLANT",
+  "filipino": "magtanim",
+  "example": "We plant vegetables in our school garden.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-027",
+  "word": "search",
+  "pronunciation": "SERCH",
+  "filipino": "maghanap",
+  "example": "We search for seashells along the shore.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-028",
+  "word": "pray",
+  "pronunciation": "PRAY",
+  "filipino": "manalangin",
+  "example": "Our family prays together before eating dinner.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-029",
+  "word": "greet",
+  "pronunciation": "GREET",
+  "filipino": "bumati",
+  "example": "We greet our teacher with good morning every day.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-030",
+  "word": "invite",
+  "pronunciation": "in-VYT",
+  "filipino": "mag-imbita",
+  "example": "I will invite my classmates to my birthday party.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-031",
+  "word": "promise",
+  "pronunciation": "PRAH-mis",
+  "filipino": "mangako",
+  "example": "I promise to finish my homework before playing.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "actions-i-032",
+  "word": "complain",
+  "pronunciation": "kum-PLAYN",
+  "filipino": "magreklamo",
+  "example": "Do not complain if the food is not your favorite.",
+  "category": "actions",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-001",
+  "word": "however",
+  "pronunciation": "how-EV-er",
+  "filipino": "gayunman",
+  "example": "I studied hard; however, the test was still difficult.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-002",
+  "word": "usually",
+  "pronunciation": "YOO-zhoo-uh-lee",
+  "filipino": "kadalasan",
+  "example": "I usually walk to school with my cousins.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-003",
+  "word": "enough",
+  "pronunciation": "i-NUF",
+  "filipino": "sapat",
+  "example": "Do we have enough rice for everyone tonight?",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-004",
+  "word": "several",
+  "pronunciation": "SEV-rul",
+  "filipino": "ilan",
+  "example": "Several students joined the clean-up drive on Saturday.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-005",
+  "word": "although",
+  "pronunciation": "awl-THOH",
+  "filipino": "bagaman",
+  "example": "Although it was raining, we still went to school.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-006",
+  "word": "during",
+  "pronunciation": "DUR-ing",
+  "filipino": "sa panahon ng",
+  "example": "Please be quiet during the flag ceremony.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-007",
+  "word": "almost",
+  "pronunciation": "AWL-mohst",
+  "filipino": "halos",
+  "example": "It is almost time for the bell to ring.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-008",
+  "word": "probably",
+  "pronunciation": "PRAH-buh-blee",
+  "filipino": "marahil",
+  "example": "It will probably rain later this afternoon.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-009",
+  "word": "especially",
+  "pronunciation": "i-SPESH-uh-lee",
+  "filipino": "lalo na",
+  "example": "I love fruits, especially mangoes from Guimaras.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-010",
+  "word": "important",
+  "pronunciation": "im-POR-tunt",
+  "filipino": "mahalaga",
+  "example": "It is important to wash your hands before eating.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-011",
+  "word": "different",
+  "pronunciation": "DIF-runt",
+  "filipino": "iba",
+  "example": "My cousin and I like different kinds of music.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-012",
+  "word": "similar",
+  "pronunciation": "SIM-uh-ler",
+  "filipino": "magkatulad",
+  "example": "Pandesal and monay taste similar but look different.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-013",
+  "word": "suddenly",
+  "pronunciation": "SUD-un-lee",
+  "filipino": "bigla",
+  "example": "Suddenly, the lights went out during the storm.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-014",
+  "word": "finally",
+  "pronunciation": "FY-nuh-lee",
+  "filipino": "sa wakas",
+  "example": "We finally reached the top of the hill.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-015",
+  "word": "instead",
+  "pronunciation": "in-STED",
+  "filipino": "sa halip",
+  "example": "Drink water instead of soft drinks with your meal.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-016",
+  "word": "whole",
+  "pronunciation": "HOHL",
+  "filipino": "buo",
+  "example": "I ate the whole banana in two bites.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-017",
+  "word": "each",
+  "pronunciation": "EECH",
+  "filipino": "bawat",
+  "example": "Each student will receive a new textbook.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-018",
+  "word": "perhaps",
+  "pronunciation": "per-HAPS",
+  "filipino": "siguro",
+  "example": "Perhaps Lola will visit us this Christmas.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-019",
+  "word": "sometimes",
+  "pronunciation": "SUM-tymz",
+  "filipino": "minsan",
+  "example": "Sometimes we eat dinner at Lola's house.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-020",
+  "word": "often",
+  "pronunciation": "AW-fun",
+  "filipino": "madalas",
+  "example": "We often play patintero after school.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-021",
+  "word": "seldom",
+  "pronunciation": "SEL-dum",
+  "filipino": "bihira",
+  "example": "My busy father seldom watches TV at night.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-022",
+  "word": "quickly",
+  "pronunciation": "KWIK-lee",
+  "filipino": "mabilis",
+  "example": "Finish your food quickly so we will not be late.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-023",
+  "word": "beside",
+  "pronunciation": "bi-SYD",
+  "filipino": "katabi",
+  "example": "My best friend sits beside me in class.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-024",
+  "word": "between",
+  "pronunciation": "bi-TWEEN",
+  "filipino": "sa pagitan ng",
+  "example": "The bakery is between the church and the school.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-025",
+  "word": "toward",
+  "pronunciation": "tuh-WORD",
+  "filipino": "patungo",
+  "example": "The children ran toward the ice cream vendor.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-026",
+  "word": "except",
+  "pronunciation": "ik-SEPT",
+  "filipino": "maliban sa",
+  "example": "Everyone came to the party except Mark.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-027",
+  "word": "correct",
+  "pronunciation": "kuh-REKT",
+  "filipino": "tama",
+  "example": "Choose the correct answer from the choices below.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-028",
+  "word": "necessary",
+  "pronunciation": "NES-uh-ser-ee",
+  "filipino": "kailangan",
+  "example": "It is necessary to bring an umbrella in June.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-029",
+  "word": "possible",
+  "pronunciation": "PAH-si-bul",
+  "filipino": "posible",
+  "example": "Is it possible to finish this project today?",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-030",
+  "word": "certain",
+  "pronunciation": "SER-tun",
+  "filipino": "sigurado",
+  "example": "Are you certain that the store is open today?",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-031",
+  "word": "anyone",
+  "pronunciation": "EN-ee-wun",
+  "filipino": "sinuman",
+  "example": "Does anyone have an extra pencil I can use?",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "common-i-032",
+  "word": "everything",
+  "pronunciation": "EV-ree-thing",
+  "filipino": "lahat",
+  "example": "We packed everything we need for the trip.",
+  "category": "common",
+  "level": "intermediate"
+ },
+ {
+  "id": "school-a-001",
+  "word": "curriculum",
+  "pronunciation": "kuh-RIK-yuh-lum",
+  "filipino": "kurikulum",
+  "example": "The K to 12 curriculum added two more years of senior high school.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-002",
+  "word": "assignment",
+  "pronunciation": "uh-SYN-ment",
+  "filipino": "takdang-aralin",
+  "example": "Our teacher gave us a research assignment about Philippine heroes.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-003",
+  "word": "scholarship",
+  "pronunciation": "SKOL-ur-ship",
+  "filipino": "iskolarship",
+  "example": "Maria earned a scholarship to study engineering at a university in Manila.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-004",
+  "word": "thesis",
+  "pronunciation": "THEE-sis",
+  "filipino": "tesis",
+  "example": "My cousin is writing her thesis on rice farming in Nueva Ecija.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-005",
+  "word": "semester",
+  "pronunciation": "suh-MES-tur",
+  "filipino": "semestre",
+  "example": "The first semester ends in December, just before the Christmas break.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-006",
+  "word": "enrollment",
+  "pronunciation": "en-ROHL-ment",
+  "filipino": "pagpapatala",
+  "example": "Enrollment for the new school year starts in early June.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-007",
+  "word": "diploma",
+  "pronunciation": "dih-PLOH-muh",
+  "filipino": "diploma",
+  "example": "She proudly received her diploma during the ceremony in April.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-008",
+  "word": "graduation",
+  "pronunciation": "graj-oo-AY-shun",
+  "filipino": "pagtatapos",
+  "example": "Our whole family attended my brother's graduation at the town gym.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-009",
+  "word": "faculty",
+  "pronunciation": "FAK-ul-tee",
+  "filipino": "kaguruan",
+  "example": "The faculty of our school held a meeting about the science fair.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-010",
+  "word": "transcript",
+  "pronunciation": "TRANS-kript",
+  "filipino": "talaan ng mga marka",
+  "example": "The university asked for my transcript before accepting my application.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-011",
+  "word": "examination",
+  "pronunciation": "ig-zam-uh-NAY-shun",
+  "filipino": "pagsusulit",
+  "example": "We studied hard for the national examination in mathematics and science.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-012",
+  "word": "research",
+  "pronunciation": "REE-surch",
+  "filipino": "pananaliksik",
+  "example": "Our group did research on plastic pollution in Manila Bay.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-013",
+  "word": "laboratory",
+  "pronunciation": "LAB-ruh-tor-ee",
+  "filipino": "laboratoryo",
+  "example": "We wore goggles while mixing chemicals in the science laboratory.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-014",
+  "word": "lecture",
+  "pronunciation": "LEK-chur",
+  "filipino": "panayam",
+  "example": "The professor gave a long lecture about the Philippine Revolution.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-015",
+  "word": "syllabus",
+  "pronunciation": "SIL-uh-bus",
+  "filipino": "balangkas ng kurso",
+  "example": "The teacher gave us the syllabus on the first day of class.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-016",
+  "word": "academic",
+  "pronunciation": "ak-uh-DEM-ik",
+  "filipino": "pang-akademiko",
+  "example": "Her academic performance improved after she joined a study group.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-017",
+  "word": "discipline",
+  "pronunciation": "DIS-uh-plin",
+  "filipino": "disiplina",
+  "example": "Good discipline helps students finish their projects on time.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-018",
+  "word": "attendance",
+  "pronunciation": "uh-TEN-duns",
+  "filipino": "pagdalo",
+  "example": "Our adviser checks the attendance every morning before the flag ceremony.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-019",
+  "word": "evaluation",
+  "pronunciation": "ih-val-yoo-AY-shun",
+  "filipino": "pagtatasa",
+  "example": "The teacher's evaluation showed that I need to improve my writing.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-020",
+  "word": "comprehension",
+  "pronunciation": "kom-prih-HEN-shun",
+  "filipino": "pag-unawa",
+  "example": "Reading comprehension improves when you read books every day.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-021",
+  "word": "essay",
+  "pronunciation": "ES-ay",
+  "filipino": "sanaysay",
+  "example": "I wrote an essay about the importance of protecting our forests.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-022",
+  "word": "vocabulary",
+  "pronunciation": "voh-KAB-yuh-ler-ee",
+  "filipino": "talasalitaan",
+  "example": "Reading English novels helped me build a wider vocabulary.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-023",
+  "word": "literature",
+  "pronunciation": "LIT-ur-uh-chur",
+  "filipino": "panitikan",
+  "example": "We studied Philippine literature, including the novels of Jose Rizal.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-024",
+  "word": "reference",
+  "pronunciation": "REF-ur-uns",
+  "filipino": "sanggunian",
+  "example": "Always list every reference you used at the end of your report.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-025",
+  "word": "deadline",
+  "pronunciation": "DED-lyn",
+  "filipino": "takdang petsa",
+  "example": "The deadline for our science project is next Friday afternoon.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-026",
+  "word": "presentation",
+  "pronunciation": "prez-en-TAY-shun",
+  "filipino": "presentasyon",
+  "example": "Our group presentation about climate change lasted fifteen minutes.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-027",
+  "word": "recitation",
+  "pronunciation": "res-ih-TAY-shun",
+  "filipino": "resitasyon",
+  "example": "I raised my hand during recitation to answer the teacher's question.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-028",
+  "word": "extracurricular",
+  "pronunciation": "eks-truh-kuh-RIK-yuh-lur",
+  "filipino": "ekstrakurikular",
+  "example": "She joins extracurricular activities like the school paper and the choir.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-029",
+  "word": "plagiarism",
+  "pronunciation": "PLAY-juh-riz-um",
+  "filipino": "pangongopya ng akda ng iba",
+  "example": "Copying an article without giving credit to the author is plagiarism.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-030",
+  "word": "dormitory",
+  "pronunciation": "DOR-mih-tor-ee",
+  "filipino": "dormitoryo",
+  "example": "Students from the provinces often stay in a dormitory near the university.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-031",
+  "word": "tuition",
+  "pronunciation": "too-ISH-un",
+  "filipino": "matrikula",
+  "example": "My parents saved money all year to pay my college tuition.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "school-a-032",
+  "word": "valedictorian",
+  "pronunciation": "val-uh-dik-TOR-ee-un",
+  "filipino": "balediktoryan",
+  "example": "The valedictorian thanked her parents in her speech at graduation.",
+  "category": "school",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-001",
+  "word": "ancestors",
+  "pronunciation": "AN-ses-turz",
+  "filipino": "mga ninuno",
+  "example": "Our ancestors traded with Chinese merchants long before the Spanish arrived.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-002",
+  "word": "descendant",
+  "pronunciation": "dih-SEN-dunt",
+  "filipino": "inapo",
+  "example": "He is a descendant of a famous revolutionary leader from Cavite.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-003",
+  "word": "patriarch",
+  "pronunciation": "PAY-tree-ark",
+  "filipino": "lalaking pinuno ng angkan",
+  "example": "As the family patriarch, Lolo Andres settles every argument among his children.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-004",
+  "word": "dowry",
+  "pronunciation": "DOW-ree",
+  "filipino": "dote",
+  "example": "In some old Filipino traditions, the groom offered a dowry to the bride's family.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-005",
+  "word": "generation",
+  "pronunciation": "jen-uh-RAY-shun",
+  "filipino": "salinlahi",
+  "example": "The younger generation uses smartphones more than their grandparents did.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-006",
+  "word": "heritage",
+  "pronunciation": "HER-ih-tij",
+  "filipino": "pamana",
+  "example": "Weaving is part of the cultural heritage of the Ifugao people.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-007",
+  "word": "inheritance",
+  "pronunciation": "in-HER-ih-tuns",
+  "filipino": "mana",
+  "example": "The farmland was divided equally as an inheritance among the five children.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-008",
+  "word": "guardian",
+  "pronunciation": "GAR-dee-un",
+  "filipino": "tagapag-alaga",
+  "example": "Her aunt became her legal guardian while her parents worked abroad.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-009",
+  "word": "spouse",
+  "pronunciation": "SPOWS",
+  "filipino": "asawa",
+  "example": "Each employee may bring a spouse to the company Christmas party.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-010",
+  "word": "household",
+  "pronunciation": "HOWS-hohld",
+  "filipino": "sambahayan",
+  "example": "Every household in our barangay received rice after the flood.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-011",
+  "word": "upbringing",
+  "pronunciation": "UP-bring-ing",
+  "filipino": "pagpapalaki",
+  "example": "Her strict upbringing taught her to respect her elders.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-012",
+  "word": "kinship",
+  "pronunciation": "KIN-ship",
+  "filipino": "pagkakamag-anak",
+  "example": "Filipinos value kinship, so cousins are often treated like siblings.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-013",
+  "word": "reunion",
+  "pronunciation": "ree-YOON-yun",
+  "filipino": "muling pagsasama-sama",
+  "example": "Our family reunion in Batangas gathered more than eighty relatives.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-014",
+  "word": "lineage",
+  "pronunciation": "LIN-ee-ij",
+  "filipino": "lahi",
+  "example": "The datu proudly traced his lineage back to the first settlers of the island.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-015",
+  "word": "offspring",
+  "pronunciation": "OF-spring",
+  "filipino": "supling",
+  "example": "Parents work hard so their offspring can have a better future.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-016",
+  "word": "adolescent",
+  "pronunciation": "ad-uh-LES-unt",
+  "filipino": "nagbibinata o nagdadalaga",
+  "example": "An adolescent needs enough sleep to stay healthy and focused in school.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-017",
+  "word": "elderly",
+  "pronunciation": "EL-dur-lee",
+  "filipino": "matatanda",
+  "example": "Filipino families usually care for their elderly at home.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-018",
+  "word": "sacrifice",
+  "pronunciation": "SAK-ruh-fys",
+  "filipino": "sakripisyo",
+  "example": "My father's sacrifice as an overseas worker paid for our education.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-019",
+  "word": "responsibility",
+  "pronunciation": "rih-spon-suh-BIL-ih-tee",
+  "filipino": "pananagutan",
+  "example": "Taking care of my younger siblings is my responsibility after school.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-020",
+  "word": "obedience",
+  "pronunciation": "oh-BEE-dee-uns",
+  "filipino": "pagsunod",
+  "example": "Obedience to parents is an important value in many Filipino homes.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-021",
+  "word": "godparent",
+  "pronunciation": "GOD-pair-unt",
+  "filipino": "ninong o ninang",
+  "example": "My godparent always gives me a gift every Christmas.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-022",
+  "word": "orphan",
+  "pronunciation": "OR-fun",
+  "filipino": "ulila",
+  "example": "The orphan was adopted by a kind couple from Iloilo.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-023",
+  "word": "adoption",
+  "pronunciation": "uh-DOP-shun",
+  "filipino": "pag-aampon",
+  "example": "The adoption process took two years, but now Ana has a loving home.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-024",
+  "word": "matriarch",
+  "pronunciation": "MAY-tree-ark",
+  "filipino": "babaeng pinuno ng angkan",
+  "example": "Lola Remedios is the matriarch who makes all the big family decisions.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-025",
+  "word": "clan",
+  "pronunciation": "KLAN",
+  "filipino": "angkan",
+  "example": "The whole clan gathered for the wedding in Pampanga.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-026",
+  "word": "breadwinner",
+  "pronunciation": "BRED-win-ur",
+  "filipino": "tagapagtaguyod ng pamilya",
+  "example": "As the eldest daughter, Joy became the breadwinner of her family.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-027",
+  "word": "legacy",
+  "pronunciation": "LEG-uh-see",
+  "filipino": "iniwang pamana",
+  "example": "Our grandfather's legacy of honesty still guides our family today.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-028",
+  "word": "widow",
+  "pronunciation": "WID-oh",
+  "filipino": "balo",
+  "example": "The widow raised her four children alone after the typhoon took her husband.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-029",
+  "word": "affection",
+  "pronunciation": "uh-FEK-shun",
+  "filipino": "pagmamahal",
+  "example": "Lolo shows his affection by cooking our favorite adobo every Sunday.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-030",
+  "word": "stepfather",
+  "pronunciation": "STEP-fah-thur",
+  "filipino": "amain",
+  "example": "My stepfather treats me like his own son.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-031",
+  "word": "matrimony",
+  "pronunciation": "MAT-rih-moh-nee",
+  "filipino": "pag-iisang-dibdib",
+  "example": "The couple was joined in holy matrimony at the old church in Paoay.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "family-a-032",
+  "word": "hospitality",
+  "pronunciation": "hos-pih-TAL-ih-tee",
+  "filipino": "mabuting pagtanggap sa bisita",
+  "example": "Filipino hospitality makes visitors feel welcome in every home.",
+  "category": "family",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-001",
+  "word": "nutritious",
+  "pronunciation": "noo-TRISH-us",
+  "filipino": "masustansiya",
+  "example": "Malunggay soup is cheap, delicious, and very nutritious for children.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-002",
+  "word": "cuisine",
+  "pronunciation": "kwih-ZEEN",
+  "filipino": "lutuin",
+  "example": "Filipino cuisine mixes Malay, Spanish, and Chinese flavors.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-003",
+  "word": "delicacy",
+  "pronunciation": "DEL-ih-kuh-see",
+  "filipino": "espesyal na pagkain",
+  "example": "Pastillas de leche is a famous delicacy from Bulacan.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-004",
+  "word": "ingredient",
+  "pronunciation": "in-GREE-dee-unt",
+  "filipino": "sangkap",
+  "example": "Vinegar is the most important ingredient in a good adobo.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-005",
+  "word": "appetite",
+  "pronunciation": "AP-uh-tyt",
+  "filipino": "gana sa pagkain",
+  "example": "After playing basketball all afternoon, I had a huge appetite.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-006",
+  "word": "beverage",
+  "pronunciation": "BEV-ur-ij",
+  "filipino": "inumin",
+  "example": "Buko juice is a refreshing beverage on a hot summer day.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-007",
+  "word": "condiment",
+  "pronunciation": "KON-dih-ment",
+  "filipino": "pampalasa",
+  "example": "Fish sauce, or patis, is a common condiment on Filipino tables.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-008",
+  "word": "nutrient",
+  "pronunciation": "NOO-tree-ent",
+  "filipino": "sustansiya",
+  "example": "Iron is an important nutrient found in green leafy vegetables.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-009",
+  "word": "protein",
+  "pronunciation": "PROH-teen",
+  "filipino": "protina",
+  "example": "Fish and eggs are good sources of protein for growing teenagers.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-010",
+  "word": "carbohydrate",
+  "pronunciation": "kar-boh-HY-drayt",
+  "filipino": "karbohidrato",
+  "example": "Rice is the main carbohydrate in almost every Filipino meal.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-011",
+  "word": "preservative",
+  "pronunciation": "prih-ZUR-vuh-tiv",
+  "filipino": "pampreserba",
+  "example": "Canned goods often contain a preservative to keep them from spoiling.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-012",
+  "word": "fermented",
+  "pronunciation": "fur-MEN-tid",
+  "filipino": "binuro",
+  "example": "Bagoong is made from fermented fish or tiny shrimp.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-013",
+  "word": "savory",
+  "pronunciation": "SAY-vuh-ree",
+  "filipino": "malinamnam",
+  "example": "The savory smell of lechon filled the whole street during the fiesta.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-014",
+  "word": "bland",
+  "pronunciation": "BLAND",
+  "filipino": "matabang",
+  "example": "The soup tasted bland, so Mama added a little salt.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-015",
+  "word": "famine",
+  "pronunciation": "FAM-in",
+  "filipino": "taggutom",
+  "example": "Long droughts can cause famine in poor farming communities.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-016",
+  "word": "harvest",
+  "pronunciation": "HAR-vist",
+  "filipino": "ani",
+  "example": "Farmers in Isabela celebrate after a good corn harvest.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-017",
+  "word": "staple",
+  "pronunciation": "STAY-pul",
+  "filipino": "pangunahing pagkain",
+  "example": "Rice is the staple food of most families in the Philippines.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-018",
+  "word": "portion",
+  "pronunciation": "POR-shun",
+  "filipino": "bahagi",
+  "example": "Eat a small portion of fried food and more fruits instead.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-019",
+  "word": "recipe",
+  "pronunciation": "RES-uh-pee",
+  "filipino": "resipe",
+  "example": "My grandmother's recipe for kare-kare is a family secret.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-020",
+  "word": "cholesterol",
+  "pronunciation": "kuh-LES-tuh-rol",
+  "filipino": "kolesterol",
+  "example": "Eating too much lechon can raise your cholesterol level.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-021",
+  "word": "aroma",
+  "pronunciation": "uh-ROH-muh",
+  "filipino": "bango",
+  "example": "The aroma of freshly baked pandesal woke me up early.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-022",
+  "word": "malnutrition",
+  "pronunciation": "mal-noo-TRISH-un",
+  "filipino": "malnutrisyon",
+  "example": "The feeding program helps reduce malnutrition among young pupils.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-023",
+  "word": "organic",
+  "pronunciation": "or-GAN-ik",
+  "filipino": "organiko",
+  "example": "The farmers' market in Baguio sells organic lettuce and strawberries.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-024",
+  "word": "perishable",
+  "pronunciation": "PER-ih-shuh-bul",
+  "filipino": "madaling masira",
+  "example": "Fish is perishable, so vendors keep it on ice.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-025",
+  "word": "spoiled",
+  "pronunciation": "SPOYLD",
+  "filipino": "panis",
+  "example": "Do not eat the rice if it smells spoiled.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-026",
+  "word": "culinary",
+  "pronunciation": "KUL-ih-ner-ee",
+  "filipino": "may kinalaman sa pagluluto",
+  "example": "She took a culinary course to become a chef in a hotel.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-027",
+  "word": "marinate",
+  "pronunciation": "MAR-ih-nayt",
+  "filipino": "ibabad sa timpla",
+  "example": "Marinate the chicken in soy sauce and calamansi juice overnight.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-028",
+  "word": "fiber",
+  "pronunciation": "FY-bur",
+  "filipino": "hibla",
+  "example": "Fruits like guava and mango are rich in fiber.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-029",
+  "word": "hygiene",
+  "pronunciation": "HY-jeen",
+  "filipino": "kalinisan",
+  "example": "Food handlers must follow proper hygiene to prevent illness.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-030",
+  "word": "contaminated",
+  "pronunciation": "kun-TAM-ih-nay-tid",
+  "filipino": "kontaminado",
+  "example": "Contaminated water can cause diarrhea and other serious diseases.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-031",
+  "word": "edible",
+  "pronunciation": "ED-uh-bul",
+  "filipino": "maaaring kainin",
+  "example": "Some wild mushrooms are edible, but others are very poisonous.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "food-a-032",
+  "word": "calorie",
+  "pronunciation": "KAL-uh-ree",
+  "filipino": "kaloriya",
+  "example": "Each calorie you eat gives your body energy to work and play.",
+  "category": "food",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-001",
+  "word": "endangered",
+  "pronunciation": "en-DAYN-jurd",
+  "filipino": "nanganganib",
+  "example": "The Philippine eagle is an endangered bird found in Mindanao forests.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-002",
+  "word": "habitat",
+  "pronunciation": "HAB-ih-tat",
+  "filipino": "tirahan",
+  "example": "Cutting down mangroves destroys the habitat of many fish and crabs.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-003",
+  "word": "species",
+  "pronunciation": "SPEE-sheez",
+  "filipino": "uri",
+  "example": "Scientists discovered a new species of frog on Mount Apo.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-004",
+  "word": "extinct",
+  "pronunciation": "ik-STINKT",
+  "filipino": "lipol na",
+  "example": "The dodo bird became extinct hundreds of years ago.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-005",
+  "word": "predator",
+  "pronunciation": "PRED-uh-tur",
+  "filipino": "maninila",
+  "example": "The python is a predator that hunts rats and birds.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-006",
+  "word": "prey",
+  "pronunciation": "PRAY",
+  "filipino": "biktima",
+  "example": "Small fish are easy prey for the larger sharks.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-007",
+  "word": "mammal",
+  "pronunciation": "MAM-ul",
+  "filipino": "mamalya",
+  "example": "The dugong is a gentle sea mammal that eats seagrass.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-008",
+  "word": "reptile",
+  "pronunciation": "REP-tyl",
+  "filipino": "reptilya",
+  "example": "The crocodile is the largest reptile in the Philippines.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-009",
+  "word": "amphibian",
+  "pronunciation": "am-FIB-ee-un",
+  "filipino": "ampibyan",
+  "example": "A frog is an amphibian because it lives on land and in water.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-010",
+  "word": "vertebrate",
+  "pronunciation": "VUR-tuh-brit",
+  "filipino": "hayop na may gulugod",
+  "example": "A vertebrate is any animal that has a backbone.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-011",
+  "word": "invertebrate",
+  "pronunciation": "in-VUR-tuh-brit",
+  "filipino": "hayop na walang gulugod",
+  "example": "The starfish is an invertebrate that lives in coral reefs.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-012",
+  "word": "migratory",
+  "pronunciation": "MY-gruh-tor-ee",
+  "filipino": "dumarayo",
+  "example": "Migratory birds visit the wetlands of Olango Island every year.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-013",
+  "word": "nocturnal",
+  "pronunciation": "nok-TUR-nul",
+  "filipino": "aktibo sa gabi",
+  "example": "Bats are nocturnal, so they sleep during the day.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-014",
+  "word": "carnivore",
+  "pronunciation": "KAR-nih-vor",
+  "filipino": "hayop na kumakain ng karne",
+  "example": "The Philippine eagle is a carnivore that eats monkeys and snakes.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-015",
+  "word": "herbivore",
+  "pronunciation": "HUR-bih-vor",
+  "filipino": "hayop na kumakain ng halaman",
+  "example": "The carabao is a herbivore that feeds on grass.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-016",
+  "word": "omnivore",
+  "pronunciation": "OM-nih-vor",
+  "filipino": "hayop na kumakain ng karne at halaman",
+  "example": "A wild pig is an omnivore that eats roots and insects.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-017",
+  "word": "camouflage",
+  "pronunciation": "KAM-uh-flahzh",
+  "filipino": "pagbabalatkayo",
+  "example": "The leaf insect uses camouflage to hide from hungry birds.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-018",
+  "word": "wildlife",
+  "pronunciation": "WYLD-lyf",
+  "filipino": "mga hayop-gubat",
+  "example": "Palawan is home to rare wildlife like the bearcat and the pangolin.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-019",
+  "word": "sanctuary",
+  "pronunciation": "SANGK-choo-er-ee",
+  "filipino": "kanlungan",
+  "example": "The bird sanctuary in Candaba protects thousands of wild ducks.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-020",
+  "word": "poaching",
+  "pronunciation": "POH-ching",
+  "filipino": "ilegal na pangangaso",
+  "example": "Poaching has greatly reduced the number of pangolins in Palawan.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-021",
+  "word": "livestock",
+  "pronunciation": "LYV-stok",
+  "filipino": "mga alagang hayop sa bukid",
+  "example": "Farmers in Bukidnon raise livestock such as cattle, goats, and pigs.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-022",
+  "word": "poultry",
+  "pronunciation": "POHL-tree",
+  "filipino": "mga manok at itik",
+  "example": "Bird flu can spread quickly among poultry on crowded farms.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-023",
+  "word": "hatchling",
+  "pronunciation": "HACH-ling",
+  "filipino": "bagong-pisang hayop",
+  "example": "Each turtle hatchling must crawl quickly to the sea before birds catch it.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-024",
+  "word": "venomous",
+  "pronunciation": "VEN-uh-mus",
+  "filipino": "makamandag",
+  "example": "The king cobra is a venomous snake found in Philippine forests.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-025",
+  "word": "domesticated",
+  "pronunciation": "duh-MES-tih-kay-tid",
+  "filipino": "pinaamo",
+  "example": "The carabao was domesticated to help farmers plow rice fields.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-026",
+  "word": "metamorphosis",
+  "pronunciation": "met-uh-MOR-fuh-sis",
+  "filipino": "pagbabagong-anyo",
+  "example": "A caterpillar turns into a butterfly through the process of metamorphosis.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-027",
+  "word": "ecosystem",
+  "pronunciation": "EE-koh-sis-tum",
+  "filipino": "ekosistema",
+  "example": "Coral reefs are a rich ecosystem full of colorful fish.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-028",
+  "word": "marine",
+  "pronunciation": "muh-REEN",
+  "filipino": "pandagat",
+  "example": "Tubbataha Reef protects many kinds of marine animals.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-029",
+  "word": "scavenger",
+  "pronunciation": "SKAV-in-jur",
+  "filipino": "hayop na kumakain ng patay na hayop",
+  "example": "The crow is a scavenger that eats leftover food and dead animals.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-030",
+  "word": "instinct",
+  "pronunciation": "IN-stinkt",
+  "filipino": "likas na ugali",
+  "example": "Baby turtles follow their instinct and move toward the sea.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-031",
+  "word": "conservation",
+  "pronunciation": "kon-sur-VAY-shun",
+  "filipino": "pangangalaga",
+  "example": "Wildlife conservation programs help save the tamaraw of Mindoro.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "animals-a-032",
+  "word": "primate",
+  "pronunciation": "PRY-mayt",
+  "filipino": "kauri ng unggoy",
+  "example": "The tarsier is a small primate that lives in the forests of Bohol.",
+  "category": "animals",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-001",
+  "word": "municipality",
+  "pronunciation": "myoo-nis-ih-PAL-ih-tee",
+  "filipino": "munisipalidad",
+  "example": "Our municipality built a new health center near the public market.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-002",
+  "word": "highlands",
+  "pronunciation": "HY-lundz",
+  "filipino": "kabundukan",
+  "example": "The highlands of Benguet are perfect for growing cabbage and carrots.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-003",
+  "word": "archipelago",
+  "pronunciation": "ar-kih-PEL-uh-goh",
+  "filipino": "kapuluan",
+  "example": "The Philippines is an archipelago of more than seven thousand islands.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-004",
+  "word": "peninsula",
+  "pronunciation": "puh-NIN-suh-luh",
+  "filipino": "tangway",
+  "example": "Bataan is a peninsula between Manila Bay and the West Philippine Sea.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-005",
+  "word": "landmark",
+  "pronunciation": "LAND-mark",
+  "filipino": "palatandaan",
+  "example": "The Rizal Monument is a famous landmark in Luneta Park.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-006",
+  "word": "metropolis",
+  "pronunciation": "muh-TROP-uh-lis",
+  "filipino": "malaking lungsod",
+  "example": "Metro Manila is a busy metropolis with millions of residents.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-007",
+  "word": "rural",
+  "pronunciation": "ROOR-ul",
+  "filipino": "pangkanayunan",
+  "example": "Many rural families depend on farming and fishing for income.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-008",
+  "word": "urban",
+  "pronunciation": "UR-bun",
+  "filipino": "panlungsod",
+  "example": "Urban areas often suffer from heavy traffic and air pollution.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-009",
+  "word": "suburb",
+  "pronunciation": "SUB-urb",
+  "filipino": "karatig-pook ng lungsod",
+  "example": "They moved to a quiet suburb outside Cebu City.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-010",
+  "word": "promenade",
+  "pronunciation": "prom-uh-NAYD",
+  "filipino": "pasyalan",
+  "example": "We walked along the promenade by Manila Bay to watch the sunset.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-011",
+  "word": "cathedral",
+  "pronunciation": "kuh-THEE-drul",
+  "filipino": "katedral",
+  "example": "Manila Cathedral was rebuilt several times after earthquakes and wars.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-012",
+  "word": "monument",
+  "pronunciation": "MON-yuh-ment",
+  "filipino": "bantayog",
+  "example": "The monument honors the heroes of the Battle of Mactan.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-013",
+  "word": "shrine",
+  "pronunciation": "SHRYN",
+  "filipino": "dambana",
+  "example": "Many pilgrims visit the shrine in Manaoag during Holy Week.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-014",
+  "word": "terrain",
+  "pronunciation": "tuh-RAYN",
+  "filipino": "anyo ng lupa",
+  "example": "The rocky terrain of the Cordilleras makes travel slow and difficult.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-015",
+  "word": "plateau",
+  "pronunciation": "pla-TOH",
+  "filipino": "talampas",
+  "example": "Bukidnon sits on a high plateau with cool weather.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-016",
+  "word": "crater",
+  "pronunciation": "KRAY-tur",
+  "filipino": "bunganga ng bulkan",
+  "example": "Tourists hike to the crater of Taal Volcano to see the lake.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-017",
+  "word": "coastline",
+  "pronunciation": "KOHST-lyn",
+  "filipino": "baybayin",
+  "example": "Mangroves protect the coastline from strong waves during typhoons.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-018",
+  "word": "estuary",
+  "pronunciation": "ES-choo-er-ee",
+  "filipino": "wawa",
+  "example": "Many fish lay their eggs in the estuary where the river meets the sea.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-019",
+  "word": "wetland",
+  "pronunciation": "WET-land",
+  "filipino": "latian",
+  "example": "The wetland in Agusan Marsh is home to many crocodiles.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-020",
+  "word": "lagoon",
+  "pronunciation": "luh-GOON",
+  "filipino": "dagat-dagatan",
+  "example": "We kayaked through a clear lagoon in El Nido, Palawan.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-021",
+  "word": "reservoir",
+  "pronunciation": "REZ-ur-vwar",
+  "filipino": "imbakan ng tubig",
+  "example": "Angat Dam is a reservoir that supplies water to Metro Manila.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-022",
+  "word": "settlement",
+  "pronunciation": "SET-ul-ment",
+  "filipino": "pamayanan",
+  "example": "The first settlement on the island was built near a river.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-023",
+  "word": "territory",
+  "pronunciation": "TER-ih-tor-ee",
+  "filipino": "teritoryo",
+  "example": "The Philippine government protects its territory in the West Philippine Sea.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-024",
+  "word": "boundary",
+  "pronunciation": "BOWN-duh-ree",
+  "filipino": "hangganan",
+  "example": "The river forms the boundary between the two towns.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-025",
+  "word": "capital",
+  "pronunciation": "KAP-ih-tul",
+  "filipino": "kabisera",
+  "example": "Manila has been the capital of the Philippines for centuries.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-026",
+  "word": "infrastructure",
+  "pronunciation": "IN-fruh-struk-chur",
+  "filipino": "imprastruktura",
+  "example": "New bridges and roads improve the infrastructure of rural provinces.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-027",
+  "word": "destination",
+  "pronunciation": "des-tih-NAY-shun",
+  "filipino": "destinasyon",
+  "example": "Boracay is a popular tourist destination for both locals and foreigners.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-028",
+  "word": "vicinity",
+  "pronunciation": "vih-SIN-ih-tee",
+  "filipino": "kalapit na lugar",
+  "example": "There are three schools in the vicinity of our barangay hall.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-029",
+  "word": "landfill",
+  "pronunciation": "LAND-fil",
+  "filipino": "tambakan ng basura",
+  "example": "The city landfill is almost full because people do not recycle.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-030",
+  "word": "embassy",
+  "pronunciation": "EM-buh-see",
+  "filipino": "embahada",
+  "example": "My aunt went to the embassy in Manila to apply for a visa.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-031",
+  "word": "outskirts",
+  "pronunciation": "OWT-skurts",
+  "filipino": "labas ng bayan",
+  "example": "They built a new factory on the outskirts of the city.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "places-a-032",
+  "word": "harbor",
+  "pronunciation": "HAR-bur",
+  "filipino": "daungan",
+  "example": "Fishing boats rest in the harbor when a storm is coming.",
+  "category": "places",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-001",
+  "word": "anxious",
+  "pronunciation": "ANGK-shus",
+  "filipino": "balisa",
+  "example": "I felt anxious while waiting for the results of the entrance exam.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-002",
+  "word": "grateful",
+  "pronunciation": "GRAYT-ful",
+  "filipino": "nagpapasalamat",
+  "example": "We are grateful to the volunteers who helped us after the typhoon.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-003",
+  "word": "frustrated",
+  "pronunciation": "FRUS-tray-tid",
+  "filipino": "nayayamot",
+  "example": "I felt frustrated when my computer crashed before I saved my work.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-004",
+  "word": "disappointed",
+  "pronunciation": "dis-uh-POYN-tid",
+  "filipino": "dismayado",
+  "example": "Ben was disappointed when the field trip was canceled because of rain.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-005",
+  "word": "overwhelmed",
+  "pronunciation": "oh-vur-WELMD",
+  "filipino": "nalulula",
+  "example": "She felt overwhelmed by the many projects due in one week.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-006",
+  "word": "confident",
+  "pronunciation": "KON-fih-dent",
+  "filipino": "may tiwala sa sarili",
+  "example": "After practicing for weeks, he felt confident about his speech.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-007",
+  "word": "determined",
+  "pronunciation": "dih-TUR-mind",
+  "filipino": "desidido",
+  "example": "Lito was determined to finish college despite being poor.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-008",
+  "word": "enthusiastic",
+  "pronunciation": "en-thoo-zee-AS-tik",
+  "filipino": "masigasig",
+  "example": "The students were enthusiastic about joining the coastal cleanup.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-009",
+  "word": "melancholy",
+  "pronunciation": "MEL-un-kol-ee",
+  "filipino": "mapanglaw",
+  "example": "The rainy afternoon made her feel melancholy and quiet.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-010",
+  "word": "content",
+  "pronunciation": "kun-TENT",
+  "filipino": "kuntento",
+  "example": "Lolo is content with his simple life on the farm.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-011",
+  "word": "resentful",
+  "pronunciation": "rih-ZENT-ful",
+  "filipino": "may hinanakit",
+  "example": "He felt resentful when his ideas were ignored by the group.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-012",
+  "word": "envious",
+  "pronunciation": "EN-vee-us",
+  "filipino": "naiinggit",
+  "example": "She was envious of her cousin's new phone.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-013",
+  "word": "ashamed",
+  "pronunciation": "uh-SHAYMD",
+  "filipino": "nahihiya sa nagawa",
+  "example": "He was ashamed of lying to his parents about his grades.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-014",
+  "word": "remorseful",
+  "pronunciation": "rih-MORS-ful",
+  "filipino": "nagsisisi",
+  "example": "The boy was remorseful after breaking his neighbor's window.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-015",
+  "word": "compassionate",
+  "pronunciation": "kum-PASH-uh-nit",
+  "filipino": "mahabagin",
+  "example": "The compassionate nurse stayed late to comfort the sick children.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-016",
+  "word": "indifferent",
+  "pronunciation": "in-DIF-ur-ent",
+  "filipino": "walang pakialam",
+  "example": "Some people are indifferent to the problem of plastic waste.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-017",
+  "word": "apprehensive",
+  "pronunciation": "ap-rih-HEN-siv",
+  "filipino": "nangangamba",
+  "example": "Mara was apprehensive about moving to a new school in Manila.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-018",
+  "word": "elated",
+  "pronunciation": "ih-LAY-tid",
+  "filipino": "tuwang-tuwa",
+  "example": "The team was elated after winning the regional basketball championship.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-019",
+  "word": "furious",
+  "pronunciation": "FYOOR-ee-us",
+  "filipino": "galit na galit",
+  "example": "Father was furious when he saw the broken car window.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-020",
+  "word": "bewildered",
+  "pronunciation": "bih-WIL-durd",
+  "filipino": "naguguluhan",
+  "example": "The tourists looked bewildered by the busy streets of Divisoria.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-021",
+  "word": "homesick",
+  "pronunciation": "HOHM-sik",
+  "filipino": "nangungulila sa tahanan",
+  "example": "Living in a dormitory in Manila made Ana feel homesick for Iloilo.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-022",
+  "word": "nostalgic",
+  "pronunciation": "nos-TAL-jik",
+  "filipino": "nananabik sa nakaraan",
+  "example": "Old photos of our barrio make Lola feel nostalgic.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-023",
+  "word": "humiliated",
+  "pronunciation": "hyoo-MIL-ee-ay-tid",
+  "filipino": "napahiya",
+  "example": "He felt humiliated when his classmates laughed at his mistake.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-024",
+  "word": "optimistic",
+  "pronunciation": "op-tih-MIS-tik",
+  "filipino": "puno ng pag-asa",
+  "example": "Despite the flood, the farmers remained optimistic about the next harvest.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-025",
+  "word": "pessimistic",
+  "pronunciation": "pes-ih-MIS-tik",
+  "filipino": "negatibo ang pananaw",
+  "example": "Do not be pessimistic, because you can still pass the final exam.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-026",
+  "word": "sympathetic",
+  "pronunciation": "sim-puh-THET-ik",
+  "filipino": "maunawain",
+  "example": "Our adviser was sympathetic when I explained why I was absent.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-027",
+  "word": "hesitant",
+  "pronunciation": "HEZ-ih-tunt",
+  "filipino": "nag-aatubili",
+  "example": "I was hesitant to speak English in front of the whole class.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-028",
+  "word": "irritable",
+  "pronunciation": "IR-ih-tuh-bul",
+  "filipino": "mainitin ang ulo",
+  "example": "Lack of sleep makes me irritable and tired the next day.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-029",
+  "word": "devastated",
+  "pronunciation": "DEV-uh-stay-tid",
+  "filipino": "wasak ang loob",
+  "example": "The family was devastated when the fire destroyed their home.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-030",
+  "word": "relieved",
+  "pronunciation": "rih-LEEVD",
+  "filipino": "nakahinga nang maluwag",
+  "example": "I was relieved when my missing wallet was found.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-031",
+  "word": "exhausted",
+  "pronunciation": "ig-ZAWS-tid",
+  "filipino": "pagod na pagod",
+  "example": "After the long hike up Mount Pulag, we were completely exhausted.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "feelings-a-032",
+  "word": "sentimental",
+  "pronunciation": "sen-tih-MEN-tul",
+  "filipino": "madamdamin",
+  "example": "My mother is sentimental about the letters my father sent from abroad.",
+  "category": "feelings",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-001",
+  "word": "persevere",
+  "pronunciation": "pur-suh-VEER",
+  "filipino": "magtiyaga",
+  "example": "You must persevere if you want to pass the board exam.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-002",
+  "word": "analyze",
+  "pronunciation": "AN-uh-lyz",
+  "filipino": "suriin",
+  "example": "Scientists analyze water samples from Laguna Lake every month.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-003",
+  "word": "investigate",
+  "pronunciation": "in-VES-tih-gayt",
+  "filipino": "siyasatin",
+  "example": "The police will investigate the cause of the fire in the market.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-004",
+  "word": "collaborate",
+  "pronunciation": "kuh-LAB-uh-rayt",
+  "filipino": "makipagtulungan",
+  "example": "Students from different sections will collaborate on the school mural.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-005",
+  "word": "contribute",
+  "pronunciation": "kun-TRIB-yoot",
+  "filipino": "mag-ambag",
+  "example": "Everyone can contribute to keeping our barangay clean.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-006",
+  "word": "evaluate",
+  "pronunciation": "ih-VAL-yoo-ayt",
+  "filipino": "tasahin",
+  "example": "The judges will evaluate each project based on creativity and accuracy.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-007",
+  "word": "demonstrate",
+  "pronunciation": "DEM-un-strayt",
+  "filipino": "ipakita",
+  "example": "Our teacher will demonstrate how to use a microscope properly.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-008",
+  "word": "comprehend",
+  "pronunciation": "kom-prih-HEND",
+  "filipino": "maunawaan",
+  "example": "It is hard to comprehend a story when you read too fast.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-009",
+  "word": "emphasize",
+  "pronunciation": "EM-fuh-syz",
+  "filipino": "bigyang-diin",
+  "example": "The principal will emphasize the importance of honesty during the assembly.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-010",
+  "word": "acknowledge",
+  "pronunciation": "ak-NOL-ij",
+  "filipino": "kilalanin",
+  "example": "We should acknowledge the help of our parents in our success.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-011",
+  "word": "accomplish",
+  "pronunciation": "uh-KOM-plish",
+  "filipino": "maisagawa",
+  "example": "You can accomplish a lot if you manage your time well.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-012",
+  "word": "negotiate",
+  "pronunciation": "nih-GOH-shee-ayt",
+  "filipino": "makipagkasundo",
+  "example": "The fishermen tried to negotiate a better price for their catch.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-013",
+  "word": "advocate",
+  "pronunciation": "AD-vuh-kayt",
+  "filipino": "itaguyod",
+  "example": "Many young Filipinos advocate for cleaner oceans and less plastic.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-014",
+  "word": "eliminate",
+  "pronunciation": "ih-LIM-ih-nayt",
+  "filipino": "alisin",
+  "example": "We must eliminate standing water to stop mosquitoes from breeding.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-015",
+  "word": "preserve",
+  "pronunciation": "prih-ZURV",
+  "filipino": "pangalagaan",
+  "example": "The town works hard to preserve its old Spanish houses in Vigan.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-016",
+  "word": "conserve",
+  "pronunciation": "kun-SURV",
+  "filipino": "magtipid",
+  "example": "Turn off the lights to conserve electricity at home.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-017",
+  "word": "participate",
+  "pronunciation": "par-TIS-ih-payt",
+  "filipino": "lumahok",
+  "example": "All students are encouraged to participate in the Buwan ng Wika program.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-018",
+  "word": "interpret",
+  "pronunciation": "in-TUR-prit",
+  "filipino": "bigyang-kahulugan",
+  "example": "Can you interpret the meaning of this old Tagalog poem?",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-019",
+  "word": "justify",
+  "pronunciation": "JUS-tih-fy",
+  "filipino": "bigyang-katwiran",
+  "example": "You need evidence to justify your answer in the debate.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-020",
+  "word": "distinguish",
+  "pronunciation": "dis-TING-gwish",
+  "filipino": "makilala ang pagkakaiba",
+  "example": "Can you distinguish a real news story from fake news online?",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-021",
+  "word": "anticipate",
+  "pronunciation": "an-TIS-ih-payt",
+  "filipino": "asahan",
+  "example": "We anticipate heavy rains during the months of July and August.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-022",
+  "word": "prioritize",
+  "pronunciation": "pry-OR-ih-tyz",
+  "filipino": "unahin",
+  "example": "Learn to prioritize your studies over playing online games.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-023",
+  "word": "procrastinate",
+  "pronunciation": "proh-KRAS-tih-nayt",
+  "filipino": "ipagpaliban ang gawain",
+  "example": "If you procrastinate, you will rush your project the night before.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-024",
+  "word": "motivate",
+  "pronunciation": "MOH-tih-vayt",
+  "filipino": "ganyakin",
+  "example": "Good teachers motivate students to do their best every day.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-025",
+  "word": "illustrate",
+  "pronunciation": "IL-uh-strayt",
+  "filipino": "ilarawan",
+  "example": "Use a diagram to illustrate the water cycle in your report.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-026",
+  "word": "verify",
+  "pronunciation": "VER-ih-fy",
+  "filipino": "tiyakin",
+  "example": "Always verify information from social media before you share it.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-027",
+  "word": "resolve",
+  "pronunciation": "rih-ZOLV",
+  "filipino": "lutasin",
+  "example": "The barangay captain helped resolve the argument between the two neighbors.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-028",
+  "word": "cultivate",
+  "pronunciation": "KUL-tih-vayt",
+  "filipino": "linangin",
+  "example": "Farmers in Benguet cultivate vegetables on terraced mountain slopes.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-029",
+  "word": "accumulate",
+  "pronunciation": "uh-KYOO-myuh-layt",
+  "filipino": "maipon",
+  "example": "Garbage tends to accumulate in the canals after heavy rain.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-030",
+  "word": "assist",
+  "pronunciation": "uh-SIST",
+  "filipino": "tumulong",
+  "example": "Volunteers assist the elderly during the vaccination drive.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-031",
+  "word": "reflect",
+  "pronunciation": "rih-FLEKT",
+  "filipino": "magnilay",
+  "example": "Take a moment to reflect on what you learned this week.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "actions-a-032",
+  "word": "implement",
+  "pronunciation": "IM-pluh-ment",
+  "filipino": "ipatupad",
+  "example": "The city will implement a new rule banning plastic bags.",
+  "category": "actions",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-001",
+  "word": "consequently",
+  "pronunciation": "KON-suh-kwent-lee",
+  "filipino": "dahil dito",
+  "example": "It rained hard all night, and consequently, classes were suspended.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-002",
+  "word": "significant",
+  "pronunciation": "sig-NIF-ih-kunt",
+  "filipino": "makabuluhan",
+  "example": "Jose Rizal made a significant contribution to Philippine history.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-003",
+  "word": "nevertheless",
+  "pronunciation": "nev-ur-thuh-LES",
+  "filipino": "gayunpaman",
+  "example": "The road was flooded, but nevertheless, the teachers came to school.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-004",
+  "word": "furthermore",
+  "pronunciation": "FUR-thur-mor",
+  "filipino": "bukod dito",
+  "example": "Walking is good exercise, and furthermore, it saves money on fare.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-005",
+  "word": "therefore",
+  "pronunciation": "THAIR-for",
+  "filipino": "samakatuwid",
+  "example": "The bridge is unsafe, and therefore, all vehicles must use another route.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-006",
+  "word": "moreover",
+  "pronunciation": "mor-OH-vur",
+  "filipino": "higit pa rito",
+  "example": "The new library is spacious, and moreover, it has free internet access.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-007",
+  "word": "essential",
+  "pronunciation": "ih-SEN-shul",
+  "filipino": "kailangang-kailangan",
+  "example": "Clean water is essential for a healthy community.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-008",
+  "word": "adequate",
+  "pronunciation": "AD-ih-kwit",
+  "filipino": "sapat",
+  "example": "Make sure you get adequate sleep before the examination.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-009",
+  "word": "relevant",
+  "pronunciation": "REL-uh-vunt",
+  "filipino": "may kaugnayan",
+  "example": "Only include relevant facts in your research paper.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-010",
+  "word": "evidence",
+  "pronunciation": "EV-ih-duns",
+  "filipino": "katibayan",
+  "example": "The scientist collected evidence to support her theory about the volcano.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-011",
+  "word": "hypothesis",
+  "pronunciation": "hy-POTH-uh-sis",
+  "filipino": "haypotesis",
+  "example": "Our hypothesis is that plants grow faster with organic fertilizer.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-012",
+  "word": "perspective",
+  "pronunciation": "pur-SPEK-tiv",
+  "filipino": "pananaw",
+  "example": "Reading history from a Filipino perspective helps us understand our past.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-013",
+  "word": "specific",
+  "pronunciation": "spuh-SIF-ik",
+  "filipino": "tiyak",
+  "example": "Please give specific examples to support your argument.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-014",
+  "word": "approximately",
+  "pronunciation": "uh-PROK-sih-mit-lee",
+  "filipino": "humigit-kumulang",
+  "example": "Approximately one hundred students joined the tree-planting activity.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-015",
+  "word": "alternative",
+  "pronunciation": "awl-TUR-nuh-tiv",
+  "filipino": "ibang pagpipilian",
+  "example": "Solar energy is a cleaner alternative to burning coal.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-016",
+  "word": "contrary",
+  "pronunciation": "KON-trer-ee",
+  "filipino": "salungat",
+  "example": "Contrary to popular belief, bats are helpful to farmers.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-017",
+  "word": "despite",
+  "pronunciation": "dih-SPYT",
+  "filipino": "sa kabila ng",
+  "example": "Despite the heat, the students finished the parade with smiles.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-018",
+  "word": "whereas",
+  "pronunciation": "wair-AZ",
+  "filipino": "samantalang",
+  "example": "My brother loves science, whereas I prefer literature and the arts.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-019",
+  "word": "thus",
+  "pronunciation": "THUS",
+  "filipino": "kaya",
+  "example": "The dam broke, and thus, several villages were flooded.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-020",
+  "word": "crucial",
+  "pronunciation": "KROO-shul",
+  "filipino": "napakahalaga",
+  "example": "Early warning is crucial in saving lives during a typhoon.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-021",
+  "word": "phenomenon",
+  "pronunciation": "fuh-NOM-uh-non",
+  "filipino": "penomeno",
+  "example": "A solar eclipse is a natural phenomenon that people enjoy watching.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-022",
+  "word": "inevitable",
+  "pronunciation": "in-EV-ih-tuh-bul",
+  "filipino": "hindi maiiwasan",
+  "example": "Change is inevitable, so we must learn to adapt.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-023",
+  "word": "obvious",
+  "pronunciation": "OB-vee-us",
+  "filipino": "halata",
+  "example": "It was obvious that he had not studied for the quiz.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-024",
+  "word": "accurate",
+  "pronunciation": "AK-yur-it",
+  "filipino": "tumpak",
+  "example": "A good reporter always gives accurate information to the public.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-025",
+  "word": "concept",
+  "pronunciation": "KON-sept",
+  "filipino": "konsepto",
+  "example": "The concept of bayanihan means helping one another freely.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-026",
+  "word": "factor",
+  "pronunciation": "FAK-tur",
+  "filipino": "salik",
+  "example": "Poverty is one factor that causes students to drop out of school.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-027",
+  "word": "majority",
+  "pronunciation": "muh-JOR-ih-tee",
+  "filipino": "nakararami",
+  "example": "The majority of the class voted for a field trip to Intramuros.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-028",
+  "word": "minority",
+  "pronunciation": "my-NOR-ih-tee",
+  "filipino": "minorya",
+  "example": "Only a minority of students still bring plastic bottles to school.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-029",
+  "word": "assumption",
+  "pronunciation": "uh-SUMP-shun",
+  "filipino": "pagpapalagay",
+  "example": "Do not make an assumption before you hear both sides of the story.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-030",
+  "word": "similarly",
+  "pronunciation": "SIM-ih-lur-lee",
+  "filipino": "gayundin",
+  "example": "Rice needs plenty of water, and similarly, corn grows best with regular rain.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-031",
+  "word": "initially",
+  "pronunciation": "ih-NISH-uh-lee",
+  "filipino": "noong una",
+  "example": "Initially, I disliked math, but now it is my favorite subject.",
+  "category": "common",
+  "level": "advanced"
+ },
+ {
+  "id": "common-a-032",
+  "word": "eventually",
+  "pronunciation": "ih-VEN-choo-uh-lee",
+  "filipino": "sa bandang huli",
+  "example": "After many failed attempts, she eventually passed the driving test.",
+  "category": "common",
+  "level": "advanced"
+ }
+]

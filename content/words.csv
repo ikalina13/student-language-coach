@@ -1,0 +1,769 @@
+﻿id,word,pronunciation,filipino,example,category,level
+school-b-001,teacher,TEE-cher,guro,Our teacher greets us every morning.,school,beginner
+school-b-002,student,STOO-dent,mag-aaral,Every student wears a clean uniform.,school,beginner
+school-b-003,pencil,PEN-sil,lapis,I write my name with a pencil.,school,beginner
+school-b-004,paper,PAY-per,papel,Please pass the paper to Ana.,school,beginner
+school-b-005,book,BUK,aklat,My English book is in my bag.,school,beginner
+school-b-006,notebook,NOHT-buk,kuwaderno,I copy the lesson in my notebook.,school,beginner
+school-b-007,eraser,ee-RAY-ser,pambura,"Can I borrow your eraser, please?",school,beginner
+school-b-008,ruler,ROO-ler,panukat,Draw a straight line with your ruler.,school,beginner
+school-b-009,chair,CHAIR,upuan,Please sit on your chair quietly.,school,beginner
+school-b-010,desk,DESK,mesa,My books are on my desk.,school,beginner
+school-b-011,classroom,KLAS-room,silid-aralan,We sweep our classroom after class.,school,beginner
+school-b-012,blackboard,BLAK-bord,pisara,The teacher writes on the blackboard.,school,beginner
+school-b-013,chalk,CHAWK,tisa,The white chalk is very short now.,school,beginner
+school-b-014,crayon,KRAY-on,krayola,I color the jeepney with a red crayon.,school,beginner
+school-b-015,lesson,LES-un,aralin,Today our lesson is about plants.,school,beginner
+school-b-016,test,TEST,pagsusulit,We have a math test on Friday.,school,beginner
+school-b-017,homework,HOHM-werk,takdang-aralin,I finish my homework before dinner.,school,beginner
+school-b-018,library,LAI-brer-ee,aklatan,We read quietly in the library.,school,beginner
+school-b-019,classmate,KLAS-mayt,kaklase,My classmate shares her snack with me.,school,beginner
+school-b-020,principal,PRIN-si-pul,punong-guro,The principal talks to us at the flag ceremony.,school,beginner
+school-b-021,story,STOR-ee,kuwento,Lola tells us a story every night.,school,beginner
+school-b-022,word,WERD,salita,Spell this word on the board.,school,beginner
+school-b-023,letter,LET-er,titik,The first letter of my name is J.,school,beginner
+school-b-024,number,NUM-ber,bilang,Write the number ten on your paper.,school,beginner
+school-b-025,question,KWES-chun,tanong,Raise your hand if you have a question.,school,beginner
+school-b-026,answer,AN-ser,sagot,Ben knows the answer to the question.,school,beginner
+school-b-027,uniform,YOO-ni-form,uniporme,Mama irons my school uniform every Sunday.,school,beginner
+school-b-028,scissors,SIZ-erz,gunting,Use the scissors carefully in class.,school,beginner
+school-b-029,glue,GLOO,pandikit,Put glue on the back of the picture.,school,beginner
+school-b-030,map,MAP,mapa,Find Cebu on the map.,school,beginner
+school-b-031,computer,kum-PYOO-ter,kompyuter,Our school has a new computer room.,school,beginner
+school-b-032,picture,PIK-cher,larawan,I drew a picture of our barangay.,school,beginner
+family-b-001,mother,MUH-ther,nanay,My mother cooks rice every morning.,family,beginner
+family-b-002,father,FAH-ther,tatay,My father drives a jeepney.,family,beginner
+family-b-003,brother,BRUH-ther,kapatid na lalaki,My brother plays basketball after school.,family,beginner
+family-b-004,sister,SIS-ter,kapatid na babae,My sister helps me with my homework.,family,beginner
+family-b-005,baby,BAY-bee,sanggol,The baby is sleeping in the duyan.,family,beginner
+family-b-006,grandmother,GRAND-muh-ther,lola,My grandmother makes the best turon.,family,beginner
+family-b-007,grandfather,GRAND-fah-ther,lolo,My grandfather feeds the chickens every morning.,family,beginner
+family-b-008,aunt,ANT,tiya,My aunt lives in Davao.,family,beginner
+family-b-009,uncle,UNG-kul,tiyo,My uncle is a fisherman in Bohol.,family,beginner
+family-b-010,cousin,KUH-zin,pinsan,My cousin visits us during the fiesta.,family,beginner
+family-b-011,son,SUN,anak na lalaki,Mang Jose is proud of his son.,family,beginner
+family-b-012,daughter,DAW-ter,anak na babae,Aling Rosa has one daughter.,family,beginner
+family-b-013,parent,PAIR-ent,magulang,Each parent came to the school meeting.,family,beginner
+family-b-014,child,CHAILD,bata,Every child likes to play outside.,family,beginner
+family-b-015,family,FAM-i-lee,pamilya,Our family eats dinner together.,family,beginner
+family-b-016,home,HOHM,tahanan,I go home after school.,family,beginner
+family-b-017,husband,HUZ-bund,asawang lalaki,Her husband works in Manila.,family,beginner
+family-b-018,wife,WAIF,asawang babae,His wife sells food at the market.,family,beginner
+family-b-019,twin,TWIN,kambal,Rina has a twin sister named Rita.,family,beginner
+family-b-020,godmother,GAWD-muh-ther,ninang,My godmother gave me a gift at Christmas.,family,beginner
+family-b-021,godfather,GAWD-fah-ther,ninong,My godfather lives in our barangay.,family,beginner
+family-b-022,niece,NEES,pamangking babae,Tita Lisa takes her niece to the mall.,family,beginner
+family-b-023,nephew,NEF-yoo,pamangking lalaki,Tito Ben bought his nephew a new ball.,family,beginner
+family-b-024,relative,REL-uh-tiv,kamag-anak,Many relatives come to our house for Christmas.,family,beginner
+family-b-025,love,LUV,pagmamahal,A mother's love is very strong.,family,beginner
+family-b-026,hug,HUG,yakap,I give Lola a big hug.,family,beginner
+family-b-027,kiss,KIS,halik,Mama gives the baby a kiss.,family,beginner
+family-b-028,name,NAYM,pangalan,What is your name?,family,beginner
+family-b-029,birthday,BERTH-day,kaarawan,We eat pancit on my birthday.,family,beginner
+family-b-030,boy,BOY,batang lalaki,The boy is flying a kite.,family,beginner
+family-b-031,girl,GERL,batang babae,The girl buys candy at the sari-sari store.,family,beginner
+family-b-032,together,tuh-GETH-er,magkasama,We go to church together on Sunday.,family,beginner
+food-b-001,rice,RAIS,kanin,We eat rice three times a day.,food,beginner
+food-b-002,bread,BRED,tinapay,Papa buys bread from the bakery.,food,beginner
+food-b-003,egg,EG,itlog,I like a fried egg for breakfast.,food,beginner
+food-b-004,fish,FISH,isda,Mama fries fish for lunch.,food,beginner
+food-b-005,meat,MEET,karne,The meat is cooked in the pot.,food,beginner
+food-b-006,pork,PORK,karne ng baboy,We eat pork adobo on Sunday.,food,beginner
+food-b-007,milk,MILK,gatas,I drink a glass of milk every day.,food,beginner
+food-b-008,banana,buh-NAN-uh,saging,The banana is sweet and yellow.,food,beginner
+food-b-009,mango,MANG-goh,mangga,A ripe mango is very sweet.,food,beginner
+food-b-010,apple,AP-ul,mansanas,I put an apple in my lunch box.,food,beginner
+food-b-011,orange,OR-inj,dalandan,This orange is sour but juicy.,food,beginner
+food-b-012,coconut,KOH-kuh-nut,niyog,Lolo climbs the tree to get a coconut.,food,beginner
+food-b-013,vegetable,VEJ-tuh-bul,gulay,Eat your vegetable to stay healthy.,food,beginner
+food-b-014,soup,SOOP,sabaw,The chicken soup is hot.,food,beginner
+food-b-015,sugar,SHUG-er,asukal,Put a little sugar in the coffee.,food,beginner
+food-b-016,salt,SAWLT,asin,Add some salt to the soup.,food,beginner
+food-b-017,juice,JOOS,katas,I drink mango juice at the party.,food,beginner
+food-b-018,coffee,KAW-fee,kape,Lolo drinks coffee every morning.,food,beginner
+food-b-019,candy,KAN-dee,kendi,I buy candy at the sari-sari store.,food,beginner
+food-b-020,cake,KAYK,keyk,We have chocolate cake on my birthday.,food,beginner
+food-b-021,ice cream,AIS-kreem,sorbetes,The ice cream vendor rings his bell.,food,beginner
+food-b-022,noodles,NOO-dulz,pansit,We eat noodles for long life.,food,beginner
+food-b-023,breakfast,BREK-fust,almusal,I eat rice and egg for breakfast.,food,beginner
+food-b-024,lunch,LUNCH,tanghalian,We eat lunch at twelve o'clock.,food,beginner
+food-b-025,dinner,DIN-er,hapunan,Our family eats dinner at seven.,food,beginner
+food-b-026,snack,SNAK,meryenda,Lola makes banana cue for our snack.,food,beginner
+food-b-027,corn,KORN,mais,We buy boiled corn at the plaza.,food,beginner
+food-b-028,tomato,tuh-MAY-toh,kamatis,Slice the tomato for the salad.,food,beginner
+food-b-029,onion,UN-yun,sibuyas,Cutting an onion makes me cry.,food,beginner
+food-b-030,garlic,GAR-lik,bawang,Mama fries garlic for the rice.,food,beginner
+food-b-031,peanut,PEE-nut,mani,I eat a peanut snack at recess.,food,beginner
+food-b-032,vinegar,VIN-uh-ger,suka,Dip the fish in vinegar.,food,beginner
+animals-b-001,dog,DAWG,aso,Our dog barks at the jeepney.,animals,beginner
+animals-b-002,cat,KAT,pusa,The cat sleeps under the table.,animals,beginner
+animals-b-003,bird,BERD,ibon,A bird sings in the mango tree.,animals,beginner
+animals-b-004,chicken,CHIK-en,manok,The chicken lays an egg every day.,animals,beginner
+animals-b-005,pig,PIG,baboy,Lolo feeds the pig every morning.,animals,beginner
+animals-b-006,cow,KAW,baka,The cow eats grass in the field.,animals,beginner
+animals-b-007,carabao,kah-ruh-BAH-oh,kalabaw,The carabao helps the farmer in the rice field.,animals,beginner
+animals-b-008,goat,GOHT,kambing,The goat is tied near the house.,animals,beginner
+animals-b-009,horse,HORS,kabayo,The horse pulls the kalesa.,animals,beginner
+animals-b-010,duck,DUK,pato,The duck swims in the river.,animals,beginner
+animals-b-011,frog,FRAWG,palaka,A frog jumps when it rains.,animals,beginner
+animals-b-012,snake,SNAYK,ahas,"Be careful, there is a snake!",animals,beginner
+animals-b-013,monkey,MUNG-kee,unggoy,The monkey eats a banana.,animals,beginner
+animals-b-014,mouse,MAUS,daga,A mouse ran into the kitchen.,animals,beginner
+animals-b-015,ant,ANT,langgam,An ant is carrying sugar.,animals,beginner
+animals-b-016,butterfly,BUH-ter-flai,paru-paro,A butterfly lands on the flower.,animals,beginner
+animals-b-017,mosquito,mus-KEE-toh,lamok,A mosquito bit my arm.,animals,beginner
+animals-b-018,fly,FLAI,langaw,Cover the food so a fly can't land.,animals,beginner
+animals-b-019,spider,SPAI-der,gagamba,The spider makes a web in the corner.,animals,beginner
+animals-b-020,turtle,TER-tul,pagong,The turtle walks very slowly.,animals,beginner
+animals-b-021,crab,KRAB,alimango,We cook crab for the fiesta.,animals,beginner
+animals-b-022,shrimp,SHRIMP,hipon,Mama buys shrimp at the market.,animals,beginner
+animals-b-023,lizard,LIZ-erd,butiki,A lizard is on the wall.,animals,beginner
+animals-b-024,cockroach,KAWK-rohch,ipis,My sister is afraid of the cockroach.,animals,beginner
+animals-b-025,bee,BEE,bubuyog,The bee flies from flower to flower.,animals,beginner
+animals-b-026,eagle,EE-gul,agila,The Philippine eagle is very big.,animals,beginner
+animals-b-027,tiger,TAI-ger,tigre,The tiger has black stripes.,animals,beginner
+animals-b-028,lion,LAI-un,leon,The lion is the king of the jungle.,animals,beginner
+animals-b-029,elephant,EL-uh-funt,elepante,The elephant has a long trunk.,animals,beginner
+animals-b-030,rabbit,RAB-it,kuneho,The rabbit eats a carrot.,animals,beginner
+animals-b-031,shark,SHARK,pating,A shark swims in the deep sea.,animals,beginner
+animals-b-032,crocodile,KRAWK-uh-dail,buwaya,The crocodile lives near the river.,animals,beginner
+places-b-001,house,HAUS,bahay,Our house is near the church.,places,beginner
+places-b-002,school,SKOOL,paaralan,I walk to school every morning.,places,beginner
+places-b-003,church,CHERCH,simbahan,We go to church on Sunday.,places,beginner
+places-b-004,market,MAR-ket,palengke,Mama buys fish at the market.,places,beginner
+places-b-005,store,STOR,tindahan,I buy eggs at the sari-sari store.,places,beginner
+places-b-006,hospital,HAWS-pi-tul,ospital,The doctor works at the hospital.,places,beginner
+places-b-007,park,PARK,parke,We play in the park after school.,places,beginner
+places-b-008,beach,BEECH,dalampasigan,We swim at the beach in summer.,places,beginner
+places-b-009,river,RIV-er,ilog,The children swim in the river.,places,beginner
+places-b-010,mountain,MAUN-tin,bundok,Mayon is a beautiful mountain.,places,beginner
+places-b-011,sea,SEE,dagat,The fishermen sail on the sea.,places,beginner
+places-b-012,farm,FARM,bukid,Lolo plants rice on his farm.,places,beginner
+places-b-013,town,TAUN,bayan,Our town has a big fiesta in May.,places,beginner
+places-b-014,city,SIT-ee,lungsod,Manila is a busy city.,places,beginner
+places-b-015,street,STREET,kalye,Many jeepneys pass on our street.,places,beginner
+places-b-016,road,ROHD,daan,Look both ways before crossing the road.,places,beginner
+places-b-017,bridge,BRIJ,tulay,The bus crosses the long bridge.,places,beginner
+places-b-018,plaza,PLAH-zuh,plasa,The fiesta dance is in the plaza.,places,beginner
+places-b-019,kitchen,KICH-en,kusina,Lola is cooking in the kitchen.,places,beginner
+places-b-020,room,ROOM,kuwarto,I share a room with my brother.,places,beginner
+places-b-021,bathroom,BATH-room,banyo,Please wash your hands in the bathroom.,places,beginner
+places-b-022,garden,GAR-den,hardin,Mama grows flowers in her garden.,places,beginner
+places-b-023,yard,YARD,bakuran,The chickens walk around the yard.,places,beginner
+places-b-024,forest,FOR-est,gubat,Many birds live in the forest.,places,beginner
+places-b-025,island,AI-lund,pulo,Boracay is a famous island.,places,beginner
+places-b-026,village,VIL-ij,nayon,My grandparents live in a small village.,places,beginner
+places-b-027,bakery,BAY-ker-ee,panaderya,We buy pandesal at the bakery.,places,beginner
+places-b-028,office,AW-fis,opisina,Papa goes to the office by jeepney.,places,beginner
+places-b-029,restaurant,RES-tuh-rawnt,kainan,We eat at a restaurant on my birthday.,places,beginner
+places-b-030,airport,AIR-port,paliparan,Tita arrives at the airport tomorrow.,places,beginner
+places-b-031,playground,PLAY-graund,palaruan,The kids play on the school playground.,places,beginner
+places-b-032,country,KUN-tree,bansa,The Philippines is my country.,places,beginner
+feelings-b-001,happy,HAP-ee,masaya,I am happy during the fiesta.,feelings,beginner
+feelings-b-002,sad,SAD,malungkot,Ana is sad because her cat is lost.,feelings,beginner
+feelings-b-003,angry,ANG-gree,galit,Papa is angry when we fight.,feelings,beginner
+feelings-b-004,scared,SKAIRD,takot,I am scared of the dark.,feelings,beginner
+feelings-b-005,tired,TAIRD,pagod,Mama is tired after work.,feelings,beginner
+feelings-b-006,hungry,HUNG-gree,gutom,"I am hungry, let's eat rice!",feelings,beginner
+feelings-b-007,thirsty,THERS-tee,nauuhaw,"After playing, I am very thirsty.",feelings,beginner
+feelings-b-008,sleepy,SLEE-pee,inaantok,The baby is sleepy after lunch.,feelings,beginner
+feelings-b-009,excited,ek-SAI-tid,nasasabik,I am excited for Christmas.,feelings,beginner
+feelings-b-010,bored,BORD,naiinip,I am bored waiting for the jeepney.,feelings,beginner
+feelings-b-011,shy,SHAI,nahihiya,The new student is shy.,feelings,beginner
+feelings-b-012,nervous,NER-vus,kinakabahan,I feel nervous before the test.,feelings,beginner
+feelings-b-013,calm,KAHM,mahinahon,Stay calm during the earthquake drill.,feelings,beginner
+feelings-b-014,surprised,ser-PRAIZD,nagulat,Lola was surprised by our gift.,feelings,beginner
+feelings-b-015,worried,WER-eed,nag-aalala,Mama is worried when I am late.,feelings,beginner
+feelings-b-016,glad,GLAD,natutuwa,I am glad you came to my party.,feelings,beginner
+feelings-b-017,sick,SIK,may sakit,Ben is sick and stays at home.,feelings,beginner
+feelings-b-018,hurt,HERT,nasaktan,I fell down and my knee is hurt.,feelings,beginner
+feelings-b-019,kind,KAIND,mabait,Our neighbor is very kind.,feelings,beginner
+feelings-b-020,brave,BRAYV,matapang,The brave boy helped the old man.,feelings,beginner
+feelings-b-021,jealous,JEL-us,nagseselos,My brother is jealous of my new toy.,feelings,beginner
+feelings-b-022,sorry,SAW-ree,nagsisisi,I am sorry for being late.,feelings,beginner
+feelings-b-023,thankful,THANGK-ful,nagpapasalamat,We are thankful for our food.,feelings,beginner
+feelings-b-024,lazy,LAY-zee,tamad,"Don't be lazy, clean your room.",feelings,beginner
+feelings-b-025,busy,BIZ-ee,abala,Mama is busy at the market.,feelings,beginner
+feelings-b-026,full,FUL,busog,I am full after eating lechon.,feelings,beginner
+feelings-b-027,confused,kun-FYOOZD,nalilito,I am confused by this math problem.,feelings,beginner
+feelings-b-028,cheerful,CHEER-ful,masigla,Our cheerful teacher always smiles.,feelings,beginner
+feelings-b-029,annoyed,uh-NOYD,naiinis,I am annoyed by the noisy rooster.,feelings,beginner
+feelings-b-030,embarrassed,em-BAR-ust,napahiya,I was embarrassed when I fell.,feelings,beginner
+feelings-b-031,healthy,HEL-thee,malusog,Eating vegetables keeps me healthy.,feelings,beginner
+feelings-b-032,lonely,LOHN-lee,nalulumbay,Lolo feels lonely when we leave.,feelings,beginner
+actions-b-001,run,RUN,tumakbo,We run around the plaza.,actions,beginner
+actions-b-002,walk,WAWK,maglakad,I walk to school with my friend.,actions,beginner
+actions-b-003,eat,EET,kumain,Let's eat rice and fish.,actions,beginner
+actions-b-004,drink,DRINK,uminom,Drink a glass of water every morning.,actions,beginner
+actions-b-005,sleep,SLEEP,matulog,I sleep at nine o'clock.,actions,beginner
+actions-b-006,write,RAIT,sumulat,Write your name on the paper.,actions,beginner
+actions-b-007,read,REED,magbasa,I read a book before bed.,actions,beginner
+actions-b-008,sing,SING,umawit,We sing the national anthem every Monday.,actions,beginner
+actions-b-009,dance,DANS,sumayaw,We dance the tinikling at the fiesta.,actions,beginner
+actions-b-010,jump,JUMP,tumalon,The kids jump over the rope.,actions,beginner
+actions-b-011,swim,SWIM,lumangoy,We swim at the beach in April.,actions,beginner
+actions-b-012,play,PLAY,maglaro,Let's play patintero after school.,actions,beginner
+actions-b-013,cook,KUK,magluto,Lola will cook adobo for lunch.,actions,beginner
+actions-b-014,wash,WAWSH,maghugas,Wash your hands before eating.,actions,beginner
+actions-b-015,clean,KLEEN,maglinis,We clean our classroom every Friday.,actions,beginner
+actions-b-016,sweep,SWEEP,magwalis,I sweep the yard every morning.,actions,beginner
+actions-b-017,open,OH-pen,buksan,Please open the window.,actions,beginner
+actions-b-018,close,KLOHZ,isara,Close the door when it rains.,actions,beginner
+actions-b-019,sit,SIT,umupo,Please sit down on your chair.,actions,beginner
+actions-b-020,stand,STAND,tumayo,Stand up for the flag ceremony.,actions,beginner
+actions-b-021,listen,LIS-en,makinig,Listen to your teacher carefully.,actions,beginner
+actions-b-022,speak,SPEEK,magsalita,Please speak in English in class.,actions,beginner
+actions-b-023,look,LUK,tumingin,Look at the beautiful sunset.,actions,beginner
+actions-b-024,help,HELP,tumulong,I help Mama wash the dishes.,actions,beginner
+actions-b-025,give,GIV,magbigay,Give this note to your mother.,actions,beginner
+actions-b-026,buy,BAI,bumili,I buy bread at the bakery.,actions,beginner
+actions-b-027,sell,SEL,magbenta,Aling Nena sells fish at the market.,actions,beginner
+actions-b-028,cry,KRAI,umiyak,The baby cries when she is hungry.,actions,beginner
+actions-b-029,laugh,LAF,tumawa,We laugh at Lolo's funny stories.,actions,beginner
+actions-b-030,draw,DRAW,gumuhit,I draw a picture of our house.,actions,beginner
+actions-b-031,climb,KLAIM,umakyat,Kuya can climb the coconut tree.,actions,beginner
+actions-b-032,carry,KAIR-ee,magdala,I carry my bag to school.,actions,beginner
+common-b-001,yes,YES,oo,"Yes, I am ready to go.",common,beginner
+common-b-002,no,NOH,hindi,"No, I don't want more rice.",common,beginner
+common-b-003,big,BIG,malaki,The carabao is very big.,common,beginner
+common-b-004,small,SMAWL,maliit,The chick is small and yellow.,common,beginner
+common-b-005,day,DAY,araw,Today is a sunny day.,common,beginner
+common-b-006,night,NAIT,gabi,The stars shine at night.,common,beginner
+common-b-007,water,WAW-ter,tubig,Please give me a glass of water.,common,beginner
+common-b-008,because,bee-KAWZ,dahil,I stayed home because it rained.,common,beginner
+common-b-009,rain,RAYN,ulan,The rain is very heavy today.,common,beginner
+common-b-010,hot,HAWT,mainit,The weather is hot in April.,common,beginner
+common-b-011,cold,KOHLD,malamig,The halo-halo is very cold.,common,beginner
+common-b-012,good,GUD,mabuti,"You did a good job, Anna.",common,beginner
+common-b-013,bad,BAD,masama,Lying is a bad habit.,common,beginner
+common-b-014,new,NOO,bago,I have new shoes for school.,common,beginner
+common-b-015,old,OHLD,luma,This old jeepney still runs well.,common,beginner
+common-b-016,many,MEN-ee,marami,There are many people at the fiesta.,common,beginner
+common-b-017,morning,MOR-ning,umaga,I eat pandesal every morning.,common,beginner
+common-b-018,afternoon,af-ter-NOON,hapon,We play outside in the afternoon.,common,beginner
+common-b-019,today,tuh-DAY,ngayon,Today we go to the market.,common,beginner
+common-b-020,tomorrow,tuh-MAW-roh,bukas,Tomorrow is our barangay fiesta.,common,beginner
+common-b-021,yesterday,YES-ter-day,kahapon,Yesterday it rained all day.,common,beginner
+common-b-022,money,MUN-ee,pera,I save my money in a piggy bank.,common,beginner
+common-b-023,clothes,KLOHTHZ,damit,Mama washes our clothes on Saturday.,common,beginner
+common-b-024,shoes,SHOOZ,sapatos,Take off your shoes inside the house.,common,beginner
+common-b-025,time,TAIM,oras,What time is it now?,common,beginner
+common-b-026,color,KUH-ler,kulay,My favorite color is blue.,common,beginner
+common-b-027,beautiful,BYOO-ti-ful,maganda,The sunset in Manila Bay is beautiful.,common,beginner
+common-b-028,fast,FAST,mabilis,The tricycle is very fast.,common,beginner
+common-b-029,slow,SLOH,mabagal,The traffic is slow on EDSA.,common,beginner
+common-b-030,please,PLEEZ,pakiusap,Please pass the rice.,common,beginner
+common-b-031,thank you,THANGK-yoo,salamat,"Thank you for the food, Lola.",common,beginner
+common-b-032,light,LAIT,ilaw,Please turn off the light.,common,beginner
+school-i-001,seatmate,SEET-mayt,katabi sa upuan,My seatmate lent me her eraser during the quiz.,school,intermediate
+school-i-002,adviser,ad-VY-zer,tagapayo,Our class adviser announced the date of the field trip.,school,intermediate
+school-i-003,calculator,KAL-kyuh-lay-ter,kalkulador,We cannot use a calculator during the math quiz.,school,intermediate
+school-i-004,mathematics,math-uh-MAT-iks,matematika,"Mathematics is hard for me, but I practice every day.",school,intermediate
+school-i-005,subject,SUB-jikt,asignatura,My favorite subject is Araling Panlipunan.,school,intermediate
+school-i-006,quiz,KWIZ,maikling pagsusulit,Our teacher gave us a quiz in Math today.,school,intermediate
+school-i-007,exam,ig-ZAM,pagsusulit,We studied hard for the final exam in March.,school,intermediate
+school-i-008,grammar,GRAM-er,balarila,Our teacher checks the grammar in our essays.,school,intermediate
+school-i-009,textbook,TEKST-buk,aklat-aralin,Please open your textbook to page twenty.,school,intermediate
+school-i-010,subtraction,sub-TRAK-shun,pagbabawas,We learned subtraction with borrowing in Math class.,school,intermediate
+school-i-011,schedule,SKEJ-ool,iskedyul,Our class schedule starts at seven in the morning.,school,intermediate
+school-i-012,recess,REE-ses,rises,We buy turon at the canteen during recess.,school,intermediate
+school-i-013,canteen,kan-TEEN,kantina,My mother gave me money for the school canteen.,school,intermediate
+school-i-014,project,PRAH-jekt,proyekto,We made a volcano model for our science project.,school,intermediate
+school-i-015,report,ri-PORT,ulat,Ana will give her report about our national heroes.,school,intermediate
+school-i-016,grade,GRAYD,marka,I got a high grade in English this quarter.,school,intermediate
+school-i-017,dictionary,DIK-shuh-ner-ee,diksiyonaryo,Look up the meaning of the word in the dictionary.,school,intermediate
+school-i-018,paragraph,PAR-uh-graf,talata,Write one paragraph about your summer vacation.,school,intermediate
+school-i-019,sentence,SEN-tens,pangungusap,Each sentence must begin with a capital letter.,school,intermediate
+school-i-020,spelling,SPEL-ing,pagbaybay,We have a spelling test every Friday afternoon.,school,intermediate
+school-i-021,science,SY-ens,agham,"In science class, we learned about the water cycle.",school,intermediate
+school-i-022,history,HIS-tuh-ree,kasaysayan,Our history lesson was about the Battle of Mactan.,school,intermediate
+school-i-023,fraction,FRAK-shun,praksiyon,Half of a pizza can be written as a fraction.,school,intermediate
+school-i-024,globe,GLOHB,globo,We found the Philippines on the classroom globe.,school,intermediate
+school-i-025,flag ceremony,FLAG SER-uh-moh-nee,seremonya sa watawat,We sing the national anthem during the flag ceremony.,school,intermediate
+school-i-026,bulletin board,BUL-uh-tin BORD,kartelera,Our best drawings were posted on the bulletin board.,school,intermediate
+school-i-027,absent,AB-sent,liban,Miguel was absent because he had a fever.,school,intermediate
+school-i-028,handwriting,HAND-ry-ting,sulat-kamay,Lola says my handwriting is neat and easy to read.,school,intermediate
+school-i-029,pencil case,PEN-sul KAYS,lalagyan ng lapis,I keep my pens and eraser in a pencil case.,school,intermediate
+school-i-030,field trip,FEELD TRIP,lakbay-aral,Our class went on a field trip to Intramuros.,school,intermediate
+school-i-031,experiment,ik-SPER-uh-ment,eksperimento,We did an experiment with plants and sunlight.,school,intermediate
+school-i-032,punctuation,pungk-choo-AY-shun,bantas,Do not forget the punctuation at the end of each sentence.,school,intermediate
+family-i-001,grandson,GRAND-sun,apong lalaki,Lolo taught his grandson how to fish in the river.,family,intermediate
+family-i-002,grandparents,GRAND-pair-ents,lolo at lola,My grandparents live in a small town in Pampanga.,family,intermediate
+family-i-003,granddaughter,GRAN-daw-ter,apong babae,Lola's granddaughter helps her cook every Sunday.,family,intermediate
+family-i-004,stepmother,STEP-muh-ther,madrasta,Her stepmother treats her like her own child.,family,intermediate
+family-i-005,anniversary,an-uh-VER-suh-ree,anibersaryo,My parents celebrated their wedding anniversary at home.,family,intermediate
+family-i-006,bride,BRYD,babaeng ikakasal,The bride wore a white gown at the church.,family,intermediate
+family-i-007,groom,GROOM,lalaking ikakasal,The groom waited nervously at the altar for his bride.,family,intermediate
+family-i-008,sibling,SIB-ling,kapatid,"I have three siblings, two boys and a girl.",family,intermediate
+family-i-009,surname,SER-naym,apelyido,Children usually use their father's surname.,family,intermediate
+family-i-010,eldest,EL-dist,panganay,"As the eldest, Rosa helps take care of her siblings.",family,intermediate
+family-i-011,youngest,YUNG-gist,bunso,Carlo is the youngest in their family of five.,family,intermediate
+family-i-012,nickname,NIK-naym,palayaw,My nickname at home is Bunso because I am the youngest.,family,intermediate
+family-i-013,babysitter,BAY-bee-sit-er,yaya,Our babysitter feeds my baby brother when Mama works.,family,intermediate
+family-i-014,middle name,MID-ul NAYM,gitnang pangalan,My middle name comes from my mother's surname.,family,intermediate
+family-i-015,only child,OHN-lee CHYLD,kaisa-isang anak,"As an only child, Ben sometimes wishes for a sibling.",family,intermediate
+family-i-016,caregiver,KAIR-giv-er,tagapag-alaga,The caregiver helps Lolo take his medicine on time.,family,intermediate
+family-i-017,grandchild,GRAND-chyld,apo,Lola always gives candy to her grandchild.,family,intermediate
+family-i-018,allowance,uh-LOW-ens,baon,My parents give me an allowance for school every day.,family,intermediate
+family-i-019,gathering,GATH-er-ing,pagtitipon,Our family gathering was full of food and laughter.,family,intermediate
+family-i-020,funeral,FYOO-ner-ul,libing,Many relatives attended Lolo's funeral in Ilocos.,family,intermediate
+family-i-021,chores,CHORZ,gawaing-bahay,I do my chores before playing with my friends.,family,intermediate
+family-i-022,couple,KUP-ul,mag-asawa,The young couple moved into a small apartment in Pasig.,family,intermediate
+family-i-023,pregnant,PREG-nunt,buntis,My aunt is pregnant with her second baby.,family,intermediate
+family-i-024,newborn,NOO-born,bagong silang,The newborn baby slept quietly in her crib.,family,intermediate
+family-i-025,toddler,TAHD-ler,batang paslit,My toddler brother likes to play with blocks.,family,intermediate
+family-i-026,teenager,TEEN-ay-jer,tinedyer,My sister became a teenager when she turned thirteen.,family,intermediate
+family-i-027,adult,uh-DULT,nasa hustong gulang,Children should ask an adult before crossing the road.,family,intermediate
+family-i-028,elder,EL-der,nakatatanda,We say po and opo to show respect to our elders.,family,intermediate
+family-i-029,infant,IN-funt,sanggol,An infant needs milk every few hours.,family,intermediate
+family-i-030,great-grandmother,grayt-GRAND-muh-ther,lola sa tuhod,My great-grandmother is already ninety years old.,family,intermediate
+family-i-031,baptism,BAP-tiz-um,binyag,Many relatives came to my baby cousin's baptism.,family,intermediate
+family-i-032,wedding,WED-ing,kasal,My uncle's wedding was held in a church in Cebu.,family,intermediate
+food-i-001,bitter,BIT-er,mapait,"Ampalaya is bitter, but it is very healthy.",food,intermediate
+food-i-002,salty,SAWL-tee,maalat,The dried fish is too salty for my taste.,food,intermediate
+food-i-003,sweet potato,SWEET puh-TAY-toh,kamote,We boiled sweet potato for our afternoon merienda.,food,intermediate
+food-i-004,dessert,di-ZERT,panghimagas,Leche flan is my favorite dessert at parties.,food,intermediate
+food-i-005,cassava,kuh-SAH-vuh,kamoteng kahoy,Cassava cake is a favorite treat during fiestas.,food,intermediate
+food-i-006,string beans,STRING BEENZ,sitaw,Mother added string beans to the pinakbet.,food,intermediate
+food-i-007,flour,FLOW-er,harina,We need flour and eggs to make pancakes.,food,intermediate
+food-i-008,mung beans,MUNG BEENZ,munggo,We cook mung beans with malunggay every Friday.,food,intermediate
+food-i-009,soy sauce,SOY SAWS,toyo,Please pass the soy sauce for my fried fish.,food,intermediate
+food-i-010,watermelon,WAW-ter-mel-un,pakwan,Cold watermelon is perfect on a hot summer day.,food,intermediate
+food-i-011,guava,GWAH-vuh,bayabas,We picked ripe guava from the tree in our yard.,food,intermediate
+food-i-012,ginger,JIN-jer,luya,Ginger makes the arroz caldo warm and tasty.,food,intermediate
+food-i-013,pepper,PEP-er,paminta,Add a little salt and pepper to the soup.,food,intermediate
+food-i-014,cabbage,KAB-ij,repolyo,We put cabbage and carrots in the chop suey.,food,intermediate
+food-i-015,eggplant,EG-plant,talong,Tortang talong is made from eggplant and egg.,food,intermediate
+food-i-016,squash,SKWAHSH,kalabasa,Eating squash is good for your eyes.,food,intermediate
+food-i-017,pineapple,PYN-ap-ul,pinya,Pineapple from Bukidnon is sweet and juicy.,food,intermediate
+food-i-018,jackfruit,JAK-froot,langka,Jackfruit adds a sweet smell to halo-halo.,food,intermediate
+food-i-019,tamarind,TAM-uh-rind,sampalok,"Tamarind candy is sweet, sour, and a little salty.",food,intermediate
+food-i-020,cooking oil,KUK-ing OYL,mantika,Heat the cooking oil before frying the fish.,food,intermediate
+food-i-021,porridge,POR-ij,lugaw,Mother cooked hot porridge when I was sick.,food,intermediate
+food-i-022,dried fish,DRYD FISH,tuyo,We ate dried fish and rice with tomatoes.,food,intermediate
+food-i-023,grilled,GRILD,inihaw,We ate grilled pork and chicken at the fiesta.,food,intermediate
+food-i-024,fried rice,FRYD RYS,sinangag,We eat fried rice and egg every morning.,food,intermediate
+food-i-025,beef,BEEF,karne ng baka,Bulalo is a soup made with beef bones.,food,intermediate
+food-i-026,sardines,sar-DEENZ,sardinas,We ate sardines with rice during the brownout.,food,intermediate
+food-i-027,leftovers,LEFT-oh-verz,tirang pagkain,We heated the leftovers from last night's dinner.,food,intermediate
+food-i-028,seafood,SEE-food,pagkaing-dagat,Navotas is famous for fresh and cheap seafood.,food,intermediate
+food-i-029,dough,DOH,masa,The baker kneads the dough well before making pandesal.,food,intermediate
+food-i-030,delicious,di-LISH-us,masarap,The halo-halo at the fiesta was delicious.,food,intermediate
+food-i-031,spicy,SPY-see,maanghang,Bicol Express is a spicy dish from Bicol.,food,intermediate
+food-i-032,sour,SOWR,maasim,Sinigang has a sour taste from tamarind.,food,intermediate
+animals-i-001,chick,CHIK,sisiw,The little chick follows its mother everywhere.,animals,intermediate
+animals-i-002,piglet,PIG-lit,biik,The mother pig fed her six hungry piglets.,animals,intermediate
+animals-i-003,rooster,ROO-ster,tandang,The rooster crows early every morning in the province.,animals,intermediate
+animals-i-004,hen,HEN,inahin,The hen sat on her eggs to keep them warm.,animals,intermediate
+animals-i-005,calf,KAF,guya,The calf drinks milk from its mother cow.,animals,intermediate
+animals-i-006,octopus,AHK-tuh-pus,pugita,An octopus has eight long arms.,animals,intermediate
+animals-i-007,starfish,STAR-fish,isdang-bituin,We saw a starfish near the rocks at low tide.,animals,intermediate
+animals-i-008,gecko,GEK-oh,tuko,We heard a gecko calling loudly at night.,animals,intermediate
+animals-i-009,dolphin,DAHL-fin,lumba-lumba,Dolphins jumped beside our boat in Bohol.,animals,intermediate
+animals-i-010,crow,KROH,uwak,A black crow sat on the electric wire.,animals,intermediate
+animals-i-011,sparrow,SPAR-oh,maya,A sparrow built a nest under our roof.,animals,intermediate
+animals-i-012,wasp,WAHSP,putakti,A wasp stung my arm while I was picking fruit.,animals,intermediate
+animals-i-013,dragonfly,DRAG-un-fly,tutubi,A dragonfly landed on the tip of the grass.,animals,intermediate
+animals-i-014,firefly,FYR-fly,alitaptap,Fireflies light up the trees near the river at night.,animals,intermediate
+animals-i-015,grasshopper,GRAS-hah-per,tipaklong,The grasshopper jumped from leaf to leaf.,animals,intermediate
+animals-i-016,caterpillar,KAT-er-pil-er,higad,A caterpillar later turns into a beautiful butterfly.,animals,intermediate
+animals-i-017,earthworm,ERTH-werm,bulate,An earthworm helps keep the soil healthy.,animals,intermediate
+animals-i-018,snail,SNAYL,suso,A snail moved slowly across the wet leaf.,animals,intermediate
+animals-i-019,flea,FLEE,pulgas,Our dog keeps scratching because of fleas.,animals,intermediate
+animals-i-020,centipede,SEN-tuh-peed,alupihan,A centipede has many legs and can bite.,animals,intermediate
+animals-i-021,parrot,PAR-ut,loro,The parrot can copy the words it hears.,animals,intermediate
+animals-i-022,owl,OWL,kuwago,The owl hunts for mice at night.,animals,intermediate
+animals-i-023,bat,BAT,paniki,Bats fly out of the cave when the sun sets.,animals,intermediate
+animals-i-024,beetle,BEE-tul,salagubang,Children in the province catch beetles in the summer.,animals,intermediate
+animals-i-025,deer,DEER,usa,The Philippine deer lives in the forests of Visayas.,animals,intermediate
+animals-i-026,hawk,HAWK,lawin,The hawk circled above the chickens in the yard.,animals,intermediate
+animals-i-027,whale shark,WAYL SHARK,butanding,Tourists swim with the whale shark in Donsol.,animals,intermediate
+animals-i-028,jellyfish,JEL-ee-fish,dikya,"Be careful, a jellyfish sting can be painful.",animals,intermediate
+animals-i-029,squid,SKWID,pusit,We had grilled squid at the beach.,animals,intermediate
+animals-i-030,puppy,PUP-ee,tuta,Our puppy sleeps beside my bed every night.,animals,intermediate
+animals-i-031,kitten,KIT-un,kuting,The kitten plays with a ball of yarn.,animals,intermediate
+animals-i-032,pigeon,PIJ-un,kalapati,Pigeons gather in the plaza near the church.,animals,intermediate
+places-i-001,clinic,KLIN-ik,klinika,We went to the health clinic for my vaccine.,places,intermediate
+places-i-002,fire station,FYR STAY-shun,himpilan ng bumbero,The fire station is near the town hall.,places,intermediate
+places-i-003,chapel,CHAP-ul,kapilya,We pray the rosary at the chapel in our barangay.,places,intermediate
+places-i-004,seashore,SEE-shor,baybay-dagat,We collected shells along the seashore in La Union.,places,intermediate
+places-i-005,town hall,TOWN HAWL,munisipyo,The mayor's office is inside the town hall.,places,intermediate
+places-i-006,post office,POHST AW-fis,tanggapan ng koreo,I mailed a letter to my pen pal at the post office.,places,intermediate
+places-i-007,bank,BANGK,bangko,My father keeps his savings in the bank.,places,intermediate
+places-i-008,pharmacy,FAR-muh-see,botika,We bought medicine for my cough at the pharmacy.,places,intermediate
+places-i-009,valley,VAL-ee,lambak,Cagayan Valley is known for its rice and corn.,places,intermediate
+places-i-010,hill,HIL,burol,We climbed the hill to watch the sunset.,places,intermediate
+places-i-011,museum,myoo-ZEE-um,museo,We saw old paintings at the National Museum.,places,intermediate
+places-i-012,rice field,RYS FEELD,palayan,Farmers plant rice in the rice field during June.,places,intermediate
+places-i-013,lake,LAYK,lawa,Taal Lake surrounds a small but active volcano.,places,intermediate
+places-i-014,ocean,OH-shun,karagatan,The Pacific Ocean lies east of the Philippines.,places,intermediate
+places-i-015,hotel,hoh-TEL,otel,We stayed in a small hotel in Baguio.,places,intermediate
+places-i-016,eatery,EE-ter-ee,karinderya,Workers eat lunch at the small eatery near the factory.,places,intermediate
+places-i-017,volcano,vahl-KAY-noh,bulkan,Mayon Volcano has an almost perfect cone shape.,places,intermediate
+places-i-018,waterfall,WAW-ter-fawl,talon,We swam under a cool waterfall in Laguna.,places,intermediate
+places-i-019,cave,KAYV,kuweba,Many bats live inside the dark cave.,places,intermediate
+places-i-020,province,PRAH-vins,probinsiya,We spend our summer vacation in the province.,places,intermediate
+places-i-021,barbershop,BAR-ber-shahp,barberya,Dad gets a haircut at the barbershop every month.,places,intermediate
+places-i-022,gas station,GAS STAY-shun,gasolinahan,Our jeepney stopped at the gas station to buy fuel.,places,intermediate
+places-i-023,neighborhood,NAY-ber-hud,kapitbahayan,Our neighborhood has a small sari-sari store.,places,intermediate
+places-i-024,apartment,uh-PART-ment,paupahang bahay,My aunt rents an apartment near her office in Makati.,places,intermediate
+places-i-025,port,PORT,daungan,The ferry left the port for Mindoro at noon.,places,intermediate
+places-i-026,bus terminal,BUS TER-mi-nul,terminal ng bus,We waited at the bus terminal for the trip to Baguio.,places,intermediate
+places-i-027,cemetery,SEM-uh-ter-ee,sementeryo,Families visit the cemetery on All Saints' Day.,places,intermediate
+places-i-028,gymnasium,jim-NAY-zee-um,himnasyo,Our school program was held in the gymnasium.,places,intermediate
+places-i-029,police station,puh-LEES STAY-shun,himpilan ng pulisya,They reported the lost wallet at the police station.,places,intermediate
+places-i-030,highway,HY-way,lansangan,Many buses travel along the highway to Bicol.,places,intermediate
+places-i-031,subdivision,SUB-di-vizh-un,subdibisyon,My classmate lives in a subdivision near the highway.,places,intermediate
+places-i-032,factory,FAK-tuh-ree,pabrika,My cousin works in a shoe factory in Marikina.,places,intermediate
+feelings-i-001,curious,KYUR-ee-us,mausisa,Curious students ask many questions in class.,feelings,intermediate
+feelings-i-002,lucky,LUK-ee,masuwerte,We were lucky to get home before the heavy rain.,feelings,intermediate
+feelings-i-003,joyful,JOY-ful,maligaya,The town was joyful during the Sinulog festival.,feelings,intermediate
+feelings-i-004,proud,PROWD,ipinagmamalaki,My parents are proud of my good grades.,feelings,intermediate
+feelings-i-005,patient,PAY-shunt,matiyaga,Be patient while waiting for your turn in line.,feelings,intermediate
+feelings-i-006,eager,EE-ger,sabik,The students were eager to go on the field trip.,feelings,intermediate
+feelings-i-007,gloomy,GLOO-mee,matamlay,Rainy days make me feel gloomy and quiet.,feelings,intermediate
+feelings-i-008,puzzled,PUZ-uld,naguguluhan,Ben looked puzzled when he saw the hard question.,feelings,intermediate
+feelings-i-009,terrified,TER-uh-fyd,takot na takot,I was terrified when the strong earthquake shook our house.,feelings,intermediate
+feelings-i-010,delighted,di-LY-tid,natuwa,Lola was delighted to see all her grandchildren.,feelings,intermediate
+feelings-i-011,sorrowful,SAHR-oh-ful,nagdadalamhati,The sorrowful family prayed at Lolo's wake.,feelings,intermediate
+feelings-i-012,heartbroken,HART-broh-kun,durog ang puso,Ana was heartbroken when her pet cat died.,feelings,intermediate
+feelings-i-013,shocked,SHAHKT,gulat na gulat,We were shocked to hear the sad news.,feelings,intermediate
+feelings-i-014,frightened,FRY-tund,natatakot,The frightened child hid behind his mother.,feelings,intermediate
+feelings-i-015,thrilled,THRILD,tuwang-tuwa,Maria was thrilled to win first place in the contest.,feelings,intermediate
+feelings-i-016,impatient,im-PAY-shunt,mainipin,The impatient boy kept asking if lunch was ready.,feelings,intermediate
+feelings-i-017,safe,SAYF,ligtas,I feel safe when my family is with me.,feelings,intermediate
+feelings-i-018,grumpy,GRUM-pee,masungit,Kuya is grumpy when he wakes up too early.,feelings,intermediate
+feelings-i-019,energetic,en-er-JET-ik,masigla,The kids were energetic after eating their merienda.,feelings,intermediate
+feelings-i-020,dizzy,DIZ-ee,nahihilo,I felt dizzy after riding the carousel many times.,feelings,intermediate
+feelings-i-021,satisfied,SAT-is-fyd,nasiyahan,The customer was satisfied with the delicious food.,feelings,intermediate
+feelings-i-022,hopeful,HOHP-ful,umaasa,We are hopeful that the typhoon will not hit us.,feelings,intermediate
+feelings-i-023,restless,REST-lis,di mapakali,The restless puppy kept running around the house.,feelings,intermediate
+feelings-i-024,upset,up-SET,masama ang loob,Mia was upset because her friend did not call.,feelings,intermediate
+feelings-i-025,sulky,SUL-kee,nagtatampo,My little sister was sulky because she did not get candy.,feelings,intermediate
+feelings-i-026,touched,TUCHT,naantig,I was touched by my classmates' kind letters.,feelings,intermediate
+feelings-i-027,comfortable,KUMF-ter-bul,komportable,I feel comfortable wearing my old slippers at home.,feelings,intermediate
+feelings-i-028,amazed,uh-MAYZD,namangha,We were amazed by the beautiful Chocolate Hills.,feelings,intermediate
+feelings-i-029,guilty,GIL-tee,nakokonsensiya,I felt guilty after breaking my brother's toy.,feelings,intermediate
+feelings-i-030,peaceful,PEES-ful,payapa,The beach feels peaceful early in the morning.,feelings,intermediate
+feelings-i-031,hopeless,HOHP-lis,walang pag-asa,"Do not feel hopeless, because you can try again tomorrow.",feelings,intermediate
+feelings-i-032,suspicious,suh-SPISH-us,naghihinala,The guard was suspicious of the man near the gate.,feelings,intermediate
+actions-i-001,borrow,BAHR-oh,humiram,Can I borrow your pen for a moment?,actions,intermediate
+actions-i-002,explain,ik-SPLAYN,ipaliwanag,Can you explain the meaning of this word?,actions,intermediate
+actions-i-003,lend,LEND,magpahiram,Ana will lend me her umbrella this afternoon.,actions,intermediate
+actions-i-004,describe,di-SKRYB,ilarawan,Describe your favorite place in the Philippines.,actions,intermediate
+actions-i-005,discover,dis-KUV-er,tuklasin,Scientists discover new animals in Philippine forests every year.,actions,intermediate
+actions-i-006,protect,pruh-TEKT,pangalagaan,We must protect our coral reefs from pollution.,actions,intermediate
+actions-i-007,collect,kuh-LEKT,mangolekta,Lito likes to collect stamps from other countries.,actions,intermediate
+actions-i-008,arrange,uh-RAYNJ,ayusin,Please arrange the chairs before the meeting starts.,actions,intermediate
+actions-i-009,prepare,pri-PAIR,maghanda,Mother wakes up early to prepare our baon.,actions,intermediate
+actions-i-010,celebrate,SEL-uh-brayt,magdiwang,We celebrate the town fiesta every May.,actions,intermediate
+actions-i-011,decide,di-SYD,magpasya,You must decide which club you want to join.,actions,intermediate
+actions-i-012,improve,im-PROOV,pagbutihin,Reading daily will improve your English skills.,actions,intermediate
+actions-i-013,forgive,fer-GIV,patawarin,Please forgive me for breaking your toy.,actions,intermediate
+actions-i-014,apologize,uh-PAHL-uh-jyz,humingi ng tawad,I will apologize to my friend for being rude.,actions,intermediate
+actions-i-015,recycle,ree-SY-kul,muling gamitin,We recycle plastic bottles to make pots for plants.,actions,intermediate
+actions-i-016,whisper,WIS-per,bumulong,Do not whisper to your seatmate during the test.,actions,intermediate
+actions-i-017,shout,SHOWT,sumigaw,Please do not shout inside the library.,actions,intermediate
+actions-i-018,wipe,WYP,punasan,Please wipe the table after we eat.,actions,intermediate
+actions-i-019,rinse,RINS,banlawan,Rinse the plates well with clean water.,actions,intermediate
+actions-i-020,hang,HANG,isabit,Hang your bag on the hook behind the door.,actions,intermediate
+actions-i-021,fold,FOHLD,tiklupin,Fold your clothes neatly before putting them away.,actions,intermediate
+actions-i-022,hurry,HER-ee,magmadali,We must hurry or we will miss the jeepney.,actions,intermediate
+actions-i-023,practice,PRAK-tis,magsanay,We practice our dance for the school program every afternoon.,actions,intermediate
+actions-i-024,obey,oh-BAY,sumunod,Children should obey their parents and teachers.,actions,intermediate
+actions-i-025,share,SHAIR,magbahagi,Let us share our snacks with our classmates.,actions,intermediate
+actions-i-026,plant,PLANT,magtanim,We plant vegetables in our school garden.,actions,intermediate
+actions-i-027,search,SERCH,maghanap,We search for seashells along the shore.,actions,intermediate
+actions-i-028,pray,PRAY,manalangin,Our family prays together before eating dinner.,actions,intermediate
+actions-i-029,greet,GREET,bumati,We greet our teacher with good morning every day.,actions,intermediate
+actions-i-030,invite,in-VYT,mag-imbita,I will invite my classmates to my birthday party.,actions,intermediate
+actions-i-031,promise,PRAH-mis,mangako,I promise to finish my homework before playing.,actions,intermediate
+actions-i-032,complain,kum-PLAYN,magreklamo,Do not complain if the food is not your favorite.,actions,intermediate
+common-i-001,however,how-EV-er,gayunman,"I studied hard; however, the test was still difficult.",common,intermediate
+common-i-002,usually,YOO-zhoo-uh-lee,kadalasan,I usually walk to school with my cousins.,common,intermediate
+common-i-003,enough,i-NUF,sapat,Do we have enough rice for everyone tonight?,common,intermediate
+common-i-004,several,SEV-rul,ilan,Several students joined the clean-up drive on Saturday.,common,intermediate
+common-i-005,although,awl-THOH,bagaman,"Although it was raining, we still went to school.",common,intermediate
+common-i-006,during,DUR-ing,sa panahon ng,Please be quiet during the flag ceremony.,common,intermediate
+common-i-007,almost,AWL-mohst,halos,It is almost time for the bell to ring.,common,intermediate
+common-i-008,probably,PRAH-buh-blee,marahil,It will probably rain later this afternoon.,common,intermediate
+common-i-009,especially,i-SPESH-uh-lee,lalo na,"I love fruits, especially mangoes from Guimaras.",common,intermediate
+common-i-010,important,im-POR-tunt,mahalaga,It is important to wash your hands before eating.,common,intermediate
+common-i-011,different,DIF-runt,iba,My cousin and I like different kinds of music.,common,intermediate
+common-i-012,similar,SIM-uh-ler,magkatulad,Pandesal and monay taste similar but look different.,common,intermediate
+common-i-013,suddenly,SUD-un-lee,bigla,"Suddenly, the lights went out during the storm.",common,intermediate
+common-i-014,finally,FY-nuh-lee,sa wakas,We finally reached the top of the hill.,common,intermediate
+common-i-015,instead,in-STED,sa halip,Drink water instead of soft drinks with your meal.,common,intermediate
+common-i-016,whole,HOHL,buo,I ate the whole banana in two bites.,common,intermediate
+common-i-017,each,EECH,bawat,Each student will receive a new textbook.,common,intermediate
+common-i-018,perhaps,per-HAPS,siguro,Perhaps Lola will visit us this Christmas.,common,intermediate
+common-i-019,sometimes,SUM-tymz,minsan,Sometimes we eat dinner at Lola's house.,common,intermediate
+common-i-020,often,AW-fun,madalas,We often play patintero after school.,common,intermediate
+common-i-021,seldom,SEL-dum,bihira,My busy father seldom watches TV at night.,common,intermediate
+common-i-022,quickly,KWIK-lee,mabilis,Finish your food quickly so we will not be late.,common,intermediate
+common-i-023,beside,bi-SYD,katabi,My best friend sits beside me in class.,common,intermediate
+common-i-024,between,bi-TWEEN,sa pagitan ng,The bakery is between the church and the school.,common,intermediate
+common-i-025,toward,tuh-WORD,patungo,The children ran toward the ice cream vendor.,common,intermediate
+common-i-026,except,ik-SEPT,maliban sa,Everyone came to the party except Mark.,common,intermediate
+common-i-027,correct,kuh-REKT,tama,Choose the correct answer from the choices below.,common,intermediate
+common-i-028,necessary,NES-uh-ser-ee,kailangan,It is necessary to bring an umbrella in June.,common,intermediate
+common-i-029,possible,PAH-si-bul,posible,Is it possible to finish this project today?,common,intermediate
+common-i-030,certain,SER-tun,sigurado,Are you certain that the store is open today?,common,intermediate
+common-i-031,anyone,EN-ee-wun,sinuman,Does anyone have an extra pencil I can use?,common,intermediate
+common-i-032,everything,EV-ree-thing,lahat,We packed everything we need for the trip.,common,intermediate
+school-a-001,curriculum,kuh-RIK-yuh-lum,kurikulum,The K to 12 curriculum added two more years of senior high school.,school,advanced
+school-a-002,assignment,uh-SYN-ment,takdang-aralin,Our teacher gave us a research assignment about Philippine heroes.,school,advanced
+school-a-003,scholarship,SKOL-ur-ship,iskolarship,Maria earned a scholarship to study engineering at a university in Manila.,school,advanced
+school-a-004,thesis,THEE-sis,tesis,My cousin is writing her thesis on rice farming in Nueva Ecija.,school,advanced
+school-a-005,semester,suh-MES-tur,semestre,"The first semester ends in December, just before the Christmas break.",school,advanced
+school-a-006,enrollment,en-ROHL-ment,pagpapatala,Enrollment for the new school year starts in early June.,school,advanced
+school-a-007,diploma,dih-PLOH-muh,diploma,She proudly received her diploma during the ceremony in April.,school,advanced
+school-a-008,graduation,graj-oo-AY-shun,pagtatapos,Our whole family attended my brother's graduation at the town gym.,school,advanced
+school-a-009,faculty,FAK-ul-tee,kaguruan,The faculty of our school held a meeting about the science fair.,school,advanced
+school-a-010,transcript,TRANS-kript,talaan ng mga marka,The university asked for my transcript before accepting my application.,school,advanced
+school-a-011,examination,ig-zam-uh-NAY-shun,pagsusulit,We studied hard for the national examination in mathematics and science.,school,advanced
+school-a-012,research,REE-surch,pananaliksik,Our group did research on plastic pollution in Manila Bay.,school,advanced
+school-a-013,laboratory,LAB-ruh-tor-ee,laboratoryo,We wore goggles while mixing chemicals in the science laboratory.,school,advanced
+school-a-014,lecture,LEK-chur,panayam,The professor gave a long lecture about the Philippine Revolution.,school,advanced
+school-a-015,syllabus,SIL-uh-bus,balangkas ng kurso,The teacher gave us the syllabus on the first day of class.,school,advanced
+school-a-016,academic,ak-uh-DEM-ik,pang-akademiko,Her academic performance improved after she joined a study group.,school,advanced
+school-a-017,discipline,DIS-uh-plin,disiplina,Good discipline helps students finish their projects on time.,school,advanced
+school-a-018,attendance,uh-TEN-duns,pagdalo,Our adviser checks the attendance every morning before the flag ceremony.,school,advanced
+school-a-019,evaluation,ih-val-yoo-AY-shun,pagtatasa,The teacher's evaluation showed that I need to improve my writing.,school,advanced
+school-a-020,comprehension,kom-prih-HEN-shun,pag-unawa,Reading comprehension improves when you read books every day.,school,advanced
+school-a-021,essay,ES-ay,sanaysay,I wrote an essay about the importance of protecting our forests.,school,advanced
+school-a-022,vocabulary,voh-KAB-yuh-ler-ee,talasalitaan,Reading English novels helped me build a wider vocabulary.,school,advanced
+school-a-023,literature,LIT-ur-uh-chur,panitikan,"We studied Philippine literature, including the novels of Jose Rizal.",school,advanced
+school-a-024,reference,REF-ur-uns,sanggunian,Always list every reference you used at the end of your report.,school,advanced
+school-a-025,deadline,DED-lyn,takdang petsa,The deadline for our science project is next Friday afternoon.,school,advanced
+school-a-026,presentation,prez-en-TAY-shun,presentasyon,Our group presentation about climate change lasted fifteen minutes.,school,advanced
+school-a-027,recitation,res-ih-TAY-shun,resitasyon,I raised my hand during recitation to answer the teacher's question.,school,advanced
+school-a-028,extracurricular,eks-truh-kuh-RIK-yuh-lur,ekstrakurikular,She joins extracurricular activities like the school paper and the choir.,school,advanced
+school-a-029,plagiarism,PLAY-juh-riz-um,pangongopya ng akda ng iba,Copying an article without giving credit to the author is plagiarism.,school,advanced
+school-a-030,dormitory,DOR-mih-tor-ee,dormitoryo,Students from the provinces often stay in a dormitory near the university.,school,advanced
+school-a-031,tuition,too-ISH-un,matrikula,My parents saved money all year to pay my college tuition.,school,advanced
+school-a-032,valedictorian,val-uh-dik-TOR-ee-un,balediktoryan,The valedictorian thanked her parents in her speech at graduation.,school,advanced
+family-a-001,ancestors,AN-ses-turz,mga ninuno,Our ancestors traded with Chinese merchants long before the Spanish arrived.,family,advanced
+family-a-002,descendant,dih-SEN-dunt,inapo,He is a descendant of a famous revolutionary leader from Cavite.,family,advanced
+family-a-003,patriarch,PAY-tree-ark,lalaking pinuno ng angkan,"As the family patriarch, Lolo Andres settles every argument among his children.",family,advanced
+family-a-004,dowry,DOW-ree,dote,"In some old Filipino traditions, the groom offered a dowry to the bride's family.",family,advanced
+family-a-005,generation,jen-uh-RAY-shun,salinlahi,The younger generation uses smartphones more than their grandparents did.,family,advanced
+family-a-006,heritage,HER-ih-tij,pamana,Weaving is part of the cultural heritage of the Ifugao people.,family,advanced
+family-a-007,inheritance,in-HER-ih-tuns,mana,The farmland was divided equally as an inheritance among the five children.,family,advanced
+family-a-008,guardian,GAR-dee-un,tagapag-alaga,Her aunt became her legal guardian while her parents worked abroad.,family,advanced
+family-a-009,spouse,SPOWS,asawa,Each employee may bring a spouse to the company Christmas party.,family,advanced
+family-a-010,household,HOWS-hohld,sambahayan,Every household in our barangay received rice after the flood.,family,advanced
+family-a-011,upbringing,UP-bring-ing,pagpapalaki,Her strict upbringing taught her to respect her elders.,family,advanced
+family-a-012,kinship,KIN-ship,pagkakamag-anak,"Filipinos value kinship, so cousins are often treated like siblings.",family,advanced
+family-a-013,reunion,ree-YOON-yun,muling pagsasama-sama,Our family reunion in Batangas gathered more than eighty relatives.,family,advanced
+family-a-014,lineage,LIN-ee-ij,lahi,The datu proudly traced his lineage back to the first settlers of the island.,family,advanced
+family-a-015,offspring,OF-spring,supling,Parents work hard so their offspring can have a better future.,family,advanced
+family-a-016,adolescent,ad-uh-LES-unt,nagbibinata o nagdadalaga,An adolescent needs enough sleep to stay healthy and focused in school.,family,advanced
+family-a-017,elderly,EL-dur-lee,matatanda,Filipino families usually care for their elderly at home.,family,advanced
+family-a-018,sacrifice,SAK-ruh-fys,sakripisyo,My father's sacrifice as an overseas worker paid for our education.,family,advanced
+family-a-019,responsibility,rih-spon-suh-BIL-ih-tee,pananagutan,Taking care of my younger siblings is my responsibility after school.,family,advanced
+family-a-020,obedience,oh-BEE-dee-uns,pagsunod,Obedience to parents is an important value in many Filipino homes.,family,advanced
+family-a-021,godparent,GOD-pair-unt,ninong o ninang,My godparent always gives me a gift every Christmas.,family,advanced
+family-a-022,orphan,OR-fun,ulila,The orphan was adopted by a kind couple from Iloilo.,family,advanced
+family-a-023,adoption,uh-DOP-shun,pag-aampon,"The adoption process took two years, but now Ana has a loving home.",family,advanced
+family-a-024,matriarch,MAY-tree-ark,babaeng pinuno ng angkan,Lola Remedios is the matriarch who makes all the big family decisions.,family,advanced
+family-a-025,clan,KLAN,angkan,The whole clan gathered for the wedding in Pampanga.,family,advanced
+family-a-026,breadwinner,BRED-win-ur,tagapagtaguyod ng pamilya,"As the eldest daughter, Joy became the breadwinner of her family.",family,advanced
+family-a-027,legacy,LEG-uh-see,iniwang pamana,Our grandfather's legacy of honesty still guides our family today.,family,advanced
+family-a-028,widow,WID-oh,balo,The widow raised her four children alone after the typhoon took her husband.,family,advanced
+family-a-029,affection,uh-FEK-shun,pagmamahal,Lolo shows his affection by cooking our favorite adobo every Sunday.,family,advanced
+family-a-030,stepfather,STEP-fah-thur,amain,My stepfather treats me like his own son.,family,advanced
+family-a-031,matrimony,MAT-rih-moh-nee,pag-iisang-dibdib,The couple was joined in holy matrimony at the old church in Paoay.,family,advanced
+family-a-032,hospitality,hos-pih-TAL-ih-tee,mabuting pagtanggap sa bisita,Filipino hospitality makes visitors feel welcome in every home.,family,advanced
+food-a-001,nutritious,noo-TRISH-us,masustansiya,"Malunggay soup is cheap, delicious, and very nutritious for children.",food,advanced
+food-a-002,cuisine,kwih-ZEEN,lutuin,"Filipino cuisine mixes Malay, Spanish, and Chinese flavors.",food,advanced
+food-a-003,delicacy,DEL-ih-kuh-see,espesyal na pagkain,Pastillas de leche is a famous delicacy from Bulacan.,food,advanced
+food-a-004,ingredient,in-GREE-dee-unt,sangkap,Vinegar is the most important ingredient in a good adobo.,food,advanced
+food-a-005,appetite,AP-uh-tyt,gana sa pagkain,"After playing basketball all afternoon, I had a huge appetite.",food,advanced
+food-a-006,beverage,BEV-ur-ij,inumin,Buko juice is a refreshing beverage on a hot summer day.,food,advanced
+food-a-007,condiment,KON-dih-ment,pampalasa,"Fish sauce, or patis, is a common condiment on Filipino tables.",food,advanced
+food-a-008,nutrient,NOO-tree-ent,sustansiya,Iron is an important nutrient found in green leafy vegetables.,food,advanced
+food-a-009,protein,PROH-teen,protina,Fish and eggs are good sources of protein for growing teenagers.,food,advanced
+food-a-010,carbohydrate,kar-boh-HY-drayt,karbohidrato,Rice is the main carbohydrate in almost every Filipino meal.,food,advanced
+food-a-011,preservative,prih-ZUR-vuh-tiv,pampreserba,Canned goods often contain a preservative to keep them from spoiling.,food,advanced
+food-a-012,fermented,fur-MEN-tid,binuro,Bagoong is made from fermented fish or tiny shrimp.,food,advanced
+food-a-013,savory,SAY-vuh-ree,malinamnam,The savory smell of lechon filled the whole street during the fiesta.,food,advanced
+food-a-014,bland,BLAND,matabang,"The soup tasted bland, so Mama added a little salt.",food,advanced
+food-a-015,famine,FAM-in,taggutom,Long droughts can cause famine in poor farming communities.,food,advanced
+food-a-016,harvest,HAR-vist,ani,Farmers in Isabela celebrate after a good corn harvest.,food,advanced
+food-a-017,staple,STAY-pul,pangunahing pagkain,Rice is the staple food of most families in the Philippines.,food,advanced
+food-a-018,portion,POR-shun,bahagi,Eat a small portion of fried food and more fruits instead.,food,advanced
+food-a-019,recipe,RES-uh-pee,resipe,My grandmother's recipe for kare-kare is a family secret.,food,advanced
+food-a-020,cholesterol,kuh-LES-tuh-rol,kolesterol,Eating too much lechon can raise your cholesterol level.,food,advanced
+food-a-021,aroma,uh-ROH-muh,bango,The aroma of freshly baked pandesal woke me up early.,food,advanced
+food-a-022,malnutrition,mal-noo-TRISH-un,malnutrisyon,The feeding program helps reduce malnutrition among young pupils.,food,advanced
+food-a-023,organic,or-GAN-ik,organiko,The farmers' market in Baguio sells organic lettuce and strawberries.,food,advanced
+food-a-024,perishable,PER-ih-shuh-bul,madaling masira,"Fish is perishable, so vendors keep it on ice.",food,advanced
+food-a-025,spoiled,SPOYLD,panis,Do not eat the rice if it smells spoiled.,food,advanced
+food-a-026,culinary,KUL-ih-ner-ee,may kinalaman sa pagluluto,She took a culinary course to become a chef in a hotel.,food,advanced
+food-a-027,marinate,MAR-ih-nayt,ibabad sa timpla,Marinate the chicken in soy sauce and calamansi juice overnight.,food,advanced
+food-a-028,fiber,FY-bur,hibla,Fruits like guava and mango are rich in fiber.,food,advanced
+food-a-029,hygiene,HY-jeen,kalinisan,Food handlers must follow proper hygiene to prevent illness.,food,advanced
+food-a-030,contaminated,kun-TAM-ih-nay-tid,kontaminado,Contaminated water can cause diarrhea and other serious diseases.,food,advanced
+food-a-031,edible,ED-uh-bul,maaaring kainin,"Some wild mushrooms are edible, but others are very poisonous.",food,advanced
+food-a-032,calorie,KAL-uh-ree,kaloriya,Each calorie you eat gives your body energy to work and play.,food,advanced
+animals-a-001,endangered,en-DAYN-jurd,nanganganib,The Philippine eagle is an endangered bird found in Mindanao forests.,animals,advanced
+animals-a-002,habitat,HAB-ih-tat,tirahan,Cutting down mangroves destroys the habitat of many fish and crabs.,animals,advanced
+animals-a-003,species,SPEE-sheez,uri,Scientists discovered a new species of frog on Mount Apo.,animals,advanced
+animals-a-004,extinct,ik-STINKT,lipol na,The dodo bird became extinct hundreds of years ago.,animals,advanced
+animals-a-005,predator,PRED-uh-tur,maninila,The python is a predator that hunts rats and birds.,animals,advanced
+animals-a-006,prey,PRAY,biktima,Small fish are easy prey for the larger sharks.,animals,advanced
+animals-a-007,mammal,MAM-ul,mamalya,The dugong is a gentle sea mammal that eats seagrass.,animals,advanced
+animals-a-008,reptile,REP-tyl,reptilya,The crocodile is the largest reptile in the Philippines.,animals,advanced
+animals-a-009,amphibian,am-FIB-ee-un,ampibyan,A frog is an amphibian because it lives on land and in water.,animals,advanced
+animals-a-010,vertebrate,VUR-tuh-brit,hayop na may gulugod,A vertebrate is any animal that has a backbone.,animals,advanced
+animals-a-011,invertebrate,in-VUR-tuh-brit,hayop na walang gulugod,The starfish is an invertebrate that lives in coral reefs.,animals,advanced
+animals-a-012,migratory,MY-gruh-tor-ee,dumarayo,Migratory birds visit the wetlands of Olango Island every year.,animals,advanced
+animals-a-013,nocturnal,nok-TUR-nul,aktibo sa gabi,"Bats are nocturnal, so they sleep during the day.",animals,advanced
+animals-a-014,carnivore,KAR-nih-vor,hayop na kumakain ng karne,The Philippine eagle is a carnivore that eats monkeys and snakes.,animals,advanced
+animals-a-015,herbivore,HUR-bih-vor,hayop na kumakain ng halaman,The carabao is a herbivore that feeds on grass.,animals,advanced
+animals-a-016,omnivore,OM-nih-vor,hayop na kumakain ng karne at halaman,A wild pig is an omnivore that eats roots and insects.,animals,advanced
+animals-a-017,camouflage,KAM-uh-flahzh,pagbabalatkayo,The leaf insect uses camouflage to hide from hungry birds.,animals,advanced
+animals-a-018,wildlife,WYLD-lyf,mga hayop-gubat,Palawan is home to rare wildlife like the bearcat and the pangolin.,animals,advanced
+animals-a-019,sanctuary,SANGK-choo-er-ee,kanlungan,The bird sanctuary in Candaba protects thousands of wild ducks.,animals,advanced
+animals-a-020,poaching,POH-ching,ilegal na pangangaso,Poaching has greatly reduced the number of pangolins in Palawan.,animals,advanced
+animals-a-021,livestock,LYV-stok,mga alagang hayop sa bukid,"Farmers in Bukidnon raise livestock such as cattle, goats, and pigs.",animals,advanced
+animals-a-022,poultry,POHL-tree,mga manok at itik,Bird flu can spread quickly among poultry on crowded farms.,animals,advanced
+animals-a-023,hatchling,HACH-ling,bagong-pisang hayop,Each turtle hatchling must crawl quickly to the sea before birds catch it.,animals,advanced
+animals-a-024,venomous,VEN-uh-mus,makamandag,The king cobra is a venomous snake found in Philippine forests.,animals,advanced
+animals-a-025,domesticated,duh-MES-tih-kay-tid,pinaamo,The carabao was domesticated to help farmers plow rice fields.,animals,advanced
+animals-a-026,metamorphosis,met-uh-MOR-fuh-sis,pagbabagong-anyo,A caterpillar turns into a butterfly through the process of metamorphosis.,animals,advanced
+animals-a-027,ecosystem,EE-koh-sis-tum,ekosistema,Coral reefs are a rich ecosystem full of colorful fish.,animals,advanced
+animals-a-028,marine,muh-REEN,pandagat,Tubbataha Reef protects many kinds of marine animals.,animals,advanced
+animals-a-029,scavenger,SKAV-in-jur,hayop na kumakain ng patay na hayop,The crow is a scavenger that eats leftover food and dead animals.,animals,advanced
+animals-a-030,instinct,IN-stinkt,likas na ugali,Baby turtles follow their instinct and move toward the sea.,animals,advanced
+animals-a-031,conservation,kon-sur-VAY-shun,pangangalaga,Wildlife conservation programs help save the tamaraw of Mindoro.,animals,advanced
+animals-a-032,primate,PRY-mayt,kauri ng unggoy,The tarsier is a small primate that lives in the forests of Bohol.,animals,advanced
+places-a-001,municipality,myoo-nis-ih-PAL-ih-tee,munisipalidad,Our municipality built a new health center near the public market.,places,advanced
+places-a-002,highlands,HY-lundz,kabundukan,The highlands of Benguet are perfect for growing cabbage and carrots.,places,advanced
+places-a-003,archipelago,ar-kih-PEL-uh-goh,kapuluan,The Philippines is an archipelago of more than seven thousand islands.,places,advanced
+places-a-004,peninsula,puh-NIN-suh-luh,tangway,Bataan is a peninsula between Manila Bay and the West Philippine Sea.,places,advanced
+places-a-005,landmark,LAND-mark,palatandaan,The Rizal Monument is a famous landmark in Luneta Park.,places,advanced
+places-a-006,metropolis,muh-TROP-uh-lis,malaking lungsod,Metro Manila is a busy metropolis with millions of residents.,places,advanced
+places-a-007,rural,ROOR-ul,pangkanayunan,Many rural families depend on farming and fishing for income.,places,advanced
+places-a-008,urban,UR-bun,panlungsod,Urban areas often suffer from heavy traffic and air pollution.,places,advanced
+places-a-009,suburb,SUB-urb,karatig-pook ng lungsod,They moved to a quiet suburb outside Cebu City.,places,advanced
+places-a-010,promenade,prom-uh-NAYD,pasyalan,We walked along the promenade by Manila Bay to watch the sunset.,places,advanced
+places-a-011,cathedral,kuh-THEE-drul,katedral,Manila Cathedral was rebuilt several times after earthquakes and wars.,places,advanced
+places-a-012,monument,MON-yuh-ment,bantayog,The monument honors the heroes of the Battle of Mactan.,places,advanced
+places-a-013,shrine,SHRYN,dambana,Many pilgrims visit the shrine in Manaoag during Holy Week.,places,advanced
+places-a-014,terrain,tuh-RAYN,anyo ng lupa,The rocky terrain of the Cordilleras makes travel slow and difficult.,places,advanced
+places-a-015,plateau,pla-TOH,talampas,Bukidnon sits on a high plateau with cool weather.,places,advanced
+places-a-016,crater,KRAY-tur,bunganga ng bulkan,Tourists hike to the crater of Taal Volcano to see the lake.,places,advanced
+places-a-017,coastline,KOHST-lyn,baybayin,Mangroves protect the coastline from strong waves during typhoons.,places,advanced
+places-a-018,estuary,ES-choo-er-ee,wawa,Many fish lay their eggs in the estuary where the river meets the sea.,places,advanced
+places-a-019,wetland,WET-land,latian,The wetland in Agusan Marsh is home to many crocodiles.,places,advanced
+places-a-020,lagoon,luh-GOON,dagat-dagatan,"We kayaked through a clear lagoon in El Nido, Palawan.",places,advanced
+places-a-021,reservoir,REZ-ur-vwar,imbakan ng tubig,Angat Dam is a reservoir that supplies water to Metro Manila.,places,advanced
+places-a-022,settlement,SET-ul-ment,pamayanan,The first settlement on the island was built near a river.,places,advanced
+places-a-023,territory,TER-ih-tor-ee,teritoryo,The Philippine government protects its territory in the West Philippine Sea.,places,advanced
+places-a-024,boundary,BOWN-duh-ree,hangganan,The river forms the boundary between the two towns.,places,advanced
+places-a-025,capital,KAP-ih-tul,kabisera,Manila has been the capital of the Philippines for centuries.,places,advanced
+places-a-026,infrastructure,IN-fruh-struk-chur,imprastruktura,New bridges and roads improve the infrastructure of rural provinces.,places,advanced
+places-a-027,destination,des-tih-NAY-shun,destinasyon,Boracay is a popular tourist destination for both locals and foreigners.,places,advanced
+places-a-028,vicinity,vih-SIN-ih-tee,kalapit na lugar,There are three schools in the vicinity of our barangay hall.,places,advanced
+places-a-029,landfill,LAND-fil,tambakan ng basura,The city landfill is almost full because people do not recycle.,places,advanced
+places-a-030,embassy,EM-buh-see,embahada,My aunt went to the embassy in Manila to apply for a visa.,places,advanced
+places-a-031,outskirts,OWT-skurts,labas ng bayan,They built a new factory on the outskirts of the city.,places,advanced
+places-a-032,harbor,HAR-bur,daungan,Fishing boats rest in the harbor when a storm is coming.,places,advanced
+feelings-a-001,anxious,ANGK-shus,balisa,I felt anxious while waiting for the results of the entrance exam.,feelings,advanced
+feelings-a-002,grateful,GRAYT-ful,nagpapasalamat,We are grateful to the volunteers who helped us after the typhoon.,feelings,advanced
+feelings-a-003,frustrated,FRUS-tray-tid,nayayamot,I felt frustrated when my computer crashed before I saved my work.,feelings,advanced
+feelings-a-004,disappointed,dis-uh-POYN-tid,dismayado,Ben was disappointed when the field trip was canceled because of rain.,feelings,advanced
+feelings-a-005,overwhelmed,oh-vur-WELMD,nalulula,She felt overwhelmed by the many projects due in one week.,feelings,advanced
+feelings-a-006,confident,KON-fih-dent,may tiwala sa sarili,"After practicing for weeks, he felt confident about his speech.",feelings,advanced
+feelings-a-007,determined,dih-TUR-mind,desidido,Lito was determined to finish college despite being poor.,feelings,advanced
+feelings-a-008,enthusiastic,en-thoo-zee-AS-tik,masigasig,The students were enthusiastic about joining the coastal cleanup.,feelings,advanced
+feelings-a-009,melancholy,MEL-un-kol-ee,mapanglaw,The rainy afternoon made her feel melancholy and quiet.,feelings,advanced
+feelings-a-010,content,kun-TENT,kuntento,Lolo is content with his simple life on the farm.,feelings,advanced
+feelings-a-011,resentful,rih-ZENT-ful,may hinanakit,He felt resentful when his ideas were ignored by the group.,feelings,advanced
+feelings-a-012,envious,EN-vee-us,naiinggit,She was envious of her cousin's new phone.,feelings,advanced
+feelings-a-013,ashamed,uh-SHAYMD,nahihiya sa nagawa,He was ashamed of lying to his parents about his grades.,feelings,advanced
+feelings-a-014,remorseful,rih-MORS-ful,nagsisisi,The boy was remorseful after breaking his neighbor's window.,feelings,advanced
+feelings-a-015,compassionate,kum-PASH-uh-nit,mahabagin,The compassionate nurse stayed late to comfort the sick children.,feelings,advanced
+feelings-a-016,indifferent,in-DIF-ur-ent,walang pakialam,Some people are indifferent to the problem of plastic waste.,feelings,advanced
+feelings-a-017,apprehensive,ap-rih-HEN-siv,nangangamba,Mara was apprehensive about moving to a new school in Manila.,feelings,advanced
+feelings-a-018,elated,ih-LAY-tid,tuwang-tuwa,The team was elated after winning the regional basketball championship.,feelings,advanced
+feelings-a-019,furious,FYOOR-ee-us,galit na galit,Father was furious when he saw the broken car window.,feelings,advanced
+feelings-a-020,bewildered,bih-WIL-durd,naguguluhan,The tourists looked bewildered by the busy streets of Divisoria.,feelings,advanced
+feelings-a-021,homesick,HOHM-sik,nangungulila sa tahanan,Living in a dormitory in Manila made Ana feel homesick for Iloilo.,feelings,advanced
+feelings-a-022,nostalgic,nos-TAL-jik,nananabik sa nakaraan,Old photos of our barrio make Lola feel nostalgic.,feelings,advanced
+feelings-a-023,humiliated,hyoo-MIL-ee-ay-tid,napahiya,He felt humiliated when his classmates laughed at his mistake.,feelings,advanced
+feelings-a-024,optimistic,op-tih-MIS-tik,puno ng pag-asa,"Despite the flood, the farmers remained optimistic about the next harvest.",feelings,advanced
+feelings-a-025,pessimistic,pes-ih-MIS-tik,negatibo ang pananaw,"Do not be pessimistic, because you can still pass the final exam.",feelings,advanced
+feelings-a-026,sympathetic,sim-puh-THET-ik,maunawain,Our adviser was sympathetic when I explained why I was absent.,feelings,advanced
+feelings-a-027,hesitant,HEZ-ih-tunt,nag-aatubili,I was hesitant to speak English in front of the whole class.,feelings,advanced
+feelings-a-028,irritable,IR-ih-tuh-bul,mainitin ang ulo,Lack of sleep makes me irritable and tired the next day.,feelings,advanced
+feelings-a-029,devastated,DEV-uh-stay-tid,wasak ang loob,The family was devastated when the fire destroyed their home.,feelings,advanced
+feelings-a-030,relieved,rih-LEEVD,nakahinga nang maluwag,I was relieved when my missing wallet was found.,feelings,advanced
+feelings-a-031,exhausted,ig-ZAWS-tid,pagod na pagod,"After the long hike up Mount Pulag, we were completely exhausted.",feelings,advanced
+feelings-a-032,sentimental,sen-tih-MEN-tul,madamdamin,My mother is sentimental about the letters my father sent from abroad.,feelings,advanced
+actions-a-001,persevere,pur-suh-VEER,magtiyaga,You must persevere if you want to pass the board exam.,actions,advanced
+actions-a-002,analyze,AN-uh-lyz,suriin,Scientists analyze water samples from Laguna Lake every month.,actions,advanced
+actions-a-003,investigate,in-VES-tih-gayt,siyasatin,The police will investigate the cause of the fire in the market.,actions,advanced
+actions-a-004,collaborate,kuh-LAB-uh-rayt,makipagtulungan,Students from different sections will collaborate on the school mural.,actions,advanced
+actions-a-005,contribute,kun-TRIB-yoot,mag-ambag,Everyone can contribute to keeping our barangay clean.,actions,advanced
+actions-a-006,evaluate,ih-VAL-yoo-ayt,tasahin,The judges will evaluate each project based on creativity and accuracy.,actions,advanced
+actions-a-007,demonstrate,DEM-un-strayt,ipakita,Our teacher will demonstrate how to use a microscope properly.,actions,advanced
+actions-a-008,comprehend,kom-prih-HEND,maunawaan,It is hard to comprehend a story when you read too fast.,actions,advanced
+actions-a-009,emphasize,EM-fuh-syz,bigyang-diin,The principal will emphasize the importance of honesty during the assembly.,actions,advanced
+actions-a-010,acknowledge,ak-NOL-ij,kilalanin,We should acknowledge the help of our parents in our success.,actions,advanced
+actions-a-011,accomplish,uh-KOM-plish,maisagawa,You can accomplish a lot if you manage your time well.,actions,advanced
+actions-a-012,negotiate,nih-GOH-shee-ayt,makipagkasundo,The fishermen tried to negotiate a better price for their catch.,actions,advanced
+actions-a-013,advocate,AD-vuh-kayt,itaguyod,Many young Filipinos advocate for cleaner oceans and less plastic.,actions,advanced
+actions-a-014,eliminate,ih-LIM-ih-nayt,alisin,We must eliminate standing water to stop mosquitoes from breeding.,actions,advanced
+actions-a-015,preserve,prih-ZURV,pangalagaan,The town works hard to preserve its old Spanish houses in Vigan.,actions,advanced
+actions-a-016,conserve,kun-SURV,magtipid,Turn off the lights to conserve electricity at home.,actions,advanced
+actions-a-017,participate,par-TIS-ih-payt,lumahok,All students are encouraged to participate in the Buwan ng Wika program.,actions,advanced
+actions-a-018,interpret,in-TUR-prit,bigyang-kahulugan,Can you interpret the meaning of this old Tagalog poem?,actions,advanced
+actions-a-019,justify,JUS-tih-fy,bigyang-katwiran,You need evidence to justify your answer in the debate.,actions,advanced
+actions-a-020,distinguish,dis-TING-gwish,makilala ang pagkakaiba,Can you distinguish a real news story from fake news online?,actions,advanced
+actions-a-021,anticipate,an-TIS-ih-payt,asahan,We anticipate heavy rains during the months of July and August.,actions,advanced
+actions-a-022,prioritize,pry-OR-ih-tyz,unahin,Learn to prioritize your studies over playing online games.,actions,advanced
+actions-a-023,procrastinate,proh-KRAS-tih-nayt,ipagpaliban ang gawain,"If you procrastinate, you will rush your project the night before.",actions,advanced
+actions-a-024,motivate,MOH-tih-vayt,ganyakin,Good teachers motivate students to do their best every day.,actions,advanced
+actions-a-025,illustrate,IL-uh-strayt,ilarawan,Use a diagram to illustrate the water cycle in your report.,actions,advanced
+actions-a-026,verify,VER-ih-fy,tiyakin,Always verify information from social media before you share it.,actions,advanced
+actions-a-027,resolve,rih-ZOLV,lutasin,The barangay captain helped resolve the argument between the two neighbors.,actions,advanced
+actions-a-028,cultivate,KUL-tih-vayt,linangin,Farmers in Benguet cultivate vegetables on terraced mountain slopes.,actions,advanced
+actions-a-029,accumulate,uh-KYOO-myuh-layt,maipon,Garbage tends to accumulate in the canals after heavy rain.,actions,advanced
+actions-a-030,assist,uh-SIST,tumulong,Volunteers assist the elderly during the vaccination drive.,actions,advanced
+actions-a-031,reflect,rih-FLEKT,magnilay,Take a moment to reflect on what you learned this week.,actions,advanced
+actions-a-032,implement,IM-pluh-ment,ipatupad,The city will implement a new rule banning plastic bags.,actions,advanced
+common-a-001,consequently,KON-suh-kwent-lee,dahil dito,"It rained hard all night, and consequently, classes were suspended.",common,advanced
+common-a-002,significant,sig-NIF-ih-kunt,makabuluhan,Jose Rizal made a significant contribution to Philippine history.,common,advanced
+common-a-003,nevertheless,nev-ur-thuh-LES,gayunpaman,"The road was flooded, but nevertheless, the teachers came to school.",common,advanced
+common-a-004,furthermore,FUR-thur-mor,bukod dito,"Walking is good exercise, and furthermore, it saves money on fare.",common,advanced
+common-a-005,therefore,THAIR-for,samakatuwid,"The bridge is unsafe, and therefore, all vehicles must use another route.",common,advanced
+common-a-006,moreover,mor-OH-vur,higit pa rito,"The new library is spacious, and moreover, it has free internet access.",common,advanced
+common-a-007,essential,ih-SEN-shul,kailangang-kailangan,Clean water is essential for a healthy community.,common,advanced
+common-a-008,adequate,AD-ih-kwit,sapat,Make sure you get adequate sleep before the examination.,common,advanced
+common-a-009,relevant,REL-uh-vunt,may kaugnayan,Only include relevant facts in your research paper.,common,advanced
+common-a-010,evidence,EV-ih-duns,katibayan,The scientist collected evidence to support her theory about the volcano.,common,advanced
+common-a-011,hypothesis,hy-POTH-uh-sis,haypotesis,Our hypothesis is that plants grow faster with organic fertilizer.,common,advanced
+common-a-012,perspective,pur-SPEK-tiv,pananaw,Reading history from a Filipino perspective helps us understand our past.,common,advanced
+common-a-013,specific,spuh-SIF-ik,tiyak,Please give specific examples to support your argument.,common,advanced
+common-a-014,approximately,uh-PROK-sih-mit-lee,humigit-kumulang,Approximately one hundred students joined the tree-planting activity.,common,advanced
+common-a-015,alternative,awl-TUR-nuh-tiv,ibang pagpipilian,Solar energy is a cleaner alternative to burning coal.,common,advanced
+common-a-016,contrary,KON-trer-ee,salungat,"Contrary to popular belief, bats are helpful to farmers.",common,advanced
+common-a-017,despite,dih-SPYT,sa kabila ng,"Despite the heat, the students finished the parade with smiles.",common,advanced
+common-a-018,whereas,wair-AZ,samantalang,"My brother loves science, whereas I prefer literature and the arts.",common,advanced
+common-a-019,thus,THUS,kaya,"The dam broke, and thus, several villages were flooded.",common,advanced
+common-a-020,crucial,KROO-shul,napakahalaga,Early warning is crucial in saving lives during a typhoon.,common,advanced
+common-a-021,phenomenon,fuh-NOM-uh-non,penomeno,A solar eclipse is a natural phenomenon that people enjoy watching.,common,advanced
+common-a-022,inevitable,in-EV-ih-tuh-bul,hindi maiiwasan,"Change is inevitable, so we must learn to adapt.",common,advanced
+common-a-023,obvious,OB-vee-us,halata,It was obvious that he had not studied for the quiz.,common,advanced
+common-a-024,accurate,AK-yur-it,tumpak,A good reporter always gives accurate information to the public.,common,advanced
+common-a-025,concept,KON-sept,konsepto,The concept of bayanihan means helping one another freely.,common,advanced
+common-a-026,factor,FAK-tur,salik,Poverty is one factor that causes students to drop out of school.,common,advanced
+common-a-027,majority,muh-JOR-ih-tee,nakararami,The majority of the class voted for a field trip to Intramuros.,common,advanced
+common-a-028,minority,my-NOR-ih-tee,minorya,Only a minority of students still bring plastic bottles to school.,common,advanced
+common-a-029,assumption,uh-SUMP-shun,pagpapalagay,Do not make an assumption before you hear both sides of the story.,common,advanced
+common-a-030,similarly,SIM-ih-lur-lee,gayundin,"Rice needs plenty of water, and similarly, corn grows best with regular rain.",common,advanced
+common-a-031,initially,ih-NISH-uh-lee,noong una,"Initially, I disliked math, but now it is my favorite subject.",common,advanced
+common-a-032,eventually,ih-VEN-choo-uh-lee,sa bandang huli,"After many failed attempts, she eventually passed the driving test.",common,advanced
