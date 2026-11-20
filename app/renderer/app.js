@@ -57,7 +57,14 @@ async function render() {
   const xpNum = h('b');
   const streakChip = h('a.hchip.streak', { href: '#/progress', title: 'Day streak' }, icon('flame'), streakNum, h('span', 'day streak'));
   const xpChip = h('a.hchip.xp', { href: '#/progress', title: 'Total XP' }, icon('star'), xpNum, h('span', 'XP'));
-  const header = h('header.topbar', h('div.topbar-inner', streakChip, xpChip));
+  const modeBtn = h('button.hchip.mode', { type: 'button', title: 'Switch light / dark', 'aria-label': 'Switch between light and dark mode', onclick: async () => {
+    const mode = (ctx.settings.mode === 'dark') ? 'light' : 'dark';
+    ctx.settings = await api.progress.setSettings({ mode });
+    applyTheme(ctx.settings);
+    await api.prefs.setLast({ mode, accent: ctx.settings.accent });
+    modeBtn.replaceChildren(icon(mode === 'dark' ? 'sun' : 'moon'));
+  } }, icon(ctx.settings.mode === 'dark' ? 'sun' : 'moon'));
+  const header = h('header.topbar', h('div.topbar-inner', streakChip, xpChip, modeBtn));
 
   let shown = null;
   ctx.refreshHeader = async (given) => {

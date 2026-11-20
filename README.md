@@ -27,16 +27,16 @@ The project has two parts:
 You need a free GitHub account and Git installed. All of this is free.
 
 1. **Create the repository.** On github.com click **New repository**, name it `student-language-coach`, set it to **Public**, and don't add a README. Click **Create repository**.
-2. **Set your repo name in the website.** Open `site/config.js` and change `OWNER/student-language-coach` to your username, e.g. `juandelacruz/student-language-coach`.
+2. **Set your repo name in the website.** Open `site/config.js` and change `OWNER/student-language-coach` to your username, e.g. `ikalina13/student-language-coach`.
 3. **Upload the code.** In a terminal, inside this folder:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/student-language-coach.git
+   git remote add origin https://github.com/ikalina13/student-language-coach.git
    git add -A
    git commit -m "Set my repo name"
    git push -u origin main
    ```
-4. **Turn on the website.** On GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then go to the **Actions** tab, open **Deploy download page**, and click **Run workflow**. After a minute your site is live at `https://YOUR-USERNAME.github.io/student-language-coach/`.
+4. **Turn on the website.** On GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then go to the **Actions** tab, open **Deploy download page**, and click **Run workflow**. After a minute your site is live at `https://ikalina13.github.io/student-language-coach/`.
 5. **Build the Windows installer.** Create a version tag and push it:
    ```bash
    git tag v1.0.0

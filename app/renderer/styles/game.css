@@ -208,3 +208,4 @@ a.brand { text-decoration: none; flex-direction: row; align-items: center; gap: 
   .home-hero, .home-grid, .progress-hero { grid-template-columns: 1fr; }
   .tiles { grid-template-columns: repeat(3, 1fr); }
 }
+.hchip.mode { padding: 6px 9px; cursor: pointer; background: none; font: inherit; }

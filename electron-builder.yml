@@ -1,6 +1,9 @@
 appId: ph.slc.app
 productName: Student Language Coach
 copyright: Student Language Coach
+compression: maximum
+electronLanguages:
+  - en-US
 directories:
   output: dist
   buildResources: build
