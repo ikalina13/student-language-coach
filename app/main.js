@@ -124,7 +124,8 @@ async function captureShots(w, spec) {
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   await sleep(800);
   for (const pair of spec.split(';').filter(Boolean)) {
-    const [hash, file, js] = pair.split('=');
+    const [hash, file, ...rest] = pair.split('=');
+    const js = rest.join('=');
     await w.webContents.executeJavaScript(`location.hash = ${JSON.stringify(hash)}`);
     await sleep(700);
     if (js) {

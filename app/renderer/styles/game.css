@@ -106,3 +106,38 @@
 .ring-label { position: relative; font-family: var(--font-display); font-weight: 700; font-size: 15px; text-align: center; line-height: 1.1; display: grid; place-items: center; }
 .ring-label small { display: block; font-family: var(--font-body); font-weight: 400; font-size: 12px; color: var(--ink-soft); }
 .ring-label svg { position: static; width: 22px; height: 22px; color: var(--good); stroke-width: 3; }
+
+/* ---------- Flip cards ---------- */
+.flip { perspective: 1200px; cursor: pointer; border-radius: var(--radius-m); outline-offset: 4px; }
+.flip-inner { display: grid; transform-style: preserve-3d; transition: transform .6s cubic-bezier(.3,1.25,.5,1); }
+.flip.flipped .flip-inner { transform: rotateY(180deg); }
+.flip .face { grid-area: 1 / 1; backface-visibility: hidden; -webkit-backface-visibility: hidden; display: flex; flex-direction: column; min-height: 196px; }
+.flip .face.back { transform: rotateY(180deg); }
+.flip .face .actions { margin-top: auto; padding-top: 6px; align-items: center; justify-content: space-between; }
+.flip .face .word { font-size: 30px; line-height: 40px; margin-top: 6px; }
+.flip .face .fil { font-size: 24px; line-height: 34px; font-family: var(--font-display); margin-top: 6px; }
+.flip-hint { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--ink-soft); margin-left: auto; }
+.flip-hint svg { width: 15px; height: 15px; }
+.flip:hover .flip-hint { color: var(--accent); }
+.flip.learned .face { border-color: var(--good); }
+.flip.big .face { min-height: 280px; padding: 24px 28px 22px 46px; }
+.flip.big .face::before { left: 30px; }
+.flip.big .face .word { font-size: 48px; line-height: 58px; margin-top: 18px; }
+.flip.big .face .fil { font-size: 38px; line-height: 48px; margin-top: 18px; }
+.flip.big .face .pron { font-size: 18px; }
+.flip.big .face .ex { font-size: 18px; }
+.icon-btn.learn[aria-pressed="true"] { background: var(--good); border-color: var(--good); color: #fff; }
+
+/* ---------- Study mode ---------- */
+.toolbar-row { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.chip svg { width: 15px; height: 15px; }
+.study { display: grid; grid-template-columns: 190px minmax(0, 560px); gap: 32px; align-items: start; justify-content: center; margin-top: 8px; }
+.study-side .bao-says { flex-direction: column; align-items: flex-start; }
+.study-side .bao-bubble::before { left: 28px; top: -8px; transform: rotate(135deg); }
+.study-main { display: grid; gap: 14px; }
+.study-holder { position: relative; }
+.study-under { position: absolute; inset: 14px 18px -10px; border-radius: var(--radius-m); background: var(--surface-2); border: 1px solid var(--line); }
+.study-holder .flip { position: relative; }
+.study-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 8px; }
+.study-done { position: relative; display: grid; justify-items: center; gap: 22px; padding: 40px 0; }
+.study-done .bao-bubble { font-size: 18px; }
