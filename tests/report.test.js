@@ -26,3 +26,9 @@ test('report with no quizzes says so', () => {
   const html = renderReportHTML({ user: { displayName: 'A', username: 'a', grade: 4 }, stats: { ...stats, recentQuizzes: [], quizzesTaken: 0 }, date: new Date() });
   assert.ok(html.includes('No quizzes taken yet'));
 });
+
+test('report carries the Student Language Coach name', () => {
+  const html = renderReportHTML({ user: { displayName: 'A', username: 'a', grade: 4 }, stats, date: new Date() });
+  assert.ok(html.includes('Student Language Coach'));
+  assert.ok(!/Salita/.test(html));
+});

@@ -1,4 +1,4 @@
-// Plain-file storage. Everything Salita saves lives in one folder as JSON.
+// Plain-file storage. Everything Student Language Coach saves lives in one folder as JSON.
 const fs = require('fs');
 const path = require('path');
 

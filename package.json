@@ -1,10 +1,10 @@
 {
-  "name": "salita",
-  "productName": "Salita",
+  "name": "student-language-coach",
+  "productName": "Student Language Coach",
   "version": "1.0.0",
-  "description": "Learn English words, offline. Para sa mga estudyanteng Pilipino.",
+  "description": "Learn English words offline. Para sa mga estudyanteng Pilipino.",
   "main": "app/main.js",
-  "author": "Salita",
+  "author": "Student Language Coach",
   "license": "MIT",
   "scripts": {
     "start": "electron .",

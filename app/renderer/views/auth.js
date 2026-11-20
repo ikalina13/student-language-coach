@@ -38,7 +38,7 @@ export function authView(ctx, mode, done) {
 
   return h('div.auth',
     h('section.auth-intro',
-      h('div.brand.big', 'Salita'),
+      h('div.brand.big', 'Student Language Coach'),
       h('p.lede', 'Learn English words, one card at a time.'),
       h('div.card.auth-card',
         h('div.row', h('span.word', 'happy'), h('span.lvl.beginner', 'Beginner')),

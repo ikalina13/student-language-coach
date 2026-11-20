@@ -4,7 +4,7 @@
 
   // Download links always point at the newest release's installer.
   document.querySelectorAll('[data-download]').forEach(function (a) {
-    a.href = 'https://github.com/' + repo + '/releases/latest/download/Salita-Setup.exe';
+    a.href = 'https://github.com/' + repo + '/releases/latest/download/Student-Language-Coach-Setup.exe';
   });
   document.querySelectorAll('[data-repo]').forEach(function (a) { a.href = 'https://github.com/' + repo; });
 

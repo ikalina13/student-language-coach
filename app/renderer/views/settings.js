@@ -26,7 +26,7 @@ export function settingsView(el, ctx) {
   function draw() {
     const { mode, accent, level } = ctx.settings;
     el.replaceChildren(
-      h('div.page-head', h('div', h('h1', 'Settings'), h('p', 'Make Salita look the way you like. Saved for your account only.'))),
+      h('div.page-head', h('div', h('h1', 'Settings'), h('p', 'Make Student Language Coach look the way you like. Saved for your account only.'))),
       h('section.panel.settings',
         h('div.setting', h('div', h('h3', 'Appearance'), h('p.muted.small', 'Dark mode is easier on the eyes at night.')),
           chipRow(MODES, mode, (m) => save({ mode: m }))),

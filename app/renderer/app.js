@@ -54,7 +54,7 @@ async function render() {
 
   root.replaceChildren(h('div.frame',
     h('aside.sidebar',
-      h('div.brand', 'Salita', h('small', 'English para sa lahat')),
+      h('div.brand', 'Student Language Coach', h('small', 'English para sa lahat')),
       h('nav.nav', NAV.map(link), h('div.nav-gap'), EXTRA.map(link),
         h('a', { href: '#', onclick: async (e) => { e.preventDefault(); await api.auth.logout(); location.hash = '#/login'; render(); } }, icon('logout'), 'Log out')),
       h('div.me', h('b', ctx.user.displayName), `Grade ${ctx.user.grade}`)),

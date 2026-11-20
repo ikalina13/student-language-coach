@@ -7,7 +7,7 @@ const { createAuth, suggestedLevel } = require('./core/auth');
 const { createProgress, computeStats } = require('./core/progress');
 const { renderReportHTML } = require('./core/report');
 
-app.setName('Salita');
+app.setName('Student Language Coach');
 if (process.env.SALITA_DATA_DIR) app.setPath('userData', process.env.SALITA_DATA_DIR);
 
 const readData = (name) => JSON.parse(fs.readFileSync(path.join(__dirname, 'data', name), 'utf8'));
@@ -72,7 +72,7 @@ function registerIpc() {
     const day = new Date().toISOString().slice(0, 10);
     const { canceled, filePath } = await dialog.showSaveDialog(win, {
       title: 'Save progress report',
-      defaultPath: path.join(app.getPath('documents'), `Salita-Report-${session.username}-${day}.pdf`),
+      defaultPath: path.join(app.getPath('documents'), `SLC-Report-${session.username}-${day}.pdf`),
       filters: [{ name: 'PDF', extensions: ['pdf'] }],
     });
     if (canceled || !filePath) return { ok: false };
@@ -102,7 +102,7 @@ function createWindow() {
     height: 800,
     minWidth: 960,
     minHeight: 640,
-    title: 'Salita',
+    title: 'Student Language Coach',
     backgroundColor: '#f6f8fc',
     autoHideMenuBar: true,
     icon: path.join(__dirname, '..', 'build', 'icon.png'),

@@ -1,6 +1,6 @@
-appId: ph.salita.app
-productName: Salita
-copyright: Salita
+appId: ph.slc.app
+productName: Student Language Coach
+copyright: Student Language Coach
 directories:
   output: dist
   buildResources: build
@@ -14,13 +14,13 @@ win:
     - target: nsis
       arch: [x64]
   icon: build/icon.png
-  artifactName: Salita-Setup.${ext}
+  artifactName: Student-Language-Coach-Setup.${ext}
 nsis:
   oneClick: true
   perMachine: false
   createDesktopShortcut: always
   createStartMenuShortcut: true
-  shortcutName: Salita
+  shortcutName: Student Language Coach
   deleteAppDataOnUninstall: false
 publish:
   provider: github
