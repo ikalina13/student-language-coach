@@ -1,62 +1,70 @@
-// Vocabulary Quiz: 10 questions, pick the Filipino meaning.
+// Vocabulary Quiz: 10 questions, choose what each English word means in Filipino.
 import { h } from '../lib/dom.js';
+import { baoSays } from '../lib/bao.js';
 import { CATEGORIES, LEVELS, labelOf, buildQuiz } from '../../shared/content.mjs';
+import { answerFlow, lessonBar } from '../lib/answer-flow.js';
+import { enter } from '../lib/motion.js';
 import { chipRow, levelChips } from './words.js';
+import { celebrate } from './celebrate.js';
 
-export function quizView(el, ctx) {
-  let category = 'school';
-  let level = ctx.settings.level || 'beginner';
+export function quizView(el, ctx, [catArg, levelArg]) {
+  let category = CATEGORIES.some((c) => c.id === catArg) ? catArg : 'school';
+  let level = LEVELS.some((l) => l.id === levelArg) ? levelArg : (ctx.settings.level || 'beginner');
 
   function setup() {
     el.replaceChildren(
       h('div.page-head', h('div', h('h1', 'Vocabulary Quiz'), h('p', 'Ten questions. Choose what each English word means in Filipino.'))),
       h('div.panel.quiz-setup',
-        h('h3', 'Category'), chipRow(CATEGORIES, category, (c) => { category = c; setup(); }),
+        baoSays('Pick a topic and a level. Kaya mo ’yan!', 'idle', { size: 84 }),
+        h('h3', 'Topic'), chipRow(CATEGORIES, category, (c) => { category = c; setup(); }),
         h('h3', 'Level'), levelChips(level, (l) => { level = l; setup(); }),
-        h('button.btn.primary', { type: 'button', onclick: start }, `Start ${labelOf(CATEGORIES, category)} quiz`)));
+        h('button.btn-chunky.primary', { type: 'button', onclick: start }, `Start ${labelOf(CATEGORIES, category)} quiz`)));
   }
 
-  function start() {
+  async function start() {
     const questions = buildQuiz(ctx.content.words, { category, level });
-    let i = 0; let score = 0;
+    const byId = new Map(ctx.content.words.map((w) => [w.id, w]));
+    let score = 0;
+    const bar = lessonBar({ total: questions.length, onClose: setup });
+    const mascot = baoSays('Take your time.', 'idle', { size: 92 });
+    const stage = h('div.lesson-stage');
+    el.replaceChildren(h('div.lesson', bar, h('div.lesson-body', h('div.lesson-side', mascot), stage)));
 
-    function ask() {
+    for (let i = 0; i < questions.length; i++) {
       const q = questions[i];
-      const feedback = h('p.feedback', { role: 'status' });
-      const next = h('button.btn.primary', { type: 'button', hidden: true, onclick: () => { i++; i < questions.length ? ask() : finish(); } },
-        i + 1 < questions.length ? 'Next question' : 'See my score');
-      const buttons = q.options.map((opt, k) => h('button.option', { type: 'button', onclick: () => choose(k) }, h('b', 'ABCD'[k]), opt));
-
-      function choose(k) {
-        buttons.forEach((b, j) => { b.disabled = true; if (j === q.answer) b.classList.add('correct'); });
-        if (k === q.answer) { score++; feedback.textContent = 'Correct!'; feedback.className = 'feedback good'; }
-        else { buttons[k].classList.add('wrong'); feedback.textContent = `Not quite. The answer is ${'ABCD'[q.answer]}. ${q.options[q.answer]}.`; feedback.className = 'feedback bad'; }
-        next.hidden = false; next.focus();
-      }
-
-      el.replaceChildren(
-        h('div.quiz-top',
-          h('span.muted', `${labelOf(CATEGORIES, category)} · ${labelOf(LEVELS, level)}`),
-          h('span.muted', `Question ${i + 1} of ${questions.length} · Score ${score}`)),
-        h('div.meter', { style: { margin: '10px 0 30px' } }, h('span', { style: { width: `${(i / questions.length) * 100}%` } })),
-        h('div.panel.question', h('h2.prompt', q.prompt), h('div.options', buttons), feedback, h('div.q-next', next)));
-      buttons[0].focus();
+      const w = byId.get(q.wordId);
+      const flow = answerFlow({
+        prompt: [h('p.af-kicker', `${labelOf(CATEGORIES, category)} · ${labelOf(LEVELS, level)} · ${i + 1} of ${questions.length}`),
+          h('h2', 'What does ', h('span.hl', `“${w.word}”`), ' mean?')],
+        options: q.options,
+        answer: q.answer,
+        explain: `${w.word} · ${w.pronunciation} — ${w.example}`,
+        mascot,
+        onResult: (ok) => { if (ok) score++; return ok ? 10 : 0; },
+        continueLabel: i + 1 < questions.length ? 'Continue' : 'See my score',
+      });
+      stage.replaceChildren(flow.el);
+      enter(flow.el);
+      await flow.done;
+      if (!el.isConnected) return; // student left the page
+      bar.set(i + 1);
     }
 
-    async function finish() {
-      await ctx.api.progress.recordQuiz({ category, level, score, total: questions.length });
-      const pct = Math.round((score / questions.length) * 100);
-      const msg = pct === 100 ? 'Perfect score! Galing!' : pct >= 70 ? 'Great work. Keep it up!' : pct >= 40 ? 'Good try. Review the word cards and try again.' : 'Keep practicing — study the word cards first, then retry.';
-      el.replaceChildren(h('div.panel.result',
-        h('p.muted', `${labelOf(CATEGORIES, category)} · ${labelOf(LEVELS, level)}`),
-        h('div.big-score', `${score}/${questions.length}`),
-        h('p', msg),
-        h('div.result-actions',
-          h('button.btn.primary', { type: 'button', onclick: start }, 'Try again'),
-          h('button.btn', { type: 'button', onclick: setup }, 'Choose another quiz'),
-          h('a.btn.ghost', { href: '#/progress' }, 'See my progress'))));
-    }
-    ask();
+    const { xpGained } = await ctx.api.progress.recordQuiz({ category, level, score, total: questions.length });
+    const stats = await ctx.api.progress.stats();
+    ctx.refreshHeader?.(stats);
+    const pct = Math.round((score / questions.length) * 100);
+    celebrate(el, {
+      title: pct === 100 ? 'Perfect score!' : pct >= 70 ? 'Great work!' : pct >= 40 ? 'Good try!' : 'Keep practicing!',
+      message: pct === 100 ? 'Galing! Every answer right.' : pct >= 40 ? 'Review the word cards, then try again to beat your score.' : 'Study the word cards first, then try this quiz again.',
+      score, total: questions.length, xp: xpGained, streak: stats.streak,
+      actions: [
+        { label: 'Try again', primary: true, onClick: start },
+        { label: 'Another quiz', onClick: setup },
+        { label: 'Back home', href: '#/dashboard' },
+      ],
+    });
   }
-  setup();
+
+  if (catArg && levelArg) start(); else setup();
 }

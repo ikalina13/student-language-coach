@@ -37,6 +37,13 @@ const paths = {
   check: '<path d="M20 6L9 17l-5-5"/>',
   download: '<path d="M12 3v12M7 10l5 5 5-5"/><path d="M5 21h14"/>',
   back: '<path d="M15 18l-6-6 6-6"/>',
+  x: '<path d="M18 6L6 18M6 6l12 12"/>',
+  star: '<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/>',
+  flame: '<path d="M12 21c-3.9 0-6.5-2.6-6.5-6.2 0-3.3 2.3-5.4 3.6-7.4.4 1.6 1.2 2.7 2.3 3.2C11.6 7.6 13 5 15.4 3c-.2 3 1.4 4.6 2.6 6.4 1 1.5 1.5 3 1.5 5.1 0 3.8-3.1 6.5-7.5 6.5z"/>',
+  play: '<path d="M7 4l13 8-13 8z"/>',
+  cards: '<rect x="3" y="7" width="14" height="13" rx="2"/><path d="M7 4h12a2 2 0 012 2v11"/>',
+  grid: '<rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/>',
+  flip: '<path d="M4 12a8 8 0 0114-5.3L20 9"/><path d="M20 4v5h-5"/><path d="M20 12a8 8 0 01-14 5.3L4 15"/><path d="M4 20v-5h5"/>',
 };
 
 export function icon(name) {
