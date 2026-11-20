@@ -1,0 +1,92 @@
+/* ---------- Bao the carabao ---------- */
+.bao { display: inline-block; flex: none; position: relative; }
+.bao-svg { width: 100%; height: 100%; overflow: visible; }
+.bao-shadow { fill: var(--line); }
+.bao-torso, .bao-skin { fill: #2f6fd1; }
+.leg-back, .arm, .ear ellipse, .nostril { fill: #1b3a6b; }
+.bao-belly { fill: #4a86df; }
+.horn { fill: #f3ead8; stroke: #1b3a6b; stroke-width: 2.5; }
+.muzzle { fill: #f3ead8; }
+.tuft { fill: none; stroke: #1b3a6b; stroke-width: 5; stroke-linecap: round; }
+.cheek { fill: #f2b7a8; opacity: .75; }
+.sclera { fill: #fff; stroke: #1b3a6b; stroke-width: 2.5; }
+.pupil circle { fill: #0c1f3d; } .pupil .glint { fill: #fff; }
+.brow { fill: none; stroke: #1b3a6b; stroke-width: 3; stroke-linecap: round; opacity: 0; }
+.eyes-happy path { fill: none; stroke: #0c1f3d; stroke-width: 5; stroke-linecap: round; }
+.mouth { fill: none; stroke: #0c1f3d; stroke-width: 3; stroke-linecap: round; }
+.m-grin { fill: #0c1f3d; stroke-width: 2; }
+.pencil rect { fill: #d64545; } .pencil-tip { fill: #f3ead8; } .pencil-lead { fill: #0c1f3d; }
+.x-q { font: 700 30px var(--font-display); fill: #2f6fd1; }
+.x-sweat { fill: #85b7eb; }
+.x-spark path { fill: #f3c74a; }
+
+/* parts that only some moods show */
+.eyes-happy, .m-grin, .m-hmm, .m-oops, .x-q, .x-sweat, .x-spark { opacity: 0; transition: opacity .18s; }
+.eyes-open, .m-smile { transition: opacity .18s; }
+.pupil, .bao-head, .arm, .ear, .bao-body { transition: transform .35s cubic-bezier(.34,1.56,.64,1); transform-box: fill-box; }
+.bao-head { transform-origin: 50% 85%; }
+.arm { transform-origin: 50% 10%; }
+.ear-l { transform-origin: 100% 50%; } .ear-r { transform-origin: 0% 50%; }
+
+/* idle: blink, breathe, ear flick */
+.bao .eye { transform-box: fill-box; transform-origin: center; animation: bao-blink 4.2s infinite; }
+.bao[data-mood="idle"] .bao-body { animation: bao-breathe 3.2s ease-in-out infinite; }
+.bao[data-mood="idle"] .ear-l { animation: bao-flick 5s ease-in-out infinite; }
+
+/* thinking: eyes up and to the side, head tilt, question mark */
+.bao[data-mood="thinking"] .pupil { transform: translate(3px, -3px); }
+.bao[data-mood="thinking"] .bao-head { transform: rotate(-7deg); }
+.bao[data-mood="thinking"] .m-smile { opacity: 0; } .bao[data-mood="thinking"] .m-hmm { opacity: 1; }
+.bao[data-mood="thinking"] .x-q { opacity: 1; animation: bao-float 1.6s ease-in-out infinite; }
+.bao[data-mood="thinking"] .brow-r { opacity: 1; }
+
+/* happy: closed-eye smile, a hop */
+.bao[data-mood="happy"] .eyes-open, .bao[data-mood="celebrate"] .eyes-open { opacity: 0; }
+.bao[data-mood="happy"] .eyes-happy, .bao[data-mood="celebrate"] .eyes-happy { opacity: 1; }
+.bao[data-mood="happy"] .m-smile, .bao[data-mood="celebrate"] .m-smile { opacity: 0; }
+.bao[data-mood="happy"] .m-grin, .bao[data-mood="celebrate"] .m-grin { opacity: 1; }
+.bao[data-mood="happy"] .bao-body { animation: bao-hop .55s cubic-bezier(.3,1.6,.5,1) 1; }
+
+/* oops: look down, ears droop, sweat drop */
+.bao[data-mood="oops"] .pupil { transform: translate(-2px, 3px); }
+.bao[data-mood="oops"] .m-smile { opacity: 0; } .bao[data-mood="oops"] .m-oops { opacity: 1; }
+.bao[data-mood="oops"] .x-sweat { opacity: 1; animation: bao-drip 1.4s ease-in 1; }
+.bao[data-mood="oops"] .ear-l { transform: rotate(-22deg); } .bao[data-mood="oops"] .ear-r { transform: rotate(22deg); }
+.bao[data-mood="oops"] .bao-head { animation: bao-shake .4s 1; }
+.bao[data-mood="oops"] .brow { opacity: 1; }
+
+/* celebrate: front legs up, sparkles, repeated hops */
+.bao[data-mood="celebrate"] .arm-l { transform: translate(-6px, -26px) rotate(150deg); }
+.bao[data-mood="celebrate"] .arm-r { transform: translate(6px, -26px) rotate(-150deg); }
+.bao[data-mood="celebrate"] .x-spark { opacity: 1; animation: bao-twinkle .9s ease-in-out infinite alternate; }
+.bao[data-mood="celebrate"] .bao-body { animation: bao-hop .8s cubic-bezier(.3,1.6,.5,1) 3; }
+
+@keyframes bao-blink { 0%, 94%, 100% { transform: scaleY(1); } 97% { transform: scaleY(.08); } }
+@keyframes bao-breathe { 50% { transform: translateY(-2px) scale(1.01); } }
+@keyframes bao-flick { 0%, 85%, 100% { transform: rotate(0); } 90% { transform: rotate(-16deg); } }
+@keyframes bao-hop { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-14px); } 70% { transform: translateY(0) scaleY(.96); } }
+@keyframes bao-float { 50% { transform: translateY(-4px); } }
+@keyframes bao-drip { from { transform: translateY(-6px); } to { transform: translateY(4px); } }
+@keyframes bao-shake { 25% { transform: rotate(4deg); } 75% { transform: rotate(-4deg); } }
+@keyframes bao-twinkle { from { transform: scale(.85); opacity: .7; } to { transform: scale(1.1); opacity: 1; } }
+
+/* speech bubble */
+.bao-says { display: flex; align-items: center; gap: 12px; }
+.bao-says.bubble-left { flex-direction: row-reverse; }
+.bao-bubble {
+  position: relative; background: var(--surface); border: 1.5px solid var(--line); color: var(--ink);
+  padding: 10px 14px; border-radius: 14px; font-weight: 700; max-width: 260px; line-height: 1.35;
+}
+.bubble-right .bao-bubble::before { content: ''; position: absolute; left: -8px; top: 50%; width: 14px; height: 14px; background: inherit; border-left: 1.5px solid var(--line); border-bottom: 1.5px solid var(--line); transform: translateY(-50%) rotate(45deg); }
+.bubble-left .bao-bubble::before { content: ''; position: absolute; right: -8px; top: 50%; width: 14px; height: 14px; background: inherit; border-right: 1.5px solid var(--line); border-top: 1.5px solid var(--line); transform: translateY(-50%) rotate(45deg); }
+.bao-bubble.pop { animation: bubble-pop .35s cubic-bezier(.34,1.56,.64,1); }
+@keyframes bubble-pop { from { transform: scale(.85); opacity: 0; } }
+
+/* ---------- shared motion pieces ---------- */
+.xp-float { position: fixed; z-index: 50; pointer-events: none; font: 700 18px var(--font-display); color: var(--good); text-shadow: 0 1px 0 var(--surface); white-space: nowrap; }
+.confetti { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 5; }
+.confetti i { position: absolute; top: 40%; width: 9px; height: 13px; border-radius: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .bao *, .bao-bubble { animation: none !important; transition: none !important; }
+}
