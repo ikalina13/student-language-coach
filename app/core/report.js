@@ -49,7 +49,9 @@ function renderReportHTML({ user, stats, date }) {
     <div class="tile"><b>${stats.quizzesTaken}</b><span>quizzes completed</span></div>
     <div class="tile"><b>${stats.sentencesDone}</b><span>of ${stats.totalSentences} sentences practiced</span></div>
   </div>
-  <div class="tiles" style="grid-template-columns:1fr 1fr;margin-top:10px">
+  <div class="tiles" style="margin-top:10px">
+    <div class="tile"><b>${(stats.xp || 0).toLocaleString('en-US')}</b><span>XP earned</span></div>
+    <div class="tile"><b>${stats.streak || 0}</b><span>${stats.streak || 0}-day streak</span></div>
     <div class="tile"><b>${stats.averageScore}%</b><span>average quiz score</span></div>
     <div class="tile"><b>${stats.bestScore}%</b><span>best quiz score</span></div>
   </div>

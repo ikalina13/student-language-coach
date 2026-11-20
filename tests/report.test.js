@@ -32,3 +32,10 @@ test('report carries the Student Language Coach name', () => {
   assert.ok(html.includes('Student Language Coach'));
   assert.ok(!/Salita/.test(html));
 });
+
+test('report shows XP and the day streak', () => {
+  const html = renderReportHTML({ user: { displayName: 'A', username: 'a', grade: 4 }, stats: { ...stats, xp: 1234, streak: 5 }, date: new Date() });
+  assert.ok(html.includes('1,234'));
+  assert.ok(html.includes('XP earned'));
+  assert.ok(html.includes('5-day streak'));
+});
