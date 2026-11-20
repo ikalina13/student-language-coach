@@ -2,13 +2,37 @@
 const CATEGORY_IDS = ['school', 'family', 'food', 'animals', 'places', 'feelings', 'actions', 'common'];
 const LEVEL_IDS = ['beginner', 'intermediate', 'advanced'];
 
+const XP = { word: 2, sentence: 5, story: 30, quizAnswer: 10, perfectQuiz: 20 };
+
 const defaults = () => ({
   learnedWords: [],
   completedStories: [],
   sentencesDone: [],
   quizzes: [],
+  xp: 0,
+  activeDays: [],
+  xpAwarded: [],
   settings: { mode: 'light', accent: 'blue', level: null },
 });
+
+const pad = (n) => String(n).padStart(2, '0');
+// The student's local calendar day, e.g. "2026-11-20".
+function dayKey(date = new Date()) {
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+}
+const shiftDay = (key, by) => {
+  const [y, m, d] = key.split('-').map(Number);
+  return dayKey(new Date(y, m - 1, d + by));
+};
+
+// Consecutive active days ending today — or ending yesterday, if today isn't active yet.
+function streakFrom(activeDays, today = dayKey()) {
+  const days = new Set(activeDays);
+  let cursor = days.has(today) ? today : shiftDay(today, -1);
+  let n = 0;
+  while (days.has(cursor)) { n++; cursor = shiftDay(cursor, -1); }
+  return n;
+}
 
 function createProgress(store, username) {
   const file = `progress/${username}.json`;
@@ -23,14 +47,33 @@ function createProgress(store, username) {
       completedStories: list('completedStories'),
       sentencesDone: list('sentencesDone'),
       quizzes: list('quizzes').filter((q) => q && typeof q === 'object'),
+      xp: Number.isFinite(saved.xp) && saved.xp > 0 ? Math.floor(saved.xp) : 0,
+      activeDays: list('activeDays').filter((x) => typeof x === 'string'),
+      xpAwarded: list('xpAwarded').filter((x) => typeof x === 'string'),
       settings: { ...d.settings, ...settings },
     };
   }
   const save = (p) => store.writeJSON(file, p);
 
-  function addOnce(key, id) {
+  function gain(p, amount) {
+    if (amount <= 0) return 0;
+    p.xp += amount;
+    const today = dayKey();
+    if (!p.activeDays.includes(today)) p.activeDays.push(today);
+    return amount;
+  }
+  // XP that can only be earned once per item (e.g. "w:food-b-001").
+  function gainOnce(p, awardId, amount) {
+    if (p.xpAwarded.includes(awardId)) return 0;
+    p.xpAwarded.push(awardId);
+    return gain(p, amount);
+  }
+  function addOnce(key, id, awardId, amount) {
     const p = get();
-    if (!p[key].includes(id)) { p[key].push(id); save(p); }
+    if (!p[key].includes(id)) p[key].push(id);
+    const xpGained = gainOnce(p, awardId, amount);
+    save(p);
+    return { xpGained };
   }
 
   return {
@@ -39,15 +82,18 @@ function createProgress(store, username) {
       const p = get();
       const has = p.learnedWords.includes(wordId);
       p.learnedWords = has ? p.learnedWords.filter((w) => w !== wordId) : [...p.learnedWords, wordId];
+      const xpGained = has ? 0 : gainOnce(p, `w:${wordId}`, XP.word);
       save(p);
-      return !has;
+      return { learned: !has, xpGained };
     },
-    completeStory: (id) => addOnce('completedStories', id),
-    markSentence: (id) => addOnce('sentencesDone', id),
+    completeStory: (id) => addOnce('completedStories', id, `st:${id}`, XP.story),
+    markSentence: (id) => addOnce('sentencesDone', id, `s:${id}`, XP.sentence),
     recordQuiz({ category, level, score, total }) {
       const p = get();
       p.quizzes.push({ date: new Date().toISOString(), category, level, score, total });
+      const xpGained = gain(p, score * XP.quizAnswer + (total > 0 && score === total ? XP.perfectQuiz : 0));
       save(p);
+      return { xpGained };
     },
     setSettings(partial) {
       const p = get();
@@ -86,7 +132,10 @@ function computeStats(progress, content) {
     byCategory: tally('category', CATEGORY_IDS),
     byLevel: tally('level', LEVEL_IDS),
     recentQuizzes: quizzes.slice(-10).reverse().map((q) => ({ ...q, percent: pct(q) })),
+    xp: progress.xp || 0,
+    streak: streakFrom(progress.activeDays || []),
+    activeToday: (progress.activeDays || []).includes(dayKey()),
   };
 }
 
-module.exports = { createProgress, computeStats, CATEGORY_IDS, LEVEL_IDS };
+module.exports = { createProgress, computeStats, streakFrom, dayKey, XP, CATEGORY_IDS, LEVEL_IDS };

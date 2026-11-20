@@ -16,7 +16,7 @@ export function wordCard(w, ctx, { big = false } = {}) {
       learnBtn));
 
   learnBtn.addEventListener('click', async () => {
-    const now = await ctx.api.progress.toggleLearned(w.id);
+    const { learned: now } = await ctx.api.progress.toggleLearned(w.id);
     ctx.progress.learnedWords = now ? [...ctx.progress.learnedWords, w.id] : ctx.progress.learnedWords.filter((x) => x !== w.id);
     learnBtn.setAttribute('aria-pressed', String(now));
     learnBtn.lastChild.textContent = now ? 'Learned' : 'Mark learned';
