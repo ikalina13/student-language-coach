@@ -80,3 +80,42 @@ export function searchWords(words, { query = '', category = '', level = '' } = {
     .filter((w) => !q || norm(w.word).includes(q) || norm(w.filipino).includes(q))
     .sort((a, b) => a.word.localeCompare(b.word));
 }
+
+const byId = (a, b) => String(a.id).localeCompare(String(b.id));
+
+// Sentence Practice runs in sets of 10 per level.
+export function sentenceSets(sentences, level, size = 10) {
+  const list = sentences.filter((s) => s.level === level).sort(byId);
+  const sets = [];
+  for (let i = 0; i < list.length; i += size) sets.push({ index: sets.length, items: list.slice(i, i + size) });
+  return sets;
+}
+
+// Study mode: words you haven't learned come first.
+export function studyDeck(words, learnedIds, { category, level }) {
+  const learned = new Set(learnedIds);
+  const pool = words.filter((w) => w.category === category && w.level === level).sort(byId);
+  return [...pool.filter((w) => !learned.has(w.id)), ...pool.filter((w) => learned.has(w.id))];
+}
+
+// What the home screen suggests doing next at the student's level.
+export function nextUp(progress, content, level) {
+  const done = new Set(progress.sentencesDone);
+  const set = sentenceSets(content.sentences, level).find((s) => s.items.some((x) => !done.has(x.id)));
+  if (set) return { kind: 'sentences', label: `Sentence set ${set.index + 1}`, route: `sentences/${level}/${set.index}` };
+
+  const story = content.stories.filter((s) => s.level === level).sort(byId).find((s) => !progress.completedStories.includes(s.id));
+  if (story) return { kind: 'story', label: story.title, route: `stories/${story.id}` };
+
+  const learned = new Set(progress.learnedWords);
+  let best = null;
+  for (const c of CATEGORIES) {
+    const pool = content.words.filter((w) => w.category === c.id && w.level === level);
+    if (!pool.length) continue;
+    const n = pool.filter((w) => learned.has(w.id)).length;
+    if (!best || n < best.n) best = { c, n };
+  }
+  return best
+    ? { kind: 'quiz', label: `${best.c.label} quiz`, route: `quiz/${best.c.id}/${level}` }
+    : { kind: 'quiz', label: 'Vocabulary quiz', route: 'quiz' };
+}

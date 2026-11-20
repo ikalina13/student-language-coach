@@ -64,3 +64,43 @@ test('empty query with category filter returns only that category sorted', () =>
   const r = C.searchWords(words, { query: '', category: 'school' });
   assert.deepStrictEqual(r.map((w) => w.id), ['school-0', 'school-1']);
 });
+
+const sent = (n, level = 'beginner') => Array.from({ length: n }, (_, i) => ({ id: `s${level[0]}${String(i + 1).padStart(2, '0')}`, level }));
+
+test('sentenceSets splits a level into sets of 10 with a smaller last set', () => {
+  const sets = C.sentenceSets([...sent(23), ...sent(5, 'advanced')], 'beginner');
+  assert.deepStrictEqual(sets.map((s) => s.items.length), [10, 10, 3]);
+  assert.deepStrictEqual(sets.map((s) => s.index), [0, 1, 2]);
+  assert.strictEqual(sets[2].items[0].id, 'sb21');
+});
+
+test('studyDeck puts unlearned words first, each group in id order', () => {
+  const words = mk(5);
+  const deck = C.studyDeck(words, ['food-1', 'food-3'], { category: 'food', level: 'beginner' });
+  assert.deepStrictEqual(deck.map((w) => w.id), ['food-0', 'food-2', 'food-4', 'food-1', 'food-3']);
+});
+
+const content = () => ({
+  words: [...mk(4, 'food'), ...mk(4, 'school')],
+  stories: [{ id: 'b1', level: 'beginner', title: 'One' }, { id: 'b2', level: 'beginner', title: 'Two' }],
+  sentences: sent(12),
+});
+const prog = (o = {}) => ({ learnedWords: [], completedStories: [], sentencesDone: [], ...o });
+
+test('nextUp suggests the first sentence set with unpractised sentences', () => {
+  const doneFirst10 = sent(10).map((s) => s.id);
+  const n = C.nextUp(prog({ sentencesDone: doneFirst10 }), content(), 'beginner');
+  assert.strictEqual(n.kind, 'sentences');
+  assert.strictEqual(n.route, 'sentences/beginner/1');
+});
+
+test('nextUp suggests the first unread story once sentences are done', () => {
+  const n = C.nextUp(prog({ sentencesDone: sent(12).map((s) => s.id), completedStories: ['b1'] }), content(), 'beginner');
+  assert.deepStrictEqual([n.kind, n.route], ['story', 'stories/b2']);
+});
+
+test('nextUp falls back to a quiz on the category with the fewest learned words', () => {
+  const n = C.nextUp(prog({ sentencesDone: sent(12).map((s) => s.id), completedStories: ['b1', 'b2'], learnedWords: ['food-0', 'food-1'] }), content(), 'beginner');
+  assert.strictEqual(n.kind, 'quiz');
+  assert.strictEqual(n.route, 'quiz/school/beginner');
+});
