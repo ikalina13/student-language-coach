@@ -1,6 +1,6 @@
-# Salita
+# Student Language Coach
 
-**Learn English words, one card at a time.** Salita is a free, offline Windows app that helps Filipino students in Grades 4–10 learn English vocabulary.
+**Learn English words, one card at a time.** Student Language Coach is a free, offline Windows app that helps Filipino students in Grades 4–10 learn English vocabulary.
 
 - **Basic Words** — 768 word cards in 8 categories (School, Family, Food, Animals, Places, Feelings, Actions, Common Words) × 3 levels (Beginner, Intermediate, Advanced). Each card has the English word, a pronunciation guide, the Filipino meaning and an example sentence. A *Listen* button reads the word aloud.
 - **Stories** — 9 short stories (3 per level) with comprehension questions.
@@ -8,7 +8,10 @@
 - **Vocabulary Quiz** — 10 multiple-choice questions per round, scores saved.
 - **Daily Word**, **Mini Dictionary**, **Progress Tracker**, and a **printable PDF report**.
 - **Accounts on the computer** — username + password, several students per PC. No internet, no database server.
-- **Themes** — light or dark, in blue, red, green, purple or orange.
+- **Bao the carabao** — the mascot cheers students on and reacts to every answer.
+- **XP and daily streak** — +10 XP per correct quiz answer (+20 for a perfect quiz), +30 for finishing a story, +5 per sentence, +2 per word learned. Practising any day keeps the streak going.
+- **Game-like practice** — chunky answer buttons, Check, a feedback bar with the right answer, and a celebration after every quiz, story and sentence set. Keys 1–4 pick an answer, Enter checks.
+- **Themes** — light or dark, in blue, red, green, purple or orange. All animations switch off when Windows' "Show animations" setting is off.
 
 The project has two parts:
 
@@ -23,23 +26,23 @@ The project has two parts:
 
 You need a free GitHub account and Git installed. All of this is free.
 
-1. **Create the repository.** On github.com click **New repository**, name it `salita`, set it to **Public**, and don't add a README. Click **Create repository**.
-2. **Set your repo name in the website.** Open `site/config.js` and change `OWNER/salita` to your username, e.g. `juandelacruz/salita`.
+1. **Create the repository.** On github.com click **New repository**, name it `student-language-coach`, set it to **Public**, and don't add a README. Click **Create repository**.
+2. **Set your repo name in the website.** Open `site/config.js` and change `OWNER/student-language-coach` to your username, e.g. `juandelacruz/student-language-coach`.
 3. **Upload the code.** In a terminal, inside this folder:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/salita.git
+   git remote add origin https://github.com/YOUR-USERNAME/student-language-coach.git
    git add -A
    git commit -m "Set my repo name"
    git push -u origin main
    ```
-4. **Turn on the website.** On GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then go to the **Actions** tab, open **Deploy download page**, and click **Run workflow**. After a minute your site is live at `https://YOUR-USERNAME.github.io/salita/`.
+4. **Turn on the website.** On GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then go to the **Actions** tab, open **Deploy download page**, and click **Run workflow**. After a minute your site is live at `https://YOUR-USERNAME.github.io/student-language-coach/`.
 5. **Build the Windows installer.** Create a version tag and push it:
    ```bash
    git tag v1.0.0
    git push origin v1.0.0
    ```
-   The **Release Windows app** workflow builds `Salita-Setup.exe` on GitHub's Windows computers (about 5–10 minutes) and attaches it to a new Release. The website's **Download for Windows** button always points to the newest release.
+   The **Release Windows app** workflow builds `Student-Language-Coach-Setup.exe` on GitHub's Windows computers (about 5–10 minutes) and attaches it to a new Release. The website's **Download for Windows** button always points to the newest release.
 
 To release an update later: change the code, bump `"version"` in `package.json` (e.g. `1.0.1`), commit, push, then `git tag v1.0.1 && git push origin v1.0.1`.
 
@@ -50,23 +53,23 @@ To release an update later: change the code, bump `"version"` in `package.json` 
 ## Where student data is saved
 
 Everything is saved as small files on the student's computer, in
-`%APPDATA%\Salita\` (paste that into File Explorer's address bar):
+`%APPDATA%\Student Language Coach\` (paste that into File Explorer's address bar):
 
 | File | Contents |
 |---|---|
 | `users.json` | Accounts. Passwords are scrambled (scrypt hash), never stored as typed. |
-| `progress\<username>.json` | That student's learned words, stories, sentences, quiz scores and theme. |
+| `progress\<username>.json` | That student's learned words, stories, sentences, quiz scores, XP, active days (for the streak) and theme. |
 | `prefs.json` | Last used theme and username, for the login screen. |
 
-The folder is created automatically the first time Salita runs on a new computer, so there's nothing to set up. Uninstalling Salita keeps this folder, so progress isn't lost.
+The folder is created automatically the first time Student Language Coach runs on a new computer, so there's nothing to set up. Uninstalling Student Language Coach keeps this folder, so progress isn't lost.
 
 **Forgot a password?** There's no reset (there's no internet account to reset). To remove that account:
 
-1. Close Salita and make a copy of `users.json` first, just in case.
+1. Close Student Language Coach and make a copy of `users.json` first, just in case.
 2. Open `users.json` in Notepad. Delete that student's whole `{ … }` block, including the comma before or after it, so the commas between the remaining blocks stay correct.
 3. Delete their file in `progress\`. They can now create the account again.
 
-If the file gets damaged by mistake, Salita won't crash. It renames the damaged file to `users.json.<number>.bak` and starts with no accounts. To undo, close Salita, delete the new `users.json`, and rename your copy (or the `.bak` file, once fixed) back to `users.json`.
+If the file gets damaged by mistake, Student Language Coach won't crash. It renames the damaged file to `users.json.<number>.bak` and starts with no accounts. To undo, close Student Language Coach, delete the new `users.json`, and rename your copy (or the `.bak` file, once fixed) back to `users.json`.
 
 **Moving to a different computer?** Progress stays on the original PC. Export the PDF report from **My Progress** before switching.
 
