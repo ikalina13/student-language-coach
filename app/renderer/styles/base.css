@@ -48,4 +48,3 @@ a { color: var(--accent); }
 .page-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; margin-bottom: 26px; flex-wrap: wrap; }
 .page-head p { color: var(--ink-soft); margin-top: 6px; max-width: 60ch; }
 .page:focus { outline: none; }
-.brand:not(.big) { flex-direction: column; gap: 2px; }

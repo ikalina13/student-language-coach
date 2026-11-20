@@ -1,5 +1,6 @@
 // Log in / create account screen.
 import { h } from '../lib/dom.js';
+import { baoSays } from '../lib/bao.js';
 
 export function authView(ctx, mode, done) {
   const { api } = ctx;
@@ -38,13 +39,13 @@ export function authView(ctx, mode, done) {
 
   return h('div.auth',
     h('section.auth-intro',
-      h('div.brand.big', 'Student Language Coach'),
-      h('p.lede', 'Learn English words, one card at a time.'),
-      h('div.card.auth-card',
-        h('div.row', h('span.word', 'happy'), h('span.lvl.beginner', 'Beginner')),
-        h('div.pron', 'HAP-ee'),
-        h('div.fil', 'masaya'),
-        h('div.ex', 'Lola is happy when we visit on Sunday.'))),
+      h('div.auth-brand', h('span.brand-mark', 'SLC'), h('span', 'Student Language Coach')),
+      h('h2.lede', 'Learn English words, one card at a time.'),
+      baoSays(isSignup ? 'Kumusta! I’m Bao. Let’s set up your account.' : 'Welcome back! I’m Bao, your study buddy.', 'happy', { size: 150 }),
+      h('ul.auth-points',
+        h('li', 'Word cards with Filipino meanings'),
+        h('li', 'Quizzes, stories and sentence practice'),
+        h('li', 'Earn XP and keep a daily streak'))),
     h('section.auth-form',
       h('h1', isSignup ? 'Create your account' : 'Welcome back'),
       h('p.muted', { style: { margin: '6px 0 22px' } }, isSignup ? 'Your account and progress stay on this computer.' : 'Log in to continue where you left off.'),

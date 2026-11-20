@@ -1,5 +1,6 @@
 // Starts the app: loads content, applies the theme, and shows the right screen.
 import { h, icon } from './lib/dom.js';
+import { enter, countUp, pop } from './lib/motion.js';
 import { authView } from './views/auth.js';
 import { dashboardView } from './views/dashboard.js';
 import { wordsView } from './views/words.js';
@@ -52,19 +53,42 @@ async function render() {
   const page = h('main.page', { tabindex: '-1' });
   const link = (n) => h('a', { href: `#/${n.route}`, 'aria-current': n === current ? 'page' : null }, icon(n.icon), n.label);
 
+  const streakNum = h('b');
+  const xpNum = h('b');
+  const streakChip = h('a.hchip.streak', { href: '#/progress', title: 'Day streak' }, icon('flame'), streakNum, h('span', 'day streak'));
+  const xpChip = h('a.hchip.xp', { href: '#/progress', title: 'Total XP' }, icon('star'), xpNum, h('span', 'XP'));
+  const header = h('header.topbar', h('div.topbar-inner', streakChip, xpChip));
+
+  let shown = null;
+  ctx.refreshHeader = async (given) => {
+    const stats = given || await api.progress.stats();
+    streakChip.classList.toggle('lit', stats.activeToday);
+    streakNum.textContent = stats.streak;
+    if (shown && stats.xp > shown.xp) { countUp(xpNum, stats.xp, { from: shown.xp, duration: 700 }); pop(xpChip); }
+    else xpNum.textContent = stats.xp.toLocaleString('en-US');
+    if (shown && stats.streak > shown.streak) pop(streakChip);
+    shown = stats;
+  };
+
   root.replaceChildren(h('div.frame',
     h('aside.sidebar',
-      h('div.brand', 'Student Language Coach', h('small', 'English para sa lahat')),
+      h('a.brand', { href: '#/dashboard', 'aria-label': 'Student Language Coach home' },
+        h('span.brand-mark', 'SLC'),
+        h('span.brand-name', 'Student Language Coach', h('small', 'English para sa lahat'))),
       h('nav.nav', NAV.map(link), h('div.nav-gap'), EXTRA.map(link),
         h('a', { href: '#', onclick: async (e) => { e.preventDefault(); await api.auth.logout(); location.hash = '#/login'; render(); } }, icon('logout'), 'Log out')),
-      h('div.me', h('b', ctx.user.displayName), `Grade ${ctx.user.grade}`)),
-    page));
+      h('div.me', h('span.avatar', initials(ctx.user.displayName)), h('div', h('b', ctx.user.displayName), `Grade ${ctx.user.grade}`))),
+    h('div.main-col', header, page)));
+  await ctx.refreshHeader();
 
   const inner = h('div.page-inner');
   page.append(inner);
   await current.view(inner, ctx, rest);
+  enter(inner);
   page.focus({ preventScroll: true });
 }
+
+const initials = (name) => name.split(/\s+/).filter(Boolean).slice(0, 2).map((p) => p[0].toUpperCase()).join('');
 
 window.addEventListener('hashchange', render);
 
