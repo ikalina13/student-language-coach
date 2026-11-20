@@ -40,7 +40,8 @@ export function quizView(el, ctx, [catArg, levelArg]) {
         answer: q.answer,
         explain: `${w.word} · ${w.pronunciation} — ${w.example}`,
         mascot,
-        onResult: (ok) => { if (ok) score++; return ok ? 10 : 0; },
+        // Quiz XP is saved when the quiz ends, so nothing floats up mid-quiz.
+        onResult: (ok) => { if (ok) score++; return 0; },
         continueLabel: i + 1 < questions.length ? 'Continue' : 'See my score',
       });
       stage.replaceChildren(flow.el);

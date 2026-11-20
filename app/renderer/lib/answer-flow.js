@@ -46,7 +46,8 @@ export function answerFlow({ prompt, options, answer, explain, mascot, onResult,
   }
 
   async function submit() {
-    if (phase === 'answered') return finish();
+    // A quick second Enter must not skip the feedback before the student has seen it.
+    if (phase === 'answered') { if (performance.now() - answeredAt >= (reduced() ? 0 : 400)) finish(); return; }
     if (phase !== 'choosing') return;
     if (selected < 0) { err.textContent = 'Pick an answer first.'; shake(check); return; }
     phase = 'checking';
@@ -75,6 +76,7 @@ export function answerFlow({ prompt, options, answer, explain, mascot, onResult,
     requestAnimationFrame(() => sheet.classList.add('up'));
     onReveal?.(correct);
     phase = 'answered';
+    answeredAt = performance.now();
     check.hidden = true;
     // Let the slide finish before Enter can skip ahead, so a held key doesn't skip the feedback.
     setTimeout(() => cont.focus({ preventScroll: true }), reduced() ? 0 : 250);
@@ -82,6 +84,7 @@ export function answerFlow({ prompt, options, answer, explain, mascot, onResult,
   }
 
   let lastResult = null;
+  let answeredAt = 0;
   function finish() {
     if (phase !== 'answered') return;
     phase = 'finished';
@@ -93,6 +96,9 @@ export function answerFlow({ prompt, options, answer, explain, mascot, onResult,
   function onKey(e) {
     if (!el.isConnected) { document.removeEventListener('keydown', onKey); return; }
     if (e.repeat) return;
+    const t = e.target;
+    const elsewhere = t instanceof Element && t.closest('a, button, input, select, textarea') && !t.closest('.choice, .af-check, .af-continue');
+    if (e.key === 'Enter' && elsewhere) return;
     const k = KEYS.indexOf(e.key);
     if (k >= 0 && k < options.length) { e.preventDefault(); choose(k); }
     else if (e.key === 'Enter') { e.preventDefault(); submit(); }

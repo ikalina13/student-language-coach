@@ -58,6 +58,7 @@ export function sentencesView(el, ctx, [levelArg, setArg]) {
           const { xpGained } = await ctx.api.progress.markSentence(s.id);
           if (!ctx.progress.sentencesDone.includes(s.id)) ctx.progress.sentencesDone.push(s.id);
           xp += xpGained;
+          if (xpGained) ctx.refreshHeader?.();
           return xpGained;
         },
         continueLabel: i + 1 < set.items.length ? 'Continue' : 'Finish set',
